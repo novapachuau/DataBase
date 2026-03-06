@@ -1,0 +1,840 @@
+[
+  {
+    "skin_name": "Backup",
+    "name": "Harley",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20231231170336",
+    "script": "https://github.com/zetsuya05/january/raw/main/harley_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Harley",
+    "skin_name": "Dream Caster",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb=20220525165207",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Harley",
+    "skin_name": "Great Inventor",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest?cb=20220525165205",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_greatinventor.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Harley",
+    "skin_name": "Referee",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero424-portrait.png/revision/latest?cb=20220525165204",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_referee.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Harley",
+    "skin_name": "Pulsar Prodigy",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero428-portrait.png/revision/latest?cb=20220915122657",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_starcaster.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Harley",
+    "skin_name": "Royal Magister",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest?cb=20220525165203",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_royal.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Harley",
+    "skin_name": "V.E.N.O.M. Octopus",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero426-portrait.png/revision/latest?cb=20220525165207",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_venom.zip",
+    "tag": "V.E.N.O.M"
+  },
+  {
+    "name": "Harley",
+    "skin_name": "Dreaming Koi",
+    "image": "https://github.com/zetsuya05/january/raw/main/harley_newstarlightimage.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/harley_newstarlight.zip",
+    "tag": "NewStarlight"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20240605132522",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/alice_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Wizardy Teacher",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest?cb=20220525164350",
+    "script": "https://github.com/tin0521/mge/raw/main/alice_wizardry.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Divine Owl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero044-portrait.png/revision/latest?cb=20220525164350",
+    "script": "https://github.com/tin0521/mge/raw/main/alice_divine.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Steam Glider",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest?cb=20220525164352",
+    "script": "https://github.com/tin0521/mge/raw/main/alice_steam.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Darknet Temptress",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest?cb=20240619180019",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/alice_epicrevamped.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Jade Empress",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_143946383.png",
+    "script": "https://github.com/tin0521/mge/raw/main/alice_s29.zip",
+    "tag": "S29"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Chip",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240321084340",
+    "script": "https://github.com/tin0521/supp/raw/main/chip_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "skin_name": "Badlands Hiatus",
+    "name": "Chip",
+    "image": "https://pbs.twimg.com/media/GS5qtaIb0AE6Vym?format=jpg&name=large",
+    "script": "https://github.com/tin0521/supp/raw/main/chip_badlands.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20240501104511",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Twisted Fairytale",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest?cb=20240326141745",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_zenith.zip",
+    "tag": "Zenith"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "The Sun Empress",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest?cb=20230917045309",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Sanguine Rose",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero383-portrait.png/revision/latest?cb=20220714134505",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_sanguine.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Circus Magician",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest?cb=20221103134615",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_circus.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Daybreak Halo",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/vexana.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/vexana_daybreak.zip",
+    "tag": "Aspirants"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Cursed Shackle",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_154532602.png",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_s12.zip",
+    "tag": "S12"
+  },
+  {
+    "name": "Zhask",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png/revision/latest?cb=20240112141505",
+    "script": "https://github.com/tin0521/mge/raw/main/zhask_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Zhask",
+    "skin_name": "Cancer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "script": "https://github.com/tin0521/mge/raw/main/zhask_zodiac.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Zhask",
+    "skin_name": "Bone Flamen",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
+    "script": "https://github.com/tin0521/mge/raw/main/zhask_bone.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Zhask",
+    "skin_name": "Extraterrestrial",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero505-portrait.png/revision/latest?cb=20220525165329",
+    "script": "https://github.com/tin0521/mge/raw/main/zhask_extraterrestrial.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Zhask",
+    "skin_name": "Death's Shadow",
+    "image": "https://pbs.twimg.com/media/GWtJo2KaUAA377X?format=jpg&name=large",
+    "script": "https://github.com/tin0521/mge/raw/main/zhask_starlight.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png/revision/latest?cb=20240122082105",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Empress Phoenix",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Neon Shingetsu",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest?cb=20230917045337",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_neon.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Hierophant",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_msc.zip",
+    "tag": "MSC 2022"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Samba Muse",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero527-portrait.png/revision/latest?cb=20220525165346",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_samba.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Peony Bloom",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_peony.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Neobeast Pharsa",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_neobeast.zip",
+    "tag": "Neobeast"
+  },
+  {
+    "name": "Valir",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero571-portrait.png/revision/latest?cb=20240501080033",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Valir",
+    "skin_name": "Kyo Kusanagi",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest?cb=20250106155738",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_kof.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Valir",
+    "skin_name": "Draconic Flame",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest?cb=20220525165500",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_draconic.zip",
+    "tag": "Dragon Tamer"
+  },
+  {
+    "name": "Valir",
+    "skin_name": "Demonlord",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Valir",
+    "skin_name": "Phoenix Ikki",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest?cb=20220915121951",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_phoenix.zip",
+    "tag": "Saint Seiya"
+  },
+  {
+    "name": "Valir",
+    "skin_name": "Leo Ikki",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_leo.zip",
+    "tag": "Saint Seiya"
+  },
+  {
+    "name": "Valir",
+    "skin_name": "Infernal Blaze",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Valir",
+    "skin_name": "Dictator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_dictator.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Valir",
+    "skin_name": "Shikigami Summoner",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+    "script": "https://github.com/tin0521/mge/raw/main/valir_shikigami.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero611-portrait.png/revision/latest?cb=20240121134835",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Tech Tensai",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest?cb=20240130070359",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_aspirant.zip",
+    "tag": "Aspirants"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Vine Cradle",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero617-portrait.png/revision/latest?cb=20220525165545",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_vine.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "New Moon",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero619-portrait.png/revision/latest?cb=20221216103139",
+    "script": "https://github.com/tin0521/2026/raw/refs/heads/main/changE_lunarfest.zip",
+    "tag": "Lunarfest"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Lunar Magic",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest?cb=20220525165543",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_lunarmagic.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Strawberry Parfait",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero616-portrait.png/revision/latest?cb=20220525165544",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_strawberry.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Moon Artist",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest?cb=20220525165546",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_sanrio.zip",
+    "tag": "Sanrio Characters"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Floral Elfo",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero614-portrait.png/revision/latest?cb=20240121135031",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_floral.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero661-portrait.png/revision/latest?cb=20240501074947",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Supernal Tempest",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest?cb=20220525165650",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Keeper of the Winds",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest?cb=20230317102031",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_keeper.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Blizzard Storm",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest?cb=20220525165647",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_dawning.zip",
+    "tag": "Dawning Stars"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Soaring Devata",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest?cb=20220525165649",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_soaring.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Concerto of Light",
+    "image": "https://i.pinimg.com/736x/74/53/56/745356dd32d90afc96febf2e279bd42e.jpg",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_concerto.zip",
+    "tag": "Annual Starlight"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Gaara",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest?cb=20250411101445",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_gaara.zip",
+    "tag": "Naruto Shippuden"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20220525165705",
+    "script": "https://github.com/zetsuya05/january/raw/main/lunox_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Butterfly Seraphim",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+    "script": "https://github.com/zetsuya05/january/raw/main/lunox_luckybox-revamped.zip",
+    "tag": "Luckybox"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Dawn Revelation",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest?cb=20220525165720",
+    "script": "https://github.com/tin0521/mge/raw/main/lunox_dawnrevelation.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Eyes of Eternity",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero687-portrait.png/revision/latest?cb=20220525165719",
+    "script": "https://github.com/tin0521/mge/raw/main/lunox_eyes.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Divine Goddess",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+    "script": "https://github.com/tin0521/mge/raw/main/lunox_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Libra",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20230917050312",
+    "script": "https://github.com/tin0521/mge/raw/main/lunox_zodiac.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Quantum Polarity",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/lunox.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/lunox_mpl.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Ash Blossom",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_181259207.png",
+    "script": "https://github.com/tin0521/mge/raw/main/lunox_ashblossom.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero731-portrait.png/revision/latest?cb=20240111124620",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Stardust",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest?cb=20220525165755",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_stardust.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Lightborn - Inspirer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest?cb=20220525165757",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_lightborn.zip",
+    "tag": "Lightborn"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "EVOS Legends",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest?cb=20220525165758",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_evos.zip",
+    "tag": "Champion"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Killua",
+    "image": "https://i.imgur.com/J9fpoZr.png",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_killua.zip",
+    "tag": "HxH"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Psychic",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest?cb=20240604141807",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero738-portrait.png/revision/latest?cb=20240114132704",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Fashion Expert",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero734-portrait.png/revision/latest?cb=20220525165756",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_515.zip",
+    "tag": "515"
+  },
+  {
+    "name": "Kadita",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png/revision/latest?cb=20240121134111",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/kadita_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Kadita",
+    "skin_name": "Heart of the Sea",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest?cb=20240619172453",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/kadita_create.zip",
+    "tag": "Create"
+  },
+  {
+    "name": "Kadita",
+    "skin_name": "Hydromancer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest?cb=20230805043909",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/kadita_mpl.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Kadita",
+    "skin_name": "White Robin",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest?cb=20240121134301",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/kadita_white.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Kadita",
+    "skin_name": "Maiden of the Tide",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/kadita_maiden.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Lylia",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png/revision/latest?cb=20220525170038",
+    "script": "https://github.com/tin0521/mge/raw/main/lylia_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Lylia",
+    "skin_name": "Haunted Doll",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb=20220525170051",
+    "script": "https://github.com/tin0521/mge/raw/main/lylia_halloween.zip",
+    "tag": "Halloween"
+  },
+  {
+    "name": "Lylia",
+    "skin_name": "Neobeast Lylia",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb=20230805043912",
+    "script": "https://github.com/tin0521/mge/raw/main/lylia_neobeast.zip",
+    "tag": "Neobeast"
+  },
+  {
+    "name": "Lylia",
+    "skin_name": "Magitech Arsenal",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_183428060.png",
+    "script": "https://github.com/tin0521/mge/raw/main/lylia_futurestar.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Lylia",
+    "skin_name": "Future Star",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero867-portrait.png/revision/latest?cb=20240401090131",
+    "script": "https://github.com/tin0521/mge/raw/main/lylia_magitech.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Cecilion",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest?cb=20220525171232",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cecillion_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Cecilion",
+    "skin_name": "Vessel of Gluttony",
+    "image": "https://github.com/tin0521/January_2026/blob/main/cecilion%20soul.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Ceciliom_Def_SoulVessel.zip",
+    "tag": "Soul Vessel"
+  },
+  {
+    "name": "Cecilion",
+    "skin_name": "Crimson Wings",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+    "script": "https://github.com/tin0521/mge/raw/main/cecilion_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Cecilion",
+    "skin_name": "The Illusionist",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero913-portrait.png/revision/latest?cb=20220525170200",
+    "script": "https://github.com/tin0521/mge/raw/main/cecilion_theillusion.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Cecilion",
+    "skin_name": "Stargazer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero915-portrait.png/revision/latest?cb=20220525170202",
+    "script": "https://github.com/tin0521/mge/raw/main/cecilion_stargazer.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Cecilion",
+    "skin_name": "Phantom Count",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero914-portrait.png/revision/latest?cb=20220525170201",
+    "script": "https://github.com/tin0521/mge/raw/main/cecilion_phantom.zip",
+    "tag": "Valentine"
+  },
+  {
+    "name": "Cecilion",
+    "skin_name": "Hisoka",
+    "image": "https://i.imgur.com/K2zTrYN.png",
+    "script": "https://github.com/tin0521/mge/raw/main/cecilion_hisoka.zip",
+    "tag": "HxH"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest?cb=20240501052651",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/louyi_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Elysium Guardian",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest?cb=20220628180005",
+    "script": "https://github.com/tin0521/mge/raw/main/louyi_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Oracle of Sol",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest?cb=20230514163426",
+    "script": "https://github.com/tin0521/mge/raw/main/louyi_oracle.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Dawning Fortune",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest?cb=20221111133616",
+    "script": "https://github.com/tin0521/mge/raw/main/louyi_lunarfest.zip",
+    "tag": "Lunarfest"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Siren Priestess",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero965-portrait.png/revision/latest?cb=20220525170248",
+    "script": "https://github.com/tin0521/mge/raw/main/louyi_siren.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Starborne Matron",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb=20250619142204",
+    "script": "https://github.com/tin0521/mge/raw/main/louyi_create.zip",
+    "tag": "Create"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Lady Dragon",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251006_194627179.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/louyi_epic.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Yve",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20240621104939",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yve_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Yve",
+    "skin_name": "Flame Lotus",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251026_164251247.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yve_starlight.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Yve",
+    "skin_name": "Ruin Protectress",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yve_forest.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1101-portrait.png/revision/latest?cb=20220525171648",
+    "script": "https://github.com/tin0521/mge/raw/main/valentina_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Celestial Judicator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest?cb=20240114153957",
+    "script": "https://github.com/tin0521/mge/raw/main/valentina_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Dark Nexus",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest?cb=20240619180532",
+    "script": "https://github.com/tin0521/mge/raw/main/valentina_msc.zip",
+    "tag": "MSC"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Cyber Agent",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest?cb=20230212035444",
+    "script": "https://github.com/tin0521/mge/raw/main/valentina_cyber.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Grand Gala",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/valentina.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/valentina_gala.zip",
+    "tag": "S38"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Archmagister",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_190746867.png",
+    "script": "https://github.com/tin0521/mge/raw/main/valentina_archmagister.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Xavier",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20220525172250",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/xavier_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Xavier",
+    "skin_name": "Beyond the Clouds Xavier",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb=20230805043928",
+    "script": "https://github.com/tin0521/mge/raw/main/xavier_clouds.zip",
+    "tag": "Clouds"
+  },
+  {
+    "name": "Xavier",
+    "skin_name": "Satoru Gojo",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb=20230212035449",
+    "script": "https://github.com/tin0521/mge/raw/main/xavier_jujutsu.zip",
+    "tag": "Jujutsu Kaisen"
+  },
+  {
+    "name": "Xavier",
+    "skin_name": "Hardlight Artificer",
+    "image": "https://github.com/Maharlikoders/random-files/raw/main/11514.jpg",
+    "script": "https://github.com/tin0521/mge/raw/main/xavier_hardlight.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Xavier",
+    "skin_name": "Sunbord Monarch",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251026_163207278.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/xavier_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Novaria",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20240616052213",
+    "script": "https://github.com/tin0521/mge/raw/main/novaria_backup.zip",
+    "tag": "Backup",
+    "role": "Mage"
+  },
+  {
+    "name": "Novaria",
+    "skin_name": "Sugar Glaze",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero1193-portrait.png/revision/latest?cb=20240129102653",
+    "script": "https://github.com/tin0521/mge/raw/main/novaria_sugarglaze.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Novaria",
+    "skin_name": "Dragonsworn",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1194-portrait.png/revision/latest?cb=20240923124141",
+    "script": "https://github.com/tin0521/mge/raw/main/novaria_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Novaria",
+    "skin_name": "Lunar Scion",
+    "image": "https://github.com/zetsuya05/january/raw/main/novaria_specialimage.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/novaria_special.zip",
+    "tag": "Special"
+  }
+]

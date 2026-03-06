@@ -1,0 +1,390 @@
+[
+  {
+    "skin_name": "Backup",
+    "name": "Suyou",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20241021140902",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/suyou_backup.zip",
+    "tag": "Backup",
+    "role": "Support"
+  },
+  {
+    "name": "Suyou",
+    "skin_name": "Sasuke",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest?cb=20250411101450",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/suyou_sasuke.zip",
+    "tag": "Naruto Shippuden"
+  },
+  {
+    "name": "Suyou",
+    "skin_name": "Venerated Vigilance",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_141611094.png",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/suyou_venerated.zip",
+    "tag": "Basic"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20240605145920",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_backup.zip",
+    "tag": "Backup",
+    "role": "Support"
+  },
+  {
+    "skin_name": "S.A.B.E.R. Savior",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero145-portrait.png/revision/latest?cb=20220525164616",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_saber.zip",
+    "tag": "S.A.B.E.R"
+  },
+  {
+    "skin_name": "Angelic Sonata",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest?cb=20220525164620",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "skin_name": "Seraphic Selfie",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero148-portrait.png/revision/latest?cb=20230316133649",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_AS.zip",
+    "tag": "Allstars"
+  },
+  {
+    "skin_name": "Biomedic",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero144-portrait.png/revision/latest?cb=20220525164614",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_biomedic.zip",
+    "tag": "MPL"
+  },
+  {
+    "skin_name": "Flower Fairy",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest?cb=20220525164613",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_flower.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Bloom of Abundance",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest?cb=20241201052808",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_lunarfest.zip",
+    "tag": "Lunarfest"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20240501095928",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_backup.zip",
+    "tag": "Backup",
+    "role": "Support"
+  },
+  {
+    "skin_name": "Blacklist International",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_blacklist.zip",
+    "tag": "Champion"
+  },
+  {
+    "skin_name": "Rattan Dragon",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero346-portrait.png/revision/latest?cb=20220525165046",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_dragontimer.zip",
+    "tag": "Dragon Tamer"
+  },
+  {
+    "skin_name": "Galaxy Dominator",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero343-portrait.png/revision/latest?cb=20230212041009",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_galaxy.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "SPARKLE Estes",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero348-portrait.png/revision/latest?cb=20240416015757",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_sparkle.zip",
+    "tag": "Sparkle"
+  },
+  {
+    "skin_name": "Crow Bishop",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero345-portrait.png/revision/latest?cb=20220525165045",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_crowbishop.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "Moon Elf King (Chinese Version)",
+    "name": "Estes",
+    "image": "https://alicdn.web.moontonapp.com/web/svnres/file/mlbb-cn/website-test/100_29d42ae1df50cb2ef4a3e4c23557bdec.jpg",
+    "script": "https://github.com/injector-origin/mobile-legends-script/raw/main/temp/zh-341.zip",
+    "tag": "Chinese Version"
+  },
+  {
+    "skin_name": "Arcane Magistrate",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero348-portrait.png/revision/latest?cb=20241123130839",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_arcane.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Diggie",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png/revision/latest?cb=20240112141634",
+    "script": "https://github.com/tin0521/supp/raw/main/diggie_backup.zip",
+    "tag": "Backup",
+    "role": "Support"
+  },
+  {
+    "skin_name": "Fairytaler",
+    "name": "Diggie",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero485-portrait.png/revision/latest?cb=20220525165305",
+    "script": "https://github.com/tin0521/supp/raw/main/diggie_fairytaler.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Constellation",
+    "name": "Diggie",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero483-portrait.png/revision/latest?cb=20220525165303",
+    "script": "https://github.com/tin0521/supp/raw/main/diggie_constellation.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest?cb=20240501135306",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_backup.zip",
+    "tag": "Backup",
+    "role": "Support"
+  },
+  {
+    "skin_name": "Shanghai Maiden",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest?cb=20220525165432",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_shanghai.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "Scream Doll",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero555-portrait.png/revision/latest?cb=20220525165434",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_scream.zip",
+    "tag": "Halloween"
+  },
+  {
+    "skin_name": "V.E.N.O.M. Vespid",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero554-portrait.png/revision/latest?cb=20220525165433",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_venom.zip",
+    "tag": "V.E.N.O.M"
+  },
+  {
+    "skin_name": "Summer Vibes",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero556-portrait.png/revision/latest?cb=20220525165435",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "skin_name": "Floral Elf",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest?cb=20220525165436",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "skin_name": "Heartstring",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest?cb=20220525165437",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_sanrio.zip",
+    "tag": "Sanrio Characters"
+  },
+  {
+    "skin_name": "Cyber Cherubin",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest?cb=20221103134616",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_aspirant.zip",
+    "tag": "Aspirants"
+  },
+  {
+    "skin_name": "Avatar of Time",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png/revision/latest?cb=20240114125211",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_avatar.zip",
+    "tag": "Annual Starlight"
+  },
+  {
+    "skin_name": "Strings of Fate",
+    "name": "Angela",
+    "image": "https://i.pinimg.com/736x/86/14/64/86146405831b37b460e3886fd473425f.jpg",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_kishin.zip",
+    "tag": "Kishin Densetsu"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Kaja",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero621-portrait.png/revision/latest?cb=20220525165548",
+    "script": "https://github.com/tin0521/ff/raw/main/kaja_backup.zip",
+    "tag": "Backup",
+    "role": "Support"
+  },
+  {
+    "skin_name": "Inferno Taskmaster",
+    "name": "Kaja",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest?cb=20230917045317",
+    "script": "https://github.com/tin0521/ff/raw/main/kaja_inferno.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Skyblocker",
+    "name": "Kaja",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest?cb=20220525165553",
+    "script": "https://github.com/tin0521/ff/raw/main/kaja_skyblocker.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Kaminari",
+    "name": "Kaja",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_175750346.png",
+    "script": "https://github.com/tin0521/ff/raw/main/kaja_kaminari.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "Crow Magician",
+    "name": "Kaja",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_175750307.png",
+    "script": "https://github.com/tin0521/ff/raw/main/kaja_s20.zip",
+    "tag": "S20"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Faramis",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png/revision/latest?cb=20240501101543",
+    "script": "https://github.com/tin0521/supp/raw/main/faramis_backup.zip",
+    "tag": "Backup",
+    "role": "Support"
+  },
+  {
+    "skin_name": "Royal Magus",
+    "name": "Faramis",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero763-portrait.png/revision/latest?cb=20220908164012",
+    "script": "https://github.com/tin0521/supp/raw/main/faramis_royal.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Infernal Magister",
+    "name": "Faramis",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero765-portrait.png/revision/latest?cb=20240114134522",
+    "script": "https://github.com/tin0521/supp/raw/main/faramis_mythic.zip",
+    "tag": "Mythic"
+  },
+  {
+    "skin_name": "Summer Sparks",
+    "name": "Faramis",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest?cb=20230623125804",
+    "script": "https://github.com/tin0521/supp/raw/main/faramis_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Carmilla",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest?cb=20220525171356",
+    "script": "https://github.com/tin0521/supp/raw/main/carmilla_backup.zip",
+    "tag": "Backup",
+    "role": "Support"
+  },
+  {
+    "skin_name": "Magician Girl",
+    "name": "Carmilla",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero923-portrait.png/revision/latest?cb=20220525170212",
+    "script": "https://github.com/tin0521/supp/raw/main/carmilla_magician.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Phantom Countess",
+    "name": "Carmilla",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero924-portrait.png/revision/latest?cb=20220525170213",
+    "script": "https://github.com/tin0521/supp/raw/main/carmilla_phantom.zip",
+    "tag": "Valentine"
+  },
+  {
+    "skin_name": "Astral Arcana",
+    "name": "Carmilla",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241021_173029385.png",
+    "script": "https://github.com/tin0521/tank/raw/main/carmilla_epic.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Mathilda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1021-portrait.png/revision/latest?cb=20220525171504",
+    "script": "https://github.com/tin0521/supp/raw/refs/heads/main/mathilda_backup.zip",
+    "tag": "Backup",
+    "role": "Support"
+  },
+  {
+    "skin_name": "Dream Groove",
+    "name": "Mathilda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero1024-portrait.png/revision/latest?cb=20220525170347",
+    "script": "https://github.com/tin0521/supp/raw/refs/heads/main/mathilda_mpl.zip",
+    "tag": "MPL"
+  },
+  {
+    "skin_name": "Floral Crown",
+    "name": "Mathilda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero1023-portrait.png/revision/latest?cb=20220525170346",
+    "script": "https://github.com/tin0521/supp/raw/refs/heads/main/mathilda_floral.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Dreambound Pixie",
+    "name": "Mathilda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero1026-portrait.png/revision/latest?cb=20250109154335",
+    "script": "https://github.com/tin0521/supp/raw/refs/heads/main/mathilda_dreambound.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Floryn",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535",
+    "script": "https://github.com/tin0521/supp/raw/main/floryn_backup.zip",
+    "tag": "Backup",
+    "role": "Support"
+  },
+  {
+    "name": "Floryn",
+    "skin_name": "Arrow of Spring",
+    "image": "https://github.com/tin0521/January_2026/blob/main/floryn%20ethernal.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn_def_eternal.zip",
+    "tag": "Eternal Season"
+  },
+  {
+    "skin_name": "Fluffy Dream",
+    "name": "Floryn",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest?cb=20220525170548",
+    "script": "https://github.com/tin0521/supp/raw/main/floryn_sanrio.zip",
+    "tag": "Sanrio Characters"
+  },
+  {
+    "skin_name": "Yatai Waitress",
+    "name": "Floryn",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero1125-portrait.png/revision/latest?cb=20240619173600",
+    "script": "https://github.com/tin0521/supp/raw/main/floryn_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "skin_name": "Melody of Light",
+    "name": "Floryn",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1126-portrait.png/revision/latest?cb=20250109154338",
+    "script": "https://github.com/tin0521/supp/raw/main/floryn_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "skin_name": "Paw Power",
+    "name": "Floryn",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest?cb=20230212035445",
+    "script": "https://github.com/tin0521/supp/raw/main/floryn_pawpower.zip",
+    "tag": "Elite"
+  }
+]

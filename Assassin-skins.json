@@ -1,0 +1,798 @@
+[
+  {
+    "skin_name": "Backup",
+    "name": "Saber",
+    "image": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/Saber_Default_image.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_backup.zip",
+    "role": "Assassin"
+  },
+  {
+    "name": "Saber",
+    "skin_name": "Force Warrior",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241012_215208293.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_forcewarrior.zip"
+  },
+  {
+    "name": "Saber",
+    "skin_name": "Codename - Storm",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_codename.zip"
+  },
+  {
+    "name": "Saber",
+    "skin_name": "S.A.B.E.R. Regulator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero036-portrait.png/revision/latest?cb=20220525164332",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_regulator.zip",
+    "tag": "S.A.B.E.R"
+  },
+  {
+    "name": "Saber",
+    "skin_name": "Iron Hound",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero039-portrait.png/revision/latest?cb=20221216103121",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_ironhound.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Saber",
+    "skin_name": "Onimaru",
+    "image": "https://pbs.twimg.com/media/GWtJJdvaYAAbPit?format=jpg",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_onimaruluckybox.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Karina",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20240605133151",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Karina",
+    "skin_name": "Doom Duelist",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_doomduelist.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Karina",
+    "skin_name": "Leona",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_leona.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Karina",
+    "skin_name": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest?cb=20220525164456",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Karina",
+    "skin_name": "Gemini - Halo",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb=20230514163400",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_gemini.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Karina",
+    "skin_name": "Spider Lily",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb=20220525164458",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_spiderlily.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Fanny",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Galactic Starhawk",
+    "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Lifeguard",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Mikasa",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb=20240127074733",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_mikasa.zip",
+    "tag": "Attack on Titan"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Skylark",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb=20220525164704",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_skylark.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Lightborn - Ranger",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_lightborn.zip",
+    "tag": "Lightborn"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Blade of Kibou",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_aspirant.zip",
+    "tag": "Aspirants"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Heart Afloat",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb=20230212035453",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_heartafloat.zip",
+    "tag": "Valentine"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Campus Youth",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest?cb=20220525164702",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_campusyouth.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Royal Cavalry",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest?cb=20220525164705",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_royalcavalry.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "P.ACE",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/fanny.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/fanny_pace.zip",
+    "tag": "Anniversary"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Hayabusa",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Hayabusa",
+    "skin_name": "Shura",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_shura.zip",
+    "tag": "11.11"
+  },
+  {
+    "name": "Hayabusa",
+    "skin_name": "Experiment 21",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb=20220525164754",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_experiment.zip",
+    "tag": "Annual Starlight"
+  },
+  {
+    "name": "Hayabusa",
+    "skin_name": "Shadow of Obscurity",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_shadow.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Hayabusa",
+    "skin_name": "Exorcist Hayabusa",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest?cb=20240520070715",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_exorcist.zip",
+    "tag": "Exorcists"
+  },
+  {
+    "name": "Hayabusa",
+    "skin_name": "Kakashi Hatake",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb=20250411101503",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_kakashi.zip",
+    "tag": "Naruto Shippuden"
+  },
+  {
+    "name": "Hayabusa",
+    "skin_name": "Biological Weapon",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_140707955.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_biological.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Hayabusa",
+    "skin_name": "Sushi Master",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_140707995.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_sushimaster.zip",
+    "tag": "Summer"
+  },
+  {
+    "name": "Hayabusa",
+    "skin_name": "Future Enforcer",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_140708007.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_futureenforcer.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Hayabusa",
+    "skin_name": "Techie Ninja",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_140707930.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_techieninja.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Natalia",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb=20240121131843",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Natalia",
+    "skin_name": "Cyber Spectre",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb=20220525164836",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_cyber.zip",
+    "tag": "Create"
+  },
+  {
+    "name": "Natalia",
+    "skin_name": "Grim Strangler",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero246-portrait.png/revision/latest?cb=20220525164835",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_grim.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Natalia",
+    "skin_name": "Soul Huntress",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/natalia%20port.jpeg",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_newepic.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Natalia",
+    "skin_name": "Warrioress Paragon",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_141304261.png",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Natalia",
+    "skin_name": "Phantom Dancer",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241111_164642472.png",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_phantom.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Natalia",
+    "skin_name": "Midnight Raven",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_141304303.png",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_midnight.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Lancelot",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
+    "script": "https://github.com/zetsuya05/january/raw/main/lancelot_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Blade of Devotion",
+    "image": "https://github.com/tin0521/January_2026/blob/main/lancelot%20valentine.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip",
+    "tag": "Valentines"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Bren. Esports",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_bren.zip",
+    "tag": "Champion"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Empyrean Flame",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_emperyean.zip",
+    "tag": "Dragon Tamer"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Floral Knight",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb=20220525165250",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_floralknight.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Royal Matador",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb=20220525165247",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_royalmatador.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Swordmaster",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_swordmaster.zip",
+    "tag": "Dawning Stars"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Pisces",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_pisces.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Guardian of the Shrine",
+    "image": "https://i.pinimg.com/736x/76/9e/9c/769e9c5f7294e060050fd62f7e1f059e.jpg",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_guardian.zip",
+    "tag": "Kishin Densetsu"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Dark Earl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest?cb=20220525165248",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_darkearl.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Helcurt",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/helcurt_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Helcurt",
+    "skin_name": "Ice Scythe",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest?cb=20220525165334",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/helcurt_icescythe.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Helcurt",
+    "skin_name": "Evolved Predator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest?cb=20220525165335",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/helcurt_evolvepredator.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Helcurt",
+    "skin_name": "Dream Prowler",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero516-portrait.png/revision/latest?cb=20240604030306",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/helcurt_dreampowler.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Helcurt",
+    "skin_name": "Scorpio",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb=20230917050311",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/helcurt_scorpio.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Gusion",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20240611065025",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Gusion",
+    "skin_name": "Soul Revelation",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_soulrevelation.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Gusion",
+    "skin_name": "Dangerous Liaison",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb=20220915121902",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_dangerousliaison.zip",
+    "tag": "Valentine"
+  },
+  {
+    "name": "Gusion",
+    "skin_name": "V.E.N.O.M. Emperor Scorpion",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb=20220525165448",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_venom.zip",
+    "tag": "V.E.N.O.M"
+  },
+  {
+    "name": "Gusion",
+    "skin_name": "K'",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_kof.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Gusion",
+    "skin_name": "Cosmic Gleam",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_cosmicgleam.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Gusion",
+    "skin_name": "Night Owl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_nightowl.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Gusion",
+    "skin_name": "Dimension Walker",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_dimensionwalker.zip",
+    "tag": "11.11"
+  },
+  {
+    "name": "Gusion",
+    "skin_name": "Desert Spider",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest?cb=20240619171236",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_desertspider.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Gusion",
+    "skin_name": "Cyber Ops",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241012_164412402.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_cyberops.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Gusion",
+    "skin_name": "Hairstylist",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241012_164412415.png",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_hairstylist.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Selena",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20240122041957",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Selena",
+    "skin_name": "Lady Vengeance",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb=20220525165610",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_abyss.zip",
+    "tag": "Abyss"
+  },
+  {
+    "name": "Selena",
+    "skin_name": "Thunder Flash",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest?cb=20220525165607",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_luckybox.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Selena",
+    "skin_name": "Virus",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest?cb=20220525165604",
+    "script": "hhttps://github.com/tin0521/mge/raw/refs/heads/main/selena_virus.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Selena",
+    "skin_name": "Double Identity",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest?cb=20220525165606",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_double.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Selena",
+    "skin_name": "S.T.U.N. Selena",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest?cb=20220525165609",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_stun.zip",
+    "tag": "S.T.U.N"
+  },
+  {
+    "name": "Selena",
+    "skin_name": "Gemini - Shadow",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20230514163409",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_zodiac.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Selena",
+    "skin_name": "Gothic Curse",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest?cb=20220525165608",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_ghotic.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Selena",
+    "skin_name": "Upcoming Skin",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241110_230420636.png",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_wraith.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Selena",
+    "skin_name": "Curse of Cinders",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest?cb=20250109163106",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_zenith.zip",
+    "tag": "Zenith"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Hanzo",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20240112141926",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hanzo_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Hanzo",
+    "skin_name": "Undead King",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest?cb=20220525165726",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hanzo_undeadking.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Hanzo",
+    "skin_name": "Insidous Tutor",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hanzo_insidious.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Hanzo",
+    "skin_name": "Soulfire Netherlord",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hanzo_%28Soulfire_Netherlord%29.jpg/revision/latest?cb=20250411100227",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hanzo_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Ling",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20240621034004",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Ling",
+    "skin_name": "Serene Plume",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_sereneplume.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Ling",
+    "skin_name": "Night Shade",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_nightshade.zip",
+    "tag": "Dragon Tamer"
+  },
+  {
+    "name": "Ling",
+    "skin_name": "Lord Shen",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb=20220804115337",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_lordshen.zip",
+    "tag": "Kung Fu Panda"
+  },
+  {
+    "name": "Ling",
+    "skin_name": "Street Punk",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_streetpunk.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Ling",
+    "skin_name": "Cosmo Guard",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_cosmoguard.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Ling",
+    "skin_name": "M-World Ling",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb=20220525170021",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_mworld.zip",
+    "tag": "MWorld"
+  },
+  {
+    "name": "Ling",
+    "skin_name": "Neobeast Ling",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest?cb=20250320125043",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_neobeast.zip",
+    "tag": "Neobeast"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Benedetta",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Vessel of Pride",
+    "image": "https://github.com/tin0521/January_2026/blob/main/benedetta%20soul.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip",
+    "tag": "Soul Vessel"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Death Oath",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb=20220525170255",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_deathaoth.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Panigale V4S Rider",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_ducati.zip",
+    "tag": "Ducati"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Quantum Edge",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest?cb=20240314065930",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_quantumedge.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Moonblade",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest?cb=20220525170256",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_moonblade.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Street Blow",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest?cb=20220525170254",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_street.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Phantom Mirage",
+    "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format=jpg",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_covenant.zip",
+    "tag": "Covenant"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Aamon",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Aamon",
+    "skin_name": "Cyber Assassin",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb=20221216103151",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_cyberassassin.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Aamon",
+    "skin_name": "Vessel of Deceit",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest?cb=20240619172936",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_vessel.zip",
+    "tag": "Vessel of Deceit"
+  },
+  {
+    "name": "Aamon",
+    "skin_name": "Soul Reaver",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/aamon.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/aamon_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Joy",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20240501100807",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/joy_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Joy",
+    "skin_name": "Royal Protector",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1184-portrait.png/revision/latest?cb=20240114155034",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/joy_royalprotector.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Joy",
+    "skin_name": "Feline Ranger",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest?cb=20221021123853",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/joy_felineranger.zip",
+    "tag": "Basic"
+  },
+  {
+    "name": "Joy",
+    "skin_name": "Exostar Scout",
+    "image": "https://pbs.twimg.com/media/GlbnhLxbwAESFzD?format=jpg",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/joy_exostarscout.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Joy",
+    "skin_name": "ONIC PH",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/GyYu9aQboAAokod.jpg_large.jpg",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/joy_fmvp.zip",
+    "tag": "FMVP"
+  },
+  {
+    "skin_name": "Backup",
+    "name": "Nolan",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20231224180931",
+    "script": "https://github.com/zetsuya05/january/raw/main/nolan_backup.zip",
+    "tag": "Backup",
+    "role": "Assassin"
+  },
+  {
+    "name": "Nolan",
+    "skin_name": "Fashion Mogul",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest?cb=20240502082224",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/nolan_fashionmogul.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Nolan",
+    "skin_name": "Voidwalker",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest?cb=20231227085831",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/nolan_voidwalker.zip",
+    "tag": "Basic"
+  },
+  {
+    "name": "Nolan",
+    "skin_name": "The Navigator",
+    "image": "https://i.pinimg.com/736x/44/65/8d/44658ddc5580cd03d75fc88aa6032fe4.jpg",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/nolan_thenavigator.zip",
+    "tag": "11.11"
+  },
+  {
+    "name": "Nolan",
+    "skin_name": "Spectral Strider",
+    "image": "https://github.com/zetsuya05/january/raw/main/nolan_epicimages.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/nolan_epic.zip",
+    "tag": "Epic"
+  }
+]
