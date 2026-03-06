@@ -1,0 +1,2655 @@
+{
+  "Wanwan": {
+    "Replacements": {
+      "-OY6ryqDVdN1VMr0_R1Z": {
+        "img1": "https://i.supaimg.com/6bf8e267-262b-43ef-bcfe-3648c0612923.png",
+        "name1": "Agile Tiger",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-OYPEmN2XbJhJfepKF95": "https://www.dropbox.com/scl/fi/401wm9mtbaah743zf9grm/Wanwan-Collector-Default.zip?rlkey=u828mfmvg32x9sa718v01gqwb&st=z5rc15k5&dl=1",
+          "-OYPEmN3sFokU3LDUNY8": "https://www.dropbox.com/scl/fi/ims9shhaudbpojkpv1f82/Wanwan-M-World-Default.zip?rlkey=ym6d59csk5z4bqzl7lhul3jt5&st=j58gw8jw&dl=1",
+          "-OYPEmN3sFokU3LDUNY9": "https://www.dropbox.com/scl/fi/yrmxuvlxkqm5fffxr3jjx/Wanwan-11.11-Default.zip?rlkey=8206344fd55j0i84nodhbd26z&st=qfbgadef&dl=1",
+          "-OYPEmN3sFokU3LDUNYA": "https://www.dropbox.com/scl/fi/5y2ybu69rd2k92j1pvv48/Wanwan-Summer-Default.zip?rlkey=99oppfeje6i7rz4mt35ypuzkl&st=p817l5c6&dl=1",
+          "-OYPEmN3sFokU3LDUNYB": "unavailable",
+          "-OYPEmN3sFokU3LDUNYC": "unavailable",
+          "-OYPEmN3sFokU3LDUNYD": "unavailable"
+        }
+      },
+      "-OY6s1Le2Ry23kz1b-xr": {
+        "img1": "https://i.supaimg.com/e6d6cd80-eca5-4c3a-bbe7-ac64b10d2a1b.png",
+        "name1": "Darting Star",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-OYPCMBSrlqjXp0TP75h": "https://www.dropbox.com/scl/fi/7vbkcmwz8b39lcivomwnx/Wanwan-Collector-Basic.zip?rlkey=ysjagrufl6mtmzpbbcpvmeunc&st=jaec6k1i&dl=1",
+          "-OYPCMBTTfCDLnu6BD-h": "https://www.dropbox.com/scl/fi/s85n8rx3bka3zes22kefm/Wanwan-M-World-Basic.zip?rlkey=upr484yhprngasln9gwucv28b&st=cphh76yn&dl=1",
+          "-OYPCMBTTfCDLnu6BD-i": "https://www.dropbox.com/scl/fi/o95nfwzxdghccmb3z9m17/Wanwan-11.11-Basic.zip?rlkey=sakkn7j6anynggniacovrqybe&st=tipjpq8d&dl=1",
+          "-OYPCMBTTfCDLnu6BD-j": "https://www.dropbox.com/scl/fi/b48ybmps4pmjdr8epyky4/Wanwan-Summer-Basic.zip?rlkey=4p663xmeae3qd6zp0gd5e3j1p&st=l1lxt793&dl=1",
+          "-OYPCMBTTfCDLnu6BD-k": "unavailable",
+          "-OYPCMBU-Poi0DLzFb8H": "unavailable",
+          "-OYPCMBU-Poi0DLzFb8I": "unavailable"
+        }
+      },
+      "-OY6s4voHkivF0CI43o-": {
+        "img1": "https://i.supaimg.com/2228653c-ed70-4eac-9f09-edfaf0aaaa40.png",
+        "name1": "Shoujo Commander",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-OYPCO8maet7PhLdmCjo": "https://www.dropbox.com/scl/fi/8zwpzcfk3qrq0g26h6cjy/Wanwan-Collector-Elite.zip?rlkey=26zp8i9vkyrjsvjlvcxrxhuv7&st=lehyglzt&dl=1",
+          "-OYPCO8maet7PhLdmCjp": "https://www.dropbox.com/scl/fi/rykv1zpr2bfk2k71mbrjr/Wanwan-M-World-Elite.zip?rlkey=9b2466nciw7cffpzwpx3qqf8n&st=1dfbmrpr&dl=1",
+          "-OYPCO8maet7PhLdmCjq": "https://www.dropbox.com/scl/fi/in8inf2xdm2q7ft27veb5/Wanwan-11.11-Elite.zip?rlkey=ojqq68dk0pm5xwdz96vh35z1v&st=d94eysk8&dl=1",
+          "-OYPCO8maet7PhLdmCjr": "https://www.dropbox.com/scl/fi/mofqjaklrjcrm2p5oi073/Wanwan-Summer-Elite.zip?rlkey=x1ofe5zp5vt5azxta6kjyw1kt&st=68g59rx8&dl=1",
+          "-OYPCO8nKdob3h2wltnE": "unavailable",
+          "-OYPCO8nKdob3h2wltnF": "unavailable",
+          "-OYPCO8nKdob3h2wltnG": "unavailable"
+        }
+      },
+      "-OY6s9Qx2QqurPC9JVcn": {
+        "img1": "https://i.supaimg.com/46bbc214-265d-4f7b-87b8-5d541b4f1225.png",
+        "name1": "Teen Pop",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2020",
+        "type_links": {
+          "-OYPCRUVAS3Z_clQFiXN": "https://www.dropbox.com/scl/fi/z5cztyo5pu52yppqq4tne/Wanwan-Collector-Starlight.zip?rlkey=vmmk5982tor9c178exh19khmb&st=mzhl3z6l&dl=1",
+          "-OYPCRUWh2mgMxtF68D6": "https://www.dropbox.com/scl/fi/g5auw3k3jzz4gyzzepesv/Wanwan-M-World-Starlight.zip?rlkey=qyt0tyjbzow67r09djkxwmguf&st=8asn9d7b&dl=1",
+          "-OYPCRUXla1ZdvfUL_gG": "https://www.dropbox.com/scl/fi/7j7d61ewdhebp9n7mc0lo/Wanwan-11.11-Starlight.zip?rlkey=md244hv1jncu4r5hv9d1on864&st=ifsc3a97&dl=1",
+          "-OYPCRUXla1ZdvfUL_gH": "https://www.dropbox.com/scl/fi/ovgzai6s80a79srb6qp99/Wanwan-Summer-Starlight.zip?rlkey=l125t53pp9creeno52xwjjnzf&st=ctna8427&dl=1",
+          "-OYPCRUXla1ZdvfUL_gI": "unavailable",
+          "-OYPCRUXla1ZdvfUL_gJ": "unavailable",
+          "-OYPCRUXla1ZdvfUL_gK": "unavailable"
+        }
+      },
+      "-OY6sEXHRkkPr1Qo73MI": {
+        "img1": "https://i.supaimg.com/04f74910-2277-4835-915a-c6aff2390cb0.png",
+        "name1": "Pixel Blast",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-OYPCVrY2yE8El47UVrg": "unavailable",
+          "-OYPCVrY2yE8El47UVrh": "https://www.dropbox.com/scl/fi/jh3r5z7gs9tjclkhmeqii/Wanwan-M-World-Collector.zip?rlkey=fwe4r5ztx0du8cb3ho1l31bv3&st=o1t0j367&dl=1",
+          "-OYPCVrZZSkhilMYJgU3": "https://www.dropbox.com/scl/fi/8in19tlj6k26uwpm4odyo/Wanwan-11.11-Collector.zip?rlkey=nfilbb6ha143xxizb0ix6hc6z&st=n4wriqio&dl=1",
+          "-OYPCVrZZSkhilMYJgU4": "https://www.dropbox.com/scl/fi/36lx6l0tqmf9v4wvjfypw/Wanwan-Summer-Collector.zip?rlkey=9cmhbx21jtcw0ff1kwaa6z4xc&st=sb53azr2&dl=1",
+          "-OYPCVrZZSkhilMYJgU5": "unavailable",
+          "-OYPCVrZZSkhilMYJgU6": "unavailable",
+          "-OYPCVrZZSkhilMYJgU7": "unavailable"
+        }
+      },
+      "-OY6sKyZH6cPs0qUaV_7": {
+        "img1": "https://i.supaimg.com/f04293b7-e5c3-4c0f-9bb2-1676be96c898.png",
+        "name1": "E-girl",
+        "tag1": "https://i.supaimg.com/1005a0ba-8f15-4e15-962c-0d3b51cea3e4.png",
+        "type1": "MPL",
+        "type_links": {
+          "-OYPF0hyCofNhz3oHot9": "https://www.dropbox.com/scl/fi/sotz3yh1qciyoy26o8ehk/Wanwan-Collector-MPL.zip?rlkey=etpiqkpqgzgo7fuy9zth3s2qe&st=dwnu4646&dl=1",
+          "-OYPF0hyCofNhz3oHotA": "https://www.dropbox.com/scl/fi/37hhoddgtavkoe4k2lylu/Wanwan-M-World-MPL.zip?rlkey=nltkastab4dngabtuzpxv56kc&st=agynzrk2&dl=1",
+          "-OYPF0hzpQu31Nr59uAz": "https://www.dropbox.com/scl/fi/hvlkrakradekk6b043pwc/Wanwan-11.11-MPL.zip?rlkey=gjljanidx3qt3i4w6ayyfeb5q&st=1uffzmvz&dl=1",
+          "-OYPF0hzpQu31Nr59uB-": "https://www.dropbox.com/scl/fi/wd3p96mfzhvrv3ox7q8hk/Wanwan-Summer-MPL.zip?rlkey=z9gnowu3xdzr3f80esfnff5b6&st=qorwdgih&dl=1",
+          "-OYPF0hzpQu31Nr59uB0": "unavailable",
+          "-OYPF0hzpQu31Nr59uB1": "unavailable",
+          "-OYPF0hzpQu31Nr59uB2": "unavailable"
+        }
+      },
+      "-OY6sTx74NeH9wyqQeAg": {
+        "img1": "https://i.supaimg.com/416b189a-e32c-4946-9ffd-4f44a07b24c7.png",
+        "name1": "M-World Wanwan",
+        "tag1": "https://i.supaimg.com/2360ff75-dbbd-4bd3-a96d-9d256db88efb.png",
+        "type1": "M-World",
+        "type_links": {
+          "-OYPF5nb4vUU7-Z9A3DI": "https://www.dropbox.com/scl/fi/5fudjbo4j2k9w2bdj3oi0/Wanwan-Collector-M-World.zip?rlkey=gq1kmvnofkxtk1ylm4fxj8ogo&st=ehh8upvj&dl=1",
+          "-OYPF5ncM1kjYYiAFgrk": "unavailable",
+          "-OYPF5ncM1kjYYiAFgrl": "https://www.dropbox.com/scl/fi/irlluny5pmxl555vn9sg3/Wanwan-11.11-M-World.zip?rlkey=wxm7cmiqdx81t9sf5upu73e1v&st=82it3yj4&dl=1",
+          "-OYPF5ncM1kjYYiAFgrm": "https://www.dropbox.com/scl/fi/6wb8cl21l3gjtenvvkli7/Wanwan-Summer-M-World.zip?rlkey=nqip2h9uoad2e6xoueigwnm7e&st=9262h5r0&dl=1",
+          "-OYPF5ncM1kjYYiAFgrn": "unavailable",
+          "-OYPF5ncM1kjYYiAFgro": "unavailable",
+          "-OYPF5ncM1kjYYiAFgrp": "unavailable"
+        }
+      },
+      "-OY6sYe_g8fZQBFXPVky": {
+        "img1": "https://i.supaimg.com/eebe33d5-f460-444c-bb39-bb6b731b547c.png",
+        "name1": "Flying Swallow",
+        "tag1": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
+        "type1": "11.11",
+        "type_links": {
+          "-OYPF95IDwALYB7oI2wZ": "https://www.dropbox.com/scl/fi/8yh7qsucitsfj5r0yn62n/Wanwan-Collector-11.11.zip?rlkey=755kvqmv8jyjli3sd8d96y6pk&st=6pipi3mt&dl=1",
+          "-OYPF95JPScaolZoV0JF": "https://www.dropbox.com/scl/fi/clca8lr8gd88qk240rmh5/Wanwan-M-World-11.11.zip?rlkey=l40kx22g8gu3anl10tb3f053z&st=p8ey53qe&dl=1",
+          "-OYPF95JPScaolZoV0JG": "unavailable",
+          "-OYPF95JPScaolZoV0JH": "https://www.dropbox.com/scl/fi/72ronswur4kl95t2h2zmx/Wanwan-Summer-11.11.zip?rlkey=3wolt7ipl763ccdlmgei8diqa&st=6lequfbe&dl=1",
+          "-OYPF95JPScaolZoV0JI": "unavailable",
+          "-OYPF95JPScaolZoV0JJ": "unavailable",
+          "-OYPF95JPScaolZoV0JK": "unavailable"
+        }
+      },
+      "-OY6scqBXP9OhLzXLtBg": {
+        "img1": "https://i.supaimg.com/c0c9ed11-71a2-43b4-8430-e71b44f8612d.png",
+        "name1": "Summer Splash",
+        "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
+        "type1": "Summer",
+        "type_links": {
+          "-OYPFBpBEqU3pg6jip_s": "unavailable",
+          "-OYPFBpCjvzb0J9cgvVn": "unavailable",
+          "-OYPFBpCjvzb0J9cgvVo": "unavailable",
+          "-OYPFBpCjvzb0J9cgvVp": "unavailable",
+          "-OYPFBpCjvzb0J9cgvVq": "unavailable",
+          "-OYPFBpCjvzb0J9cgvVr": "unavailable",
+          "-OYPFBpCjvzb0J9cgvVs": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-OYPCIPSfXx23Oas6vFf": {
+        "img2": "https://i.supaimg.com/04f74910-2277-4835-915a-c6aff2390cb0.png",
+        "name2": "Pixel Blast",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      },
+      "-OYPCJSBXALEepk0JeKg": {
+        "img2": "https://i.supaimg.com/416b189a-e32c-4946-9ffd-4f44a07b24c7.png",
+        "name2": "M-World Wanwan",
+        "tag2": "https://i.supaimg.com/2360ff75-dbbd-4bd3-a96d-9d256db88efb.png",
+        "type2": "M-World"
+      },
+      "-OYPCJwTAcMl10o_nz0B": {
+        "img2": "https://i.supaimg.com/eebe33d5-f460-444c-bb39-bb6b731b547c.png",
+        "name2": "Flying Swallow",
+        "tag2": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
+        "type2": "11.11"
+      },
+      "-OYPCKY4A69KgP7uY8Bh": {
+        "img2": "https://i.supaimg.com/c0c9ed11-71a2-43b4-8430-e71b44f8612d.png",
+        "name2": "Summer Splash",
+        "tag2": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
+        "type2": "Summer"
+      }
+    },
+    "img": "https://i.supaimg.com/6bf8e267-262b-43ef-bcfe-3648c0612923.png",
+    "name": "Wanwan"
+  },
+  "Layla": {
+    "Replacements": {
+      "-OY6stLuV29JQm9nYqa-": {
+        "img1": "https://i.supaimg.com/9b0ca2c0-da5e-4db0-aaa2-7927ffeb6f7a.png",
+        "name1": "Energy Gunner",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-OYPMHGT8Utl3mcrTXmX": "https://www.dropbox.com/scl/fi/ig30y7lg5n3ttcv7m2jik/Layla-Aspirants-Default.zip?rlkey=9540ond5bz8oa5y2qknd2mgnc&st=yycxh313&dl=1",
+          "-OYPMHGVKZgVuhlhkJq0": "https://www.dropbox.com/scl/fi/iyu61n8o9ujctpkxug1j0/Layla-Legend-Default.zip?rlkey=frc6ypxz409t0wtpnqm8d5at4&st=fogglglr&dl=1",
+          "-OYPMHGVKZgVuhlhkJq1": "https://www.dropbox.com/scl/fi/z1o2z7kfwq9bmelei51s8/Layla-Collector-Default.zip?rlkey=kjjt3x02fil7spewstvws8ojb&st=nycxn9iy&dl=1"
+        }
+      },
+      "-OY6sxaFE090lSCBMEVJ": {
+        "img1": "https://i.supaimg.com/55be7828-029b-49cf-ac95-f3cf4930cb79.png",
+        "name1": "Green Flash",
+        "tag1": "",
+        "type1": "Basic 1",
+        "type_links": {
+          "-OYPMKVd--LoUboemkGM": "https://www.dropbox.com/scl/fi/ul7b4qkej68lb7hgtdkn3/Layla-Aspirants-Basic.zip?rlkey=3xyrwkew9ivfxb4u23r9vfgwv&st=hqex876p&dl=1",
+          "-OYPMKVem2zMKQKWZFgB": "https://www.dropbox.com/scl/fi/ijt8xjbp5jgzekmf3v4i8/Layla-Legend-Basic.zip?rlkey=louaf13fuql82owe58uu9s3ux&st=2tocto6k&dl=1",
+          "-OYPMKVem2zMKQKWZFgC": "https://www.dropbox.com/scl/fi/j9jwqp9q414kkuf6crap6/Layla-Collector-Basic.zip?rlkey=ntpxkr1tdtbjd7wg46j5gapgp&st=bzs2qks1&dl=1"
+        }
+      },
+      "-OY6t1OMjYmQ7X2yANTq": {
+        "img1": "https://i.supaimg.com/cb5e9803-9064-44c0-8650-130cc5cd162c.png",
+        "name1": "Bunny Babe",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2017",
+        "type_links": {
+          "-OYPMbyz_rAwr6oVZ2pB": "https://www.dropbox.com/scl/fi/ilxpovgck7sj040syqili/Layla-Aspirants-Old-Starlight.zip?rlkey=lco9krmubcat5m3467ut27epu&st=thi2jt5q&dl=1",
+          "-OYPMbz-hXLX27UQ8SAf": "https://www.dropbox.com/scl/fi/xc5bzqem2nj24iothncn8/Layla-Legend-Old-Starlight.zip?rlkey=ydyx6hln879202vfnlcc4gxhp&st=80kwjb88&dl=1",
+          "-OYPMbz-hXLX27UQ8SAg": "https://www.dropbox.com/scl/fi/l4dnxcy9bvyc9cr9l7wxz/Layla-Collector-Old-Starlight.zip?rlkey=bvr1d82npfpqdra04njqr1l7g&st=itals1rt&dl=1"
+        }
+      },
+      "-OY6t5iofXnjmagOGMYR": {
+        "img1": "https://i.supaimg.com/178ed484-c5e6-4b60-804f-484cd333fb9a.png",
+        "name1": "Cannon and Roses",
+        "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
+        "type1": "Valentine",
+        "type_links": {
+          "-OYPMeJtlHcdRlQNjt1u": "https://www.dropbox.com/scl/fi/en91ic8vpmwp2db6n1wz8/Layla-Aspirants-Valentine.zip?rlkey=bzp1yjvz2baa34q05vvo0qo1k&st=mhu8bpev&dl=1",
+          "-OYPMeJuL7gfyXcw97jZ": "https://www.dropbox.com/scl/fi/njoe6536dtiptitzd3k2v/Layla-Legend-Valentine.zip?rlkey=1bw3fdqi09nzl5a06eb2wjaxv&st=gwqzponq&dl=1",
+          "-OYPMeJuL7gfyXcw97j_": "https://www.dropbox.com/scl/fi/jc3al1t9awx22j22yshjl/Layla-Collector-Valentine.zip?rlkey=9zvp851fbcv60lsx4ystbai4o&st=yfjeqyxg&dl=1"
+        }
+      },
+      "-OY6tGa_gWiE7FVkHIU9": {
+        "img1": "https://i.supaimg.com/ac80d72b-8d71-42fc-804a-0372d39f0bbf.png",
+        "name1": "Blue Spectre",
+        "tag1": "",
+        "type1": "Basic 2",
+        "type_links": {
+          "-OYPNWP57a2Q60CbK_Gw": "https://www.dropbox.com/scl/fi/87jb6oo412yj8qrt5hkzd/Layla-Aspirants-Blue-Spectre.zip?rlkey=cntfjd3a7dzf31lrs6yi9600f&st=j5pvh5gp&dl=1",
+          "-OYPNWP57a2Q60CbK_Gx": "https://www.dropbox.com/scl/fi/kpdsqpdfw2cfaowpd4p4j/Layla-Legend-Blue-Specre.zip?rlkey=x6nld67ybc0smx70kkd63cls9&st=l87p2lc5&dl=1",
+          "-OYPNWP57a2Q60CbK_Gy": "https://www.dropbox.com/scl/fi/o0qkrvh9bl5k7frbxd213/Layla-Collector-Blue-Spectre.zip?rlkey=ho84chk4jggo0m4z09la3ljdh&st=t7sp7pdi&dl=1"
+        }
+      },
+      "-OY6tR8SVy0xCtIyn2l9": {
+        "img1": "https://i.supaimg.com/861acc78-8bbb-4cde-ba35-0117c05cec79.png",
+        "name1": "Classic Malefic Gunner",
+        "tag1": "",
+        "type1": "Basic 3",
+        "type_links": {
+          "-OYPMgCd2vl6rfbuuRQb": "https://www.dropbox.com/scl/fi/b9p145b6dfaugp3x5phdu/Layla-Aspirants-Classic.zip?rlkey=1rpo06edp2uma446z8vm9zp59&st=xdtynw4a&dl=1",
+          "-OYPMgCe_-JRgn-bSkVR": "https://www.dropbox.com/scl/fi/urq8hm1mxr04meuit92a4/Layla-Legend-Classic-Malefic.zip?rlkey=91ayqehwpxbvsea6vkd29ob5d&st=emkcrhg2&dl=1",
+          "-OYPMgCe_-JRgn-bSkVS": "https://www.dropbox.com/scl/fi/zkhaqpjgh2wjkxz59xttq/Layla-Collector-Classic.zip?rlkey=w4qbrw8r52agas1fegr0kpbbs&st=bl13u75n&dl=1"
+        }
+      },
+      "-OY6tYRIpl9USfsIhwz3": {
+        "img1": "https://i.supaimg.com/991cd6a2-e9a7-4237-9966-20f9f339e777.png",
+        "name1": "S.A.B.E.R. Breacher",
+        "tag1": "https://i.supaimg.com/92f02b44-3f74-41a2-88c8-67022fc138d3.png",
+        "type1": "S.A.B.E.R.",
+        "type_links": {
+          "-OYPMi5jqIo4pXCNdi1U": "https://www.dropbox.com/scl/fi/ccbunrqdbz5w5kh39b75x/Layla-Aspirants-SABER.zip?rlkey=kk2fi743qflecld60hwf0zm56&st=afrabhhq&dl=1",
+          "-OYPMi5jqIo4pXCNdi1V": "https://www.dropbox.com/scl/fi/0fdjhs5jkjikof77p5oy4/Layla-Legend-S.A.B.E.R.zip?rlkey=jybqpl0zwdqp9rpziw55t4ggm&st=p0wrukfw&dl=1",
+          "-OYPMi5k5fzUDbARqqo1": "https://www.dropbox.com/scl/fi/tk7r8ak2vrp6itcjznugf/Layla-Collector-SABER.zip?rlkey=jjg7gujb1k5z1pakcqg32aq7h&st=dqw2jcsf&dl=1"
+        }
+      },
+      "-OY6td70FTvmIwZVIFzB": {
+        "img1": "https://i.supaimg.com/51726ece-7e91-4db2-af6c-232cc41efd00.png",
+        "name1": "Blazing Gun",
+        "tag1": "https://i.supaimg.com/93fa4e4c-e3dd-48b6-a689-ffe84647ff97.png",
+        "type1": "Blazing Bounties",
+        "type_links": {
+          "-OYPNP4qr9XXSqQyDWfb": "unavailable",
+          "-OYPNP4yOKsC7XJA5tHO": "https://www.dropbox.com/scl/fi/6jiimbkj0w357f7ba5inm/Layla-Legend-Blazing.zip?rlkey=wyt89r32keaq7sh2h72qsezwl&st=owfji92v&dl=1",
+          "-OYPNP4yOKsC7XJA5tHP": "https://www.dropbox.com/scl/fi/qx06ls115xjs6ekcsp5vs/Layla-Collector-Blazing.zip?rlkey=22yggab3o6h36st6zleasq9ur&st=gt141hmp&dl=1"
+        }
+      },
+      "-OY6tibKS3PXW_ky13xz": {
+        "img1": "https://i.supaimg.com/b64c46a2-5b0e-4064-846f-15eb1f25f605.png",
+        "name1": "Miss Hikari",
+        "tag1": "https://i.supaimg.com/9e12716d-a6ec-4592-8502-3a5c1c8d57bd.png",
+        "type1": "The Aspirants",
+        "type_links": {
+          "-OYPNaax4cxvFAGlXzdd": "unavailable",
+          "-OYPNaay0592KQqVjjwZ": "https://www.dropbox.com/scl/fi/ejpsfo5x4eb7lrj2uw48n/Layla-Legend-Aspirants.zip?rlkey=fetxzo8qmnud3ckq773xkp35q&st=yc46i77i&dl=1",
+          "-OYPNaay0592KQqVjjw_": "https://www.dropbox.com/scl/fi/b9p2i8sabsorvbmospj47/Layla-Collector-Aspirants.zip?rlkey=sv73bp39i4ax9kmnh1zpouexd&st=lq51a2xw&dl=1"
+        }
+      },
+      "-OY6tpBRE1RHj3P7jfAW": {
+        "img1": "https://i.supaimg.com/9f9e1d80-f27b-4923-8487-e9585d794e09.png",
+        "name1": "Twilight Waltz",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2023",
+        "type_links": {
+          "-OYPNcHWbk5E4XylsEx1": "https://www.dropbox.com/scl/fi/pqd6fjj3bc16uwcqdywlp/Layla-Aspirants-New-Starlight.zip?rlkey=lgevqyl9tvipion7yr2jv872h&st=mqmeiv6w&dl=1",
+          "-OYPNcHXsLznpwkVcN3a": "https://www.dropbox.com/scl/fi/iht2r2wy6o19or8sxwtuy/Layla-Legend-New-Starlight.zip?rlkey=ak0d2qqpw42syyei0wnud2uf0&st=0ae3n7zb&dl=1",
+          "-OYPNcHXsLznpwkVcN3b": "https://www.dropbox.com/scl/fi/ry7qmko1ax4c8saem7nmi/Layla-Collector-New-Starlight.zip?rlkey=d055cqdzl31h7c085kcp8bf04&st=4y6fg8z5&dl=1"
+        }
+      },
+      "-OY6ttedgIP_nBZOVeWx": {
+        "img1": "https://i.supaimg.com/9a504a74-6da4-4084-98a8-5355734f502b.png",
+        "name1": "Paranormal Operative",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-OYPNdhUHtjyPp_6Jak7": "https://www.dropbox.com/scl/fi/ptxag8kbcwrqxf80dpnu0/Layla-Aspirants-Collector.zip?rlkey=m3zwlcy0p3uq54jynd0t7u5zm&st=aywwwyya&dl=1",
+          "-OYPNdhYIFOYW7nmXara": "https://www.dropbox.com/scl/fi/u5zmey8ggqepvxxo81ekr/Layla-Legend-Collector.zip?rlkey=o2e32sol50s77g7enhb3hc1tz&st=n213rca2&dl=1",
+          "-OYPNdhYIFOYW7nmXarb": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-OYPMW7RIL-0ICr29JWd": {
+        "img2": "https://i.supaimg.com/b64c46a2-5b0e-4064-846f-15eb1f25f605.png",
+        "name2": "Miss Hikari",
+        "tag2": "https://i.supaimg.com/9e12716d-a6ec-4592-8502-3a5c1c8d57bd.png",
+        "type2": "The Aspirants"
+      },
+      "-OYPMWauNzdAXtbd_7XE": {
+        "img2": "https://i.supaimg.com/567ce7ac-0186-4a5f-9de0-a049f4671756.jpg",
+        "name2": "The Beacon",
+        "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type2": "Legend"
+      },
+      "-OYPMXAkBrFeVxmxSrOW": {
+        "img2": "https://i.supaimg.com/9a504a74-6da4-4084-98a8-5355734f502b.png",
+        "name2": "Paranormal Operative",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      }
+    },
+    "img": "https://i.supaimg.com/9b0ca2c0-da5e-4db0-aaa2-7927ffeb6f7a.png",
+    "name": "Layla"
+  },
+  "Hanabi": {
+    "Replacements": {
+      "-OY6u3X4p8-24vUSwyX0": {
+        "img1": "https://i.supaimg.com/daadb506-fbdf-42dc-b55a-d4dd7ae05e30.png",
+        "name1": "Scarlet Flower",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Oa8XJtzY-sHiMZqKe1v": "https://github.com/injctr/large/raw/main/Hanabi/Collector/Hanabi%20Collector%20-%20Default.zip",
+          "-Oa8XJu-4BRIsReI9KFq": "https://github.com/injctr/large/raw/main/Hanabi/Allstar/Hanabi%20Allstar%20-%20Default.zip",
+          "-Oa8XJu-4BRIsReI9KFr": "https://github.com/injctr/large/raw/main/Hanabi/Soul%20Vessels/Hanabi%20Vessels%20-%20Default.zip"
+        }
+      },
+      "-OY6uBp20uqPB4fljxjB": {
+        "img1": "https://i.supaimg.com/f3bb8ae2-6cad-43db-b69b-0a5bfdd45d6b.png",
+        "name1": "Resplendent Iris",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Oa8XHM_yydHG5Jlw9z8": "https://github.com/injctr/large/raw/main/Hanabi/Collector/Hanabi%20Collector%20-%20Basic.zip",
+          "-Oa8XHM_yydHG5Jlw9z9": "https://github.com/injctr/large/raw/main/Hanabi/Allstar/Hanabi%20Allstar%20-%20Basic.zip",
+          "-Oa8XHM_yydHG5Jlw9zA": "https://github.com/injctr/large/raw/main/Hanabi/Soul%20Vessels/Hanabi%20Vessels%20-%20Basic.zip"
+        }
+      },
+      "-OY6uFniFotfA4pyzR6s": {
+        "img1": "https://i.supaimg.com/b9c18b23-a9c9-4a5f-a5f8-68df27c0cfd9.png",
+        "name1": "Viper",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-Oa8XMHv6ny-AkyJYsL1": "https://github.com/injctr/large/raw/main/Hanabi/Collector/Hanabi%20Collector%20-%20Elite.zip",
+          "-Oa8XMHv6ny-AkyJYsL2": "https://github.com/injctr/large/raw/main/Hanabi/Allstar/Hanabi%20Allstar%20-%20Elite.zip",
+          "-Oa8XMHx9bNA4DqPv6Ex": "https://github.com/injctr/large/raw/main/Hanabi/Soul%20Vessels/Hanabi%20Vessels%20-%20Elite.zip"
+        }
+      },
+      "-OY6uN0T4pfKrNuIn9Wq": {
+        "img1": "https://i.supaimg.com/3e051315-5a50-41ce-bf23-259dceba0950.png",
+        "name1": "V.E.N.O.M. Nephila",
+        "tag1": "https://i.supaimg.com/86422ed2-4db0-49ca-ab4a-ab1d460a1fb8.png",
+        "type1": "V.E.N.O.M.",
+        "type_links": {
+          "-Oa8XYOrNXeUi0aX4JQA": "https://github.com/injctr/large/raw/main/Hanabi/Collector/Hanabi%20Collector%20-%20VENOM.zip",
+          "-Oa8XYOrNXeUi0aX4JQB": "https://github.com/injctr/large/raw/main/Hanabi/Allstar/Hanabi%20Allstar%20-%20VENOM.zip",
+          "-Oa8XYOrNXeUi0aX4JQC": "https://github.com/injctr/large/raw/main/Hanabi/Soul%20Vessels/Hanabi%20Vessels%20-%20VENOM.zip"
+        }
+      },
+      "-OY6uTMTXVy_pJubZMUB": {
+        "img1": "https://i.supaimg.com/19f4782c-d417-4a22-80f4-c9849ddd0152.png",
+        "name1": "Fiery Moth",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2019",
+        "type_links": {
+          "-Oa8XUdjHGL3oz5Gs-Fy": "https://github.com/injctr/large/raw/main/Hanabi/Collector/Hanabi%20Collector%20-%20Starlight.zip",
+          "-Oa8XUdlcEbLwh3Qxub_": "https://github.com/injctr/large/raw/main/Hanabi/Allstar/Hanabi%20Allstar%20-%20Starlight.zip",
+          "-Oa8XUdmTYZae1m_CI3Y": "https://github.com/injctr/large/raw/main/Hanabi/Soul%20Vessels/Hanabi%20Vessels%20-%20Starlight.zip"
+        }
+      },
+      "-OY6uZZUGj0AocmrdKQC": {
+        "img1": "https://i.supaimg.com/3f81344c-6538-49c2-8b8d-2eb03578d484.png",
+        "name1": "Rakshesha",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-Oa8XOwm4tEvPc_KRn7F": "https://github.com/injctr/large/raw/main/Hanabi/Collector/Hanabi%20Collector%20-%20Luckybox.zip",
+          "-Oa8XOwm4tEvPc_KRn7G": "https://github.com/injctr/large/raw/main/Hanabi/Allstar/Hanabi%20Allstar%20-%20Luckybox.zip",
+          "-Oa8XOwnDBTdKOVsMwiN": "https://github.com/injctr/large/raw/main/Hanabi/Soul%20Vessels/Hanabi%20Vessels%20-%20Luckybox.zip"
+        }
+      },
+      "-OY6ucwdY6enhy55UZ7v": {
+        "img1": "https://i.supaimg.com/de5cd878-0098-410f-934e-febb7ccade5c.png",
+        "name1": "Field Op",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-Oa8XR_yF5Hh9JpdGXVQ": "https://github.com/injctr/large/raw/main/Hanabi/Collector/Hanabi%20Collector%20-%20Special.zip",
+          "-Oa8XR_zNpO5bvf5yOtX": "https://github.com/injctr/large/raw/main/Hanabi/Allstar/Hanabi%20Allstar%20-%20Special.zip",
+          "-Oa8XR_zNpO5bvf5yOtY": "https://github.com/injctr/large/raw/main/Hanabi/Soul%20Vessels/Hanabi%20Vessels%20-%20Special.zip"
+        }
+      },
+      "-OY6uhv8r9Ze68J43sMW": {
+        "img1": "https://i.supaimg.com/7f201655-4070-4e98-a947-499ff57310a4.png",
+        "name1": "Riverland Phoenix",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-Oa8Y31Lq662i992rU5e": "unavailable",
+          "-Oa8Y31MRuC88wujW0ES": "unavailable",
+          "-Oa8Y31MRuC88wujW0ET": "https://github.com/injctr/large/raw/main/Hanabi/Soul%20Vessels/Hanabi%20Vessels%20-%20Collector.zip"
+        }
+      },
+      "-OY6usLK4wGWx6TG9HYB": {
+        "img1": "https://i.supaimg.com/dc5355e1-5089-42c1-9feb-3ee4fe0c89b7.png",
+        "name1": "Moonlit Ninja",
+        "tag1": "https://i.supaimg.com/88380111-de4c-49f2-ba9a-5ab309e99022.png",
+        "type1": "All Star",
+        "type_links": {
+          "-Oa8XxjWH8NB9IdDujS6": "unavailable",
+          "-Oa8XxjWH8NB9IdDujS7": "unavailable",
+          "-Oa8XxjWH8NB9IdDujS8": "https://github.com/injctr/large/raw/main/Hanabi/Soul%20Vessels/Hanabi%20Vessels%20-%20Allstar.zip"
+        }
+      },
+      "-OY6v05PjLs4A7aZAAaL": {
+        "img1": "https://i.supaimg.com/aca066a6-65f2-42fb-8237-00257871c226.png",
+        "name1": "Vessel of Rage",
+        "tag1": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png",
+        "type1": "Soul Vessels",
+        "type_links": {
+          "-Oa8XxjWH8NB9IdDujS6": "unavailable",
+          "-Oa8XxjWH8NB9IdDujS7": "unavailable",
+          "-Oa8XxjWH8NB9IdDujS8": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Oa8XDOP_mwtHiW4rY7u": {
+        "img2": "https://i.supaimg.com/7f201655-4070-4e98-a947-499ff57310a4.png",
+        "name2": "Riverland Phoenix",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      },
+      "-Oa8XE-yNgei1i3l8Ymv": {
+        "img2": "https://i.supaimg.com/dc5355e1-5089-42c1-9feb-3ee4fe0c89b7.png",
+        "name2": "Moonlit Ninja",
+        "tag2": "https://i.supaimg.com/88380111-de4c-49f2-ba9a-5ab309e99022.png",
+        "type2": "All Star"
+      },
+      "-Oa8XE_G30HdDwszpjeQ": {
+        "img2": "https://i.supaimg.com/aca066a6-65f2-42fb-8237-00257871c226.png",
+        "name2": "Vessel of Rage",
+        "tag2": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png",
+        "type2": "Soul Vessels"
+      }
+    },
+    "img": "https://i.supaimg.com/daadb506-fbdf-42dc-b55a-d4dd7ae05e30.png",
+    "name": "Hanabi"
+  },
+  "Karrie": {
+    "Replacements": {
+      "-OY6vHHMhSMrp5lcsJvV": {
+        "img1": "https://i.supaimg.com/e9a3913f-9fd3-4ee2-ad84-cf9ad8bee545.png",
+        "name1": "Lost Star",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObKeb2ALiEGDh0yWTo9": "unavailable",
+          "-ObKeb2ALiEGDh0yWToA": "https://www.dropbox.com/scl/fi/ik3iqhu89mje22zvnat7f/Karrie-Annual-Default.zip?rlkey=a066ehyqg66v4bd5rfyfl015b&st=cx60jv9d&dl=1",
+          "-ObKeb2B-7CA3meX9Fb0": "https://www.dropbox.com/scl/fi/jmknt0rfru6z9f7tq0uxu/Karrie-Kishin-Default.zip?rlkey=h765uu1gpvvbzyixpiam452xx&st=cbzj9ip5&dl=1"
+        }
+      },
+      "-OY6vL1EyPabhRs3u_cg": {
+        "img1": "https://i.supaimg.com/7398833e-ed3d-4047-8ae1-bec9b1a9bc87.png",
+        "name1": "Rising Star",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-ObKeZX3XxpNZfWZ8Q-N": "unavailable",
+          "-ObKeZX4CY3K0-glaZn-": "https://www.dropbox.com/scl/fi/2xsqa5vzi65wpryvmn399/Karrie-Annual-Basic.zip?rlkey=4smhjvx5k151id91fz2yt7d4g&st=bfl6tfbi&dl=1",
+          "-ObKeZX4CY3K0-glaZn0": "https://www.dropbox.com/scl/fi/mwlgm2ke14n30w4c3sgmn/Karrie-Kishin-Basic.zip?rlkey=8v3y71m67n2vxk39tzalfw42z&st=ymnp9ypf&dl=1"
+        }
+      },
+      "-OY6vOaTByp2Un_AhnCG": {
+        "img1": "https://i.supaimg.com/f38baa37-0728-40f8-9a1c-9393c85f70f5.png",
+        "name1": "Bladed Mantis",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 1",
+        "type_links": {
+          "-ObKehKGkcZvZunF6SNc": "unavailable",
+          "-ObKehKGkcZvZunF6SNd": "https://www.dropbox.com/scl/fi/y6uxmuqng2zy297zzfyqd/Karrie-Annual-Elite.zip?rlkey=1im4sxeahmxi2o6hc5lwf9esz&st=zfq9x33r&dl=1",
+          "-ObKehKGkcZvZunF6SNe": "https://www.dropbox.com/scl/fi/55t618aey5fr8hlaznpxb/Karrie-Kishin-Elite.zip?rlkey=9ceqgw1h75vg45u5y7j4ddwpg&st=hgkeu6ok&dl=1"
+        }
+      },
+      "-OY6vT3VaWU6_zak-ITB": {
+        "img1": "https://i.supaimg.com/f67c18d1-9a9e-4322-89a8-d9bc05c992ee.png",
+        "name1": "Dragon Queen",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2018",
+        "type_links": {
+          "-ObKf3QeL5C9Zf1bCSFw": "unavailable",
+          "-ObKf3QeL5C9Zf1bCSFx": "https://www.dropbox.com/scl/fi/obqckfn0la8swdofc2y11/Karrie-Annual-Starlight.zip?rlkey=yb2qz4zmro49rbujouh79ks7l&st=0x779cdv&dl=1",
+          "-ObKf3QeL5C9Zf1bCSFy": "https://www.dropbox.com/scl/fi/5zi91qvyau9as7ltd6vwf/Karrie-Kishin-Starlight.zip?rlkey=sbmeklxojxdwg1rxujdywxh08&st=1gb2bons&dl=1"
+        }
+      },
+      "-OY6vXtpKbywI1ZsSK8u": {
+        "img1": "https://i.supaimg.com/d06a4474-7d6b-43ad-b94e-630372fe3f27.png",
+        "name1": "Jester",
+        "tag1": "https://i.supaimg.com/b78a2af1-60c9-4f62-8758-988924980127.png",
+        "type1": "Halloween",
+        "type_links": {
+          "-ObKephT8HXxzIPtCfE5": "unavailable",
+          "-ObKephT8HXxzIPtCfE6": "https://www.dropbox.com/scl/fi/5vg1zq81f2dadwhpdfvp8/Karrie-Annual-Halloween.zip?rlkey=e36ksyn7tenkp5rlwsio3vthw&st=jp2ylwxz&dl=1",
+          "-ObKephT8HXxzIPtCfE7": "https://www.dropbox.com/scl/fi/6rtu3pd4vhpmsq6cm6zzt/Karrie-Kishin-Special.zip?rlkey=blqbsqxrkib4a6pla08mh49rh&st=etpa8xrs&dl=1"
+        }
+      },
+      "-OY6vbKGbPXdUlseI3ml": {
+        "img1": "https://i.supaimg.com/59bdf7a7-3b50-4b10-9e2a-6d250e7965a3.png",
+        "name1": "Hawkwatch",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-ObKewLTDgHUM-Oa3v7T": "unavailable",
+          "-ObKewLTDgHUM-Oa3v7U": "https://www.dropbox.com/scl/fi/nh852j57z2c85m15ibepz/Karrie-Annual-Luckybox.zip?rlkey=rvo35ehs3l48hz3ctxxm2wi4p&st=b5bqabje&dl=1",
+          "-ObKewLTDgHUM-Oa3v7V": "https://www.dropbox.com/scl/fi/ktu7pssh9czw5se35dvls/Karrie-Kishin-Luckybox.zip?rlkey=bqd1f3cus90br67p1uzm0q9il&st=06gn2trw&dl=1"
+        }
+      },
+      "-OY6vg_rp2MNUy6uHkYb": {
+        "img1": "https://i.supaimg.com/e4999877-317c-4353-af60-d75dcaade0eb.png",
+        "name1": "Gill-Girl",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Eric 1",
+        "type_links": {
+          "-ObKejvtm-opE6neGWQS": "unavailable",
+          "-ObKejvwxoCNc_FCoUEU": "https://www.dropbox.com/scl/fi/u3qpy909dffnnc3xb6jk7/Karrie-Annual-Epic-Gill-Girl.zip?rlkey=x5qgml5qhwtcrcwtxvzn9w0mp&st=1r1sb10t&dl=1",
+          "-ObKejvwxoCNc_FCoUEV": "https://www.dropbox.com/scl/fi/alwrpp0vgyzf0wynmeh27/Karrie-Kishin-Epic-Gill-Girl.zip?rlkey=w0yyezrkhr2t010sj58emvpzs&st=2mfqmf3d&dl=1"
+        }
+      },
+      "-OY6vxAVyDww52-6Wtuq": {
+        "img1": "https://i.supaimg.com/7ee47e0a-0eaa-4480-998b-1ca828293606.png",
+        "name1": "Neon Lightwheel",
+        "tag1": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png",
+        "type1": "Annual Starlight",
+        "type_links": {
+          "-ObKf6wSSZeHTsVkGxkN": "unavailable",
+          "-ObKf6wTa-bs7So2p4KD": "unavailable",
+          "-ObKf6wTa-bs7So2p4KE": "https://www.dropbox.com/scl/fi/jfks55w0xog750i8cguow/Karrie-Kishin-Annual-Star.zip?rlkey=p49na497ppufrq31jaao8rmvb&st=hlfbg1c9&dl=1"
+        }
+      },
+      "-OY6w0bNNt7lUiGNO66C": {
+        "img1": "https://i.supaimg.com/d589a972-dbd7-4860-8432-a4d083d910e2.png",
+        "name1": "Wheel of Justice",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 2",
+        "type_links": {
+          "-ObKeenqrIK1VmwuU3xD": "unavailable",
+          "-ObKeenqrIK1VmwuU3xE": "https://www.dropbox.com/scl/fi/vcwlp4rcl27fsm1t7e5p6/Karrie-Annual-Elite-Top-up.zip?rlkey=t81kul6i0knpkdhx0x8soysua&st=74ytc1ml&dl=1",
+          "-ObKeenqrIK1VmwuU3xF": "https://www.dropbox.com/scl/fi/hiiyv3j8edz3bp43l8u5b/Karrie-Kishin-Elite-Top-Up.zip?rlkey=w6995qg56pbdrm2a2n07vo8ca&st=oa53an0i&dl=1"
+        }
+      },
+      "-OY6w60e_hciU8uuR0GY": {
+        "img1": "https://i.supaimg.com/4d3f9f77-955a-4cd8-b833-3dc3999d6380.png",
+        "name1": "Ice Talon",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic 2",
+        "type_links": {
+          "-ObKemoTZP8IXGX7cdc-": "unavailable",
+          "-ObKemoTZP8IXGX7cdc0": "https://www.dropbox.com/scl/fi/qdgspr5lf86h0viuqrqq3/Karrie-Annual-Epic-Ice-Talon.zip?rlkey=j7r7v418ctapn0prf6ynra1a3&st=jqlry7nq&dl=1",
+          "-ObKemoTZP8IXGX7cdc1": "https://www.dropbox.com/scl/fi/2nbtp4mjntn627lxy3eux/Karrie-Kishin-Epic-Ice-Talon.zip?rlkey=7beyc1caej2xj2mxvdgf7dgjg&st=ls5yltwy&dl=1"
+        }
+      },
+      "-OY6wDB88eKiZlZ8SdOt": {
+        "img1": "https://i.supaimg.com/de50f3f1-ba83-4bde-b736-fcd93177a0b4.png",
+        "name1": "Breath of Naraka",
+        "tag1": "https://i.supaimg.com/909d5792-e723-4cc1-a981-fe5ea6273a88.png",
+        "type1": "Kishin Densetsu",
+        "type_links": {
+          "-ObKesQ3e7236fgyX8qE": "unavailable",
+          "-ObKesQ4uD4VLezlVPfW": "https://www.dropbox.com/scl/fi/39j1ulbrvb4xdlvgak7jn/Karrie-Annual-Kishin.zip?rlkey=0q96opcm5rkc8bk4v1dxe0ewq&st=hrx29ea3&dl=1",
+          "-ObKesQ6jZCNByP8DwE8": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-ObKeTc7hhWXv7prbTWc": {
+        "img2": "https://i.supaimg.com/59bdf7a7-3b50-4b10-9e2a-6d250e7965a3.png",
+        "name2": "Hawkwatch",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      },
+      "-ObKeUIBFVgsDOqb0xG7": {
+        "img2": "https://i.supaimg.com/7ee47e0a-0eaa-4480-998b-1ca828293606.png",
+        "name2": "Neon Lightwheel",
+        "tag2": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png",
+        "type2": "Annual Starlight"
+      },
+      "-ObKeV28jHJymin_7xpd": {
+        "img2": "https://i.supaimg.com/de50f3f1-ba83-4bde-b736-fcd93177a0b4.png",
+        "name2": "Breath of Naraka",
+        "tag2": "https://i.supaimg.com/909d5792-e723-4cc1-a981-fe5ea6273a88.png",
+        "type2": "Kishin Densetsu"
+      }
+    },
+    "img": "https://i.supaimg.com/e9a3913f-9fd3-4ee2-ad84-cf9ad8bee545.png",
+    "name": "Karrie"
+  },
+  "Claude": {
+    "Replacements": {
+      "-OY6wV7pskSCB7CRs1eD": {
+        "img1": "https://i.supaimg.com/81ba9084-2c82-44c0-8998-00069e054676.png",
+        "name1": "Master Thief",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_bYI9YA8KhyVi4fHby": "https://github.com/injctr/large/raw/main/Claude/Luckybox/Claude%20Luckybox%20-%20Default.zip",
+          "-O_bYI9YA8KhyVi4fHc0": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20Default.zip",
+          "-O_bYI9YA8KhyVi4fHc1": "https://github.com/injctr/large/raw/main/Claude/Valentine/Claude%20Valentine%20-%20Default.zip",
+          "-O_bYI9ZlmZZBEjVOLJ_": "https://github.com/injctr/large/raw/main/Claude/M6/Claude%20M6%20-%20Default.zip",
+          "-O_bYI9ZlmZZBEjVOLJa": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20Default.zip"
+        }
+      },
+      "-OY6wYG9UqVU7NOTGDvk": {
+        "img1": "https://i.supaimg.com/7f6e077f-d4d6-437f-a04c-1d13fc249382.png",
+        "name1": "Golden Bullet",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-O_bYItYdpKhCCOyMJOY": "https://github.com/injctr/large/raw/main/Claude/Luckybox/Claude%20Luckybox%20-%20Basic.zip",
+          "-O_bYItZw-3-UB4SfLYw": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20Basic.zip",
+          "-O_bYItZw-3-UB4SfLYx": "https://github.com/injctr/large/raw/main/Claude/Valentine/Claude%20Valentine%20-%20Basic.zip",
+          "-O_bYItZw-3-UB4SfLYy": "https://github.com/injctr/large/raw/main/Claude/M6/Claude%20M6%20-%20Basic.zip",
+          "-O_bYItZw-3-UB4SfLYz": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20Basic.zip"
+        }
+      },
+      "-OY6wcBXwdMf03xybfET": {
+        "img1": "https://i.supaimg.com/c38a06fe-0fd5-4703-858f-55845088fd7b.png",
+        "name1": "Plunderous Pirate",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2018",
+        "type_links": {
+          "-O_bYK5LeBTCsea_3C4H": "https://github.com/injctr/large/raw/main/Claude/Luckybox/Claude%20Luckybox%20-%20Starlight.zip",
+          "-O_bYK5N455Rpbt8NkTa": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20Starlight.zip",
+          "-O_bYK5N455Rpbt8NkTb": "https://github.com/injctr/large/raw/main/Claude/Valentine/Claude%20Valentine%20-%20Starlight.zip",
+          "-O_bYK5N455Rpbt8NkTc": "https://github.com/injctr/large/raw/main/Claude/M6/Claude%20M6%20-%20Starlight.zip",
+          "-O_bYK5N455Rpbt8NkTd": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20Starlight.zip"
+        }
+      },
+      "-OY6wgfIKnhk9IUW6_ld": {
+        "img1": "https://i.supaimg.com/c1741998-d47e-4ccd-8379-0b70c7255e57.png",
+        "name1": "Mecha Dragon",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-O_bYiizBz4unUeo5GRQ": "unavailable",
+          "-O_bYij-vHaaQVv8zXI_": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20Luckybox.zip",
+          "-O_bYij-vHaaQVv8zXIa": "unavailable",
+          "-O_bYij-vHaaQVv8zXIb": "unavailable",
+          "-O_bYij0TTGG9MCeJ7a5": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20Luckybox.zip"
+        }
+      },
+      "-OY6wrgvOWJwXZWmy4EI": {
+        "img1": "https://i.supaimg.com/774a94f8-bc8c-457c-818c-1af8b781215a.jpg",
+        "name1": "Summer Chill",
+        "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
+        "type1": "Summer",
+        "type_links": {
+          "-O_bYlCUVx0YdhYPXObB": "https://github.com/injctr/large/raw/main/Claude/Luckybox/Claude%20Luckybox%20-%20Summer.zip",
+          "-O_bYlCVgaXWzgEYBGbj": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20Summer.zip",
+          "-O_bYlCVgaXWzgEYBGbk": "https://github.com/injctr/large/raw/main/Claude/Valentine/Claude%20Valentine%20-%20Summer.zip",
+          "-O_bYlCVgaXWzgEYBGbl": "https://github.com/injctr/large/raw/main/Claude/M6/Claude%20M6%20-%20Summer.zip",
+          "-O_bYlCVgaXWzgEYBGbm": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20Summer.zip"
+        }
+      },
+      "-OY6wwDLd4MHNDJ2n7kX": {
+        "img1": "https://i.supaimg.com/ed3a619b-5a52-415f-b626-9a54cd79116e.png",
+        "name1": "Christmas Carnival",
+        "tag1": "https://i.supaimg.com/3ecf7426-2dc7-43fe-ba77-d698e4d38341.png",
+        "type1": "Christmas",
+        "type_links": {
+          "-O_bYpNPXogaZFYJPSBf": "unavailable",
+          "-O_bYpNPXogaZFYJPSBi": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20Christmas.zip",
+          "-O_bYpNQ5F8HDvuNBq_N": "unavailable",
+          "-O_bYpNQ5F8HDvuNBq_O": "https://github.com/injctr/large/raw/main/Claude/M6/Claude%20M6%20-%20Christmas.zip",
+          "-O_bYpNQ5F8HDvuNBq_P": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20Christmas.zip"
+        }
+      },
+      "-OY6x0YVcUxdDHJLuZxQ": {
+        "img1": "https://i.supaimg.com/c8e780c9-849f-4a68-b8c5-44acf62ce14a.png",
+        "name1": "Earth's Mightiest",
+        "tag1": "https://i.supaimg.com/522ce9a9-9f43-4444-8d5d-96eddbfe85af.png",
+        "type1": "MSC2021",
+        "type_links": {
+          "-O_bYswyWhFYJ4if4gbE": "https://github.com/injctr/large/raw/main/Claude/Luckybox/Claude%20Luckybox%20-%20MSC.zip",
+          "-O_bYswzgRERMSrqDeE-": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20MSC.zip",
+          "-O_bYswzgRERMSrqDeE0": "https://github.com/injctr/large/raw/main/Claude/Valentine/Claude%20Valentine%20-%20MSC.zip",
+          "-O_bYswzgRERMSrqDeE1": "unavailable",
+          "-O_bYswzgRERMSrqDeE2": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20MSC.zip"
+        }
+      },
+      "-OY6x4weenCOQtoXiQRC": {
+        "img1": "https://i.supaimg.com/6a7638aa-591d-480d-9455-933c822e6af5.png",
+        "name1": "Blazing Trace",
+        "tag1": "https://i.supaimg.com/93fa4e4c-e3dd-48b6-a689-ffe84647ff97.png",
+        "type1": "Blazing Bounties",
+        "type_links": {
+          "-O_bZGC_S-Jk2K14S8rO": "unavailable",
+          "-O_bZGCbM__IEpnUpvVy": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20Blazing.zip",
+          "-O_bZGCbM__IEpnUpvVz": "https://github.com/injctr/large/raw/main/Claude/Valentine/Claude%20Valentine%20-%20Blazing.zip",
+          "-O_bZGCbM__IEpnUpvW-": "unavailable",
+          "-O_bZGCbM__IEpnUpvW0": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20Blazing.zip"
+        }
+      },
+      "-OY6xAmUSzKDaX0hBQKM": {
+        "img1": "https://i.supaimg.com/033c076a-d2d0-446d-ac18-bf273e7747c2.png",
+        "name1": "Bad Bro",
+        "tag1": "https://i.supaimg.com/0ea9724b-ec43-47f9-bccb-925185424611.png",
+        "type1": "Sanrio Characters",
+        "type_links": {
+          "-O_bZLZ4kQVBZIu-jRj7": "unavailable",
+          "-O_bZLZ5n9XU6h2f6I4t": "unavailable",
+          "-O_bZLZ5n9XU6h2f6I4u": "unavailable",
+          "-O_bZLZ5n9XU6h2f6I4v": "unavailable",
+          "-O_bZLZ5n9XU6h2f6I4w": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20Sanrio.zip"
+        }
+      },
+      "-OY6xEyD-WeKeTMQphi7": {
+        "img1": "https://i.supaimg.com/57b071ad-9796-463a-b3db-9606ead28155.png",
+        "name1": "Heart Aflame",
+        "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
+        "type1": "Valentine",
+        "type_links": {
+          "-O_bZRvpeicqfzDkt4RQ": "unavailable",
+          "-O_bZRvpeicqfzDkt4RT": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20Valentine.zip",
+          "-O_bZRvqEg8sip1fcHEg": "unavailable",
+          "-O_bZRvqEg8sip1fcHEh": "unavailable",
+          "-O_bZRvqEg8sip1fcHEi": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20Valentine.zip"
+        }
+      },
+      "-OY6xKDgQhUYLcEgxbsN": {
+        "img1": "https://i.supaimg.com/50282fc2-fd0d-4a09-ad17-82265fd3a987.png",
+        "name1": "Challenger's Spark",
+        "tag1": "https://i.supaimg.com/a7ed1631-2ce8-4f7d-8131-7312d62a49df.png",
+        "type1": "M6",
+        "type_links": {
+          "-O_bZaQdkpTw-vAcH0ZK": "unavailable",
+          "-O_bZaQhBWP3DPEhoOfV": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20M6.zip",
+          "-O_bZaQhBWP3DPEhoOfW": "unavailable",
+          "-O_bZaQiLwq1RR3j13L5": "unavailable",
+          "-O_bZaQiLwq1RR3j13L6": "https://github.com/injctr/large/raw/main/Claude/Prime/Claude%20Prime%20-%20M6.zip"
+        }
+      },
+      "-OY6xORiUo74IDzViIiR": {
+        "img1": "https://i.supaimg.com/d3f0b968-db7e-4f9c-8f62-d944e8ab144c.png",
+        "name1": "Cosmic Blaze",
+        "tag1": "https://i.supaimg.com/56471255-f65b-4dbc-ac15-b66701a8d7d9.png",
+        "type1": "Prime",
+        "type_links": {
+          "-O_bZkAa0osfV8FcjVT1": "unavailable",
+          "-O_bZkAbFNZcIcmuiaYZ": "https://github.com/injctr/large/raw/main/Claude/Sanrio/Claude%20Sanrio%20-%20Prime.zip",
+          "-O_bZkAbFNZcIcmuiaY_": "unavailable",
+          "-O_bZkAbFNZcIcmuiaYa": "unavailable",
+          "-O_bZkAbFNZcIcmuiaYb": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-O_bXvZFJjXEDSs_G8_i": {
+        "img2": "https://i.supaimg.com/c1741998-d47e-4ccd-8379-0b70c7255e57.png",
+        "name2": "Mecha Dragon",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      },
+      "-O_bYD4uEgxWNnSCqp6I": {
+        "img2": "https://i.supaimg.com/033c076a-d2d0-446d-ac18-bf273e7747c2.png",
+        "name2": "Bad Bro",
+        "tag2": "https://i.supaimg.com/0ea9724b-ec43-47f9-bccb-925185424611.png",
+        "type2": "Sanrio Characters"
+      },
+      "-O_bYDlAK0zme2T0BlzA": {
+        "img2": "https://i.supaimg.com/57b071ad-9796-463a-b3db-9606ead28155.png",
+        "name2": "Heart Aflame",
+        "tag2": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
+        "type2": "Valentine"
+      },
+      "-O_bYEltP6uA1RjbTjH_": {
+        "img2": "https://i.supaimg.com/50282fc2-fd0d-4a09-ad17-82265fd3a987.png",
+        "name2": "Challenger's Spark",
+        "tag2": "https://i.supaimg.com/a7ed1631-2ce8-4f7d-8131-7312d62a49df.png",
+        "type2": "M6"
+      },
+      "-O_bYFRrPncLMc8ORnr1": {
+        "img2": "https://i.supaimg.com/d3f0b968-db7e-4f9c-8f62-d944e8ab144c.png",
+        "name2": "Cosmic Blaze",
+        "tag2": "https://i.supaimg.com/56471255-f65b-4dbc-ac15-b66701a8d7d9.png",
+        "type2": "Prime"
+      }
+    },
+    "img": "https://i.supaimg.com/81ba9084-2c82-44c0-8998-00069e054676.png",
+    "name": "Claude"
+  },
+  "Bruno": {
+    "Replacements": {
+      "-OY6xwqRSkhElRx1nH2u": {
+        "img1": "https://i.supaimg.com/bb497f2f-bcd0-47af-b2fd-30a1b6eb56c0.png",
+        "name1": "The Protector",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7aUWGjCjIFU1mmKwH": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Default.zip"
+        }
+      },
+      "-OY6y0Yjdx3S0_DLl3Ae": {
+        "img1": "https://i.supaimg.com/f0ecb1a0-8d5f-4e47-a39a-87de98762c11.png",
+        "name1": "Vanguard Elite",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 1",
+        "type_links": {
+          "-Of7aZ3i2NgJOVr3JFvJ": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Elite%20Vanguard.zip"
+        }
+      },
+      "-OY6y5Cl27uPGmotJ3NZ": {
+        "img1": "https://i.supaimg.com/4d7164c8-1f2c-4c43-824b-03619327b003.png",
+        "name1": "Best DJ",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 1",
+        "type_links": {
+          "-Of7avXnu8M-BvjXTgnZ": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Special%20Best%20DJ.zip"
+        }
+      },
+      "-OY6yAMgowNSfjxVdBe0": {
+        "img1": "https://i.supaimg.com/c93f6643-ce97-42fd-ba35-c2f070e95c04.png",
+        "name1": "Street Football",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 2",
+        "type_links": {
+          "-Of7aWq71wej6NyyywKk": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Elite%20Street%20Football.zip"
+        }
+      },
+      "-OY6yH2gDKQV7GWXrKRu": {
+        "img1": "https://i.supaimg.com/6884a744-ebbf-4fc3-b84c-10d5564b7889.png",
+        "name1": "The Falcon",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 2",
+        "type_links": {
+          "-Of7azJebNZRQ245SE-F": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Special%20The%20Falcon.zip"
+        }
+      },
+      "-OY6yNgJPKsuYocro-E8": {
+        "img1": "https://i.supaimg.com/6bc88ff6-e3ff-4c2d-9f07-4d2563c8a166.png",
+        "name1": "Firebolt",
+        "tag1": "https://i.supaimg.com/22142283-6b0f-4b3e-81e1-56d8528331dd.png",
+        "type1": "Dawning Hero",
+        "type_links": {
+          "-Of7b8M5dlz8vSi0h16w": "unavailable"
+        }
+      },
+      "-OY6ySo9LG4GCSmd_3Pj": {
+        "img1": "https://i.supaimg.com/eac33c76-3442-4089-8ac9-b9c18aff1ebf.png",
+        "name1": "Street Hype",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2024",
+        "type_links": {
+          "-Of7b2fQdwXQGUHFDcBs": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Starlight.zip"
+        }
+      },
+      "-OY6yYY99ICNRb1svjQQ": {
+        "img1": "https://i.supaimg.com/0e2a0ad2-56d2-45cb-b903-6c6d986d1ae8.png",
+        "name1": "Halo Striker",
+        "tag1": "https://i.supaimg.com/bcf55293-6d1b-4065-933a-6d4b0445c1df.png",
+        "type1": "Neymar Jr 1",
+        "type_links": {
+          "-Of7aawfYqWML6I6Tyq5": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Halo%20Striker.zip"
+        }
+      },
+      "-OY6yeaAvXitRuCs2xJ-": {
+        "img1": "https://i.supaimg.com/1b93cc5d-576b-4dad-afb1-ec5867f9b782.png",
+        "name1": "Neymar Jr",
+        "tag1": "https://i.supaimg.com/bcf55293-6d1b-4065-933a-6d4b0445c1df.png",
+        "type1": "Neymar Jr 2",
+        "type_links": {
+          "-Of7adQEnLPyZaNwWmsN": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Neymar%20Jr.zip"
+        }
+      },
+      "-OY6yr2xUdj2J2awyOBs": {
+        "img1": "https://i.supaimg.com/98a578dc-1338-44d8-8ce5-ab8eb2e8ae48.png",
+        "name1": "The Purifier",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-Of7b6UIkL3ijSJiLV_T": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7a9D4MWoO4Oc1wuuZ": {
+        "img2": "https://i.supaimg.com/6bc88ff6-e3ff-4c2d-9f07-4d2563c8a166.png",
+        "name2": "Firebolt",
+        "tag2": "https://i.supaimg.com/22142283-6b0f-4b3e-81e1-56d8528331dd.png",
+        "type2": "Dawning Hero"
+      }
+    },
+    "img": "https://i.supaimg.com/bb497f2f-bcd0-47af-b2fd-30a1b6eb56c0.png",
+    "name": "Bruno"
+  },
+  "Granger": {
+    "Replacements": {
+      "-OY9doBRvOFDq2lRPwRp": {
+        "img1": "https://i.supaimg.com/6743aeb8-844c-4b07-b4bd-e889ce927ae6.png",
+        "name1": "Death Chanter",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Default.zip",
+          "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Default.zip",
+          "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Default.zip",
+          "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Default.zip",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Default.zip",
+          "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Default.zip"
+        }
+      },
+      "-OY9drKH2-F0Y6m48NXK": {
+        "img1": "https://i.supaimg.com/b0297082-5385-4bba-ac83-29fd4ba19228.png",
+        "name1": "Bardic Whisper",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Basic.zip",
+          "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Basic.zip",
+          "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Basic.zip",
+          "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Basic.zip",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Basic.zip",
+          "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Basic.zip"
+        }
+      },
+      "-OY9dueZBUQAiQjhSP4T": {
+        "img1": "https://i.supaimg.com/4d405a76-7362-4944-b427-56b95edb562b.png",
+        "name1": "Doomsday Terminator",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Elite.zip",
+          "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Elite.zip",
+          "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Elite.zip",
+          "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Elite.zip",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Elite.zip",
+          "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Elite.zip"
+        }
+      },
+      "-OY9e2a4bdb33PmAcf9M": {
+        "img1": "https://i.supaimg.com/003dcc42-cea0-4eef-8123-8bf4ab4c18be.png",
+        "name1": "Biosoldier",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2020",
+        "type_links": {
+          "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Starlight.zip",
+          "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Starlight.zip",
+          "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Starlight.zip",
+          "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Starlight.zip",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Starlight.zip",
+          "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Starlight.zip"
+        }
+      },
+      "-OY9e7OGoM-ahsratLTd": {
+        "img1": "https://i.supaimg.com/4f6cbb36-2157-46d2-b391-86eddd9d7f33.png",
+        "name1": "Lightborn - Overrider",
+        "tag1": "https://i.supaimg.com/69a7a5dd-6136-442a-b82c-c5bd54dbac46.png",
+        "type1": "Lightborn",
+        "type_links": {
+          "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Lightborn.zip",
+          "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Lightborn.zip",
+          "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Lightborn.zip",
+          "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Lightborn.zip",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Lightborn.zip",
+          "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Lightborn.zip"
+        }
+      },
+      "-OY9eCUr-sy7Ed8mhaEJ": {
+        "img1": "https://i.supaimg.com/02f50d14-a682-4712-969b-38c6ac769f83.png",
+        "name1": "Agent Z",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "01 COLLECTOR": "unavailable",
+          "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Collector.zip",
+          "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Collector.zip",
+          "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Collector.zip",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime-%20Collector.zip",
+          "06 M7": "unavailable"
+        }
+      },
+      "-OY9eHtfODNRU9HHDqgL": {
+        "img1": "https://i.supaimg.com/3e1a6655-a685-4093-807d-069ae1536cbb.png",
+        "name1": "Starfall Knight",
+        "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type1": "Legend",
+        "type_links": {
+          "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Legend.zip",
+          "02 LEGEND": "unavailable",
+          "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Legend.zip",
+          "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Legend.zip",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Legend.zip",
+          "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Legend.zip"
+        }
+      },
+      "-OY9eNvF-knCUy9yTpLq": {
+        "img1": "https://i.supaimg.com/61ad3113-947b-4d20-99cb-95361c6a0e09.png",
+        "name1": "Megatron",
+        "tag1": "https://i.supaimg.com/9d4990f7-6dce-4571-83bb-a0a5553fa875.png",
+        "type1": "Transformers",
+        "type_links": {
+          "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Transformers.zip",
+          "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Transformers.zip",
+          "03 TRANSFORMERS": "unavailable",
+          "04 EXORCIST": "unavailable",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Transformers.zip",
+          "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Transformers.zip"
+        }
+      },
+      "-OY9eWnAC-jXyeqEYaoL": {
+        "img1": "https://i.supaimg.com/404758fd-2597-4d94-a6c1-9f9c139c59f1.png",
+        "name1": "Hellbringer",
+        "tag1": "https://i.supaimg.com/5f48ccb2-a063-440f-958f-89f964bcf7ab.png",
+        "type1": "Create",
+        "type_links": {
+          "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Create.zip",
+          "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Create.zip",
+          "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Create.zip",
+          "04 EXORCIST": "unavailable",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Special.zip",
+          "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Create.zip"
+        }
+      },
+      "-OY9eb9aYPLtgQMTqK5C": {
+        "img1": "https://i.supaimg.com/f15bf424-b8ba-4410-817f-7e1176c60a5c.png",
+        "name1": "Exorcist Granger",
+        "tag1": "https://i.supaimg.com/0f3570aa-7416-4546-b3e7-47348e62cad3.png",
+        "type1": "Exorcist",
+        "type_links": {
+          "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Exorcist.zip",
+          "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Exorcist.zip",
+          "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Exorcist.zip",
+          "04 EXORCIST": "unavailable",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Exorcist.zip",
+          "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Exorcist.zip"
+        }
+      },
+      "-OY9efGjIQyvySRolMmi": {
+        "img1": "https://i.supaimg.com/1ed1d05e-3101-44fd-a499-18e7556e20f1.png",
+        "name1": "Alluring Enigma",
+        "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
+        "type1": "Valentine",
+        "type_links": {
+          "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Valentine.zip",
+          "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Valentine.zip",
+          "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Valentine.zip",
+          "04 EXORCIST": "unavailable",
+          "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Valentine.zip",
+          "06 M7": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "01 COLLECTOR": {
+        "img2": "https://i.supaimg.com/02f50d14-a682-4712-969b-38c6ac769f83.png",
+        "name2": "Agent Z",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      },
+      "02 LEGEND": {
+        "img2": "https://i.supaimg.com/3e1a6655-a685-4093-807d-069ae1536cbb.png",
+        "name2": "Starfall Knight",
+        "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type2": "Legend"
+      },
+      "03 TRANSFORMERS": {
+        "img2": "https://i.supaimg.com/61ad3113-947b-4d20-99cb-95361c6a0e09.png",
+        "name2": "Megatron",
+        "tag2": "https://i.supaimg.com/9d4990f7-6dce-4571-83bb-a0a5553fa875.png",
+        "type2": "Transformers"
+      },
+      "04 EXORCIST": {
+        "img2": "https://i.supaimg.com/f15bf424-b8ba-4410-817f-7e1176c60a5c.png",
+        "name2": "Exorcist Granger",
+        "tag2": "https://i.supaimg.com/0f3570aa-7416-4546-b3e7-47348e62cad3.png",
+        "type2": "Exorcist"
+      },
+      "05 PRIME": {
+        "img2": "https://i.supaimg.com/86516f44-23e7-4cd7-8b42-e56a815d7583.jpg",
+        "name2": "Cosmic Finality",
+        "tag2": "https://i.supaimg.com/56471255-f65b-4dbc-ac15-b66701a8d7d9.png",
+        "type2": "Prime"
+      },
+      "06 M7": {
+        "img2": "https://i.supaimg.com/a793d95d-838e-41f9-b699-5f02fb4826e8.jpg",
+        "name2": "Thunder Ascendant",
+        "tag2": "https://i.supaimg.com/1e2a3161-ec6f-46dc-9736-d434d3c5893e.png",
+        "type2": "M7"
+      }
+    },
+    "img": "https://i.supaimg.com/6743aeb8-844c-4b07-b4bd-e889ce927ae6.png",
+    "name": "Granger"
+  },
+  "Miya": {
+    "Replacements": {
+      "-OY9evpYX968fNTpHCn4": {
+        "img1": "https://i.supaimg.com/d9acf7dc-9d77-4486-9c07-3083660b9a62.png",
+        "name1": "Moonlight Archer",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObO2IoRDsS_927bEQN0": "https://www.dropbox.com/scl/fi/zl57qtj7yszz5ubug1s5d/Miya-Luckybox-Default.zip?rlkey=xtpc530hx9ue5g9kfkd7vd7n4&st=cg8s822l&dl=1",
+          "-ObO2IoRDsS_927bEQN1": "https://www.dropbox.com/scl/fi/9x458fa6kruxjpww09ny7/Miya-Legend-Default.zip?rlkey=s3j15trog8h2rvusvo6j3kfmq&st=tusedkl7&dl=1",
+          "-ObO2IoRDsS_927bEQN2": "https://www.dropbox.com/scl/fi/2y3u7tzbt9ocfq5xdx1x6/Miya-Collector-Default.zip?rlkey=zst6an6jojcat1z964bzn5u3d&st=ebvwpxz7&dl=1",
+          "-ObO2IoRDsS_927bEQN3": "https://www.dropbox.com/scl/fi/qcxdw9r100mqys6851aq2/Miya-Atomic-Default.zip?rlkey=8dokfqthtnav4cnc92xa0s6wy&st=4xqe5skl&dl=1",
+          "-ObO2IoRDsS_927bEQN4": "https://www.dropbox.com/scl/fi/yt2lmfyryrtn7njgvv5z9/Miya-Starlight-Default.zip?rlkey=lnb9r2gd0fvamo9vkg935zadd&st=bpshoht1&dl=1"
+        }
+      },
+      "-OY9ezbtu1MhuzTBGtnk": {
+        "img1": "https://i.supaimg.com/39a200c6-3ab7-4b5d-ba71-2837dbd2a24a.png",
+        "name1": "Burning Bow",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-ObO2MTQCM-SW4S-cCQa": "https://www.dropbox.com/scl/fi/f4ab3by0y6g9unlfejbo7/Miya-Luckybox-Elite.zip?rlkey=fzrd2r3y3fnbbuoqezb3zljf5&st=q8jv946a&dl=1",
+          "-ObO2MTTAn6i5RxwdgcI": "https://www.dropbox.com/scl/fi/g7qj761ypfd40jg7det8f/Miya-Legend-Elite.zip?rlkey=0nnh70ym7xvj2lnrcpysekf35&st=r48zdd9b&dl=1",
+          "-ObO2MTU_5cphw9vRli7": "https://www.dropbox.com/scl/fi/g9qdvus90gsfzdrqu5ra4/Miya-Collector-Elite.zip?rlkey=lk3myqfnk5pganjxatxpebxbx&st=zw0xrm0b&dl=1",
+          "-ObO2MTU_5cphw9vRli8": "https://www.dropbox.com/scl/fi/mwal6e7r2574hzvcgjm7e/Miya-Atomic-Basic.zip?rlkey=hfnbkalkxszbk5d6p8yq9jwqr&st=xkjy78o6&dl=1",
+          "-ObO2MTU_5cphw9vRli9": "https://www.dropbox.com/scl/fi/7ur04a01x0s1v9dkt6t33/Miya-Starlight-Elite.zip?rlkey=tx7mjao6bbkl6xp2khez76pfx&st=pk0omr1g&dl=1"
+        }
+      },
+      "-OY9f5w4nV-sbihVp8nT": {
+        "img1": "https://i.supaimg.com/d0146d36-e924-44a7-8fab-decb827b0834.png",
+        "name1": "Christmas Carnival",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-ObO3S2r0r1UTJbeCP8e": "unavailable",
+          "-ObO3S2r0r1UTJbeCP8f": "https://www.dropbox.com/scl/fi/7ig4hm88lnc4zxtyx85b9/Miya-Legend-Luckybox.zip?rlkey=8iyye90fpzbwscfbn9kn8l60x&st=pct2d716&dl=1",
+          "-ObO3S2r0r1UTJbeCP8g": "https://www.dropbox.com/scl/fi/6l6jbv9c4zkzxg2mpxgrr/Miya-Collector-Luckybox.zip?rlkey=1x3uqw3q5370wxset3x1e84ev&st=5z5ixexa&dl=1",
+          "-ObO3S2r0r1UTJbeCP8h": "https://www.dropbox.com/scl/fi/364yhnozb3nq3101eqdkq/Miya-Atomic-Luckybox.zip?rlkey=hpdcg9r17nu1xzprcdy80rqdr&st=53j5mb9y&dl=1",
+          "-ObO3S2sJ1gKEIffsngU": "https://www.dropbox.com/scl/fi/upo3s2xqzpaja2x99lul9/Miya-Starlight-Luckybox.zip?rlkey=iy8wa4nl9k23mtfqa2ghwfhlh&st=r7pid5eo&dl=1"
+        }
+      },
+      "-OY9fDZ1pkPU-K4ldzcO": {
+        "img1": "https://i.supaimg.com/6785047f-4ba3-4fe3-8eb7-19728ea21e12.png",
+        "name1": "Captain Thorns",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2017",
+        "type_links": {
+          "-ObO2kZpyWaPmDql3QXA": "https://www.dropbox.com/scl/fi/xyyfvxlqav6lspnu772qc/Miya-Luckybox-Old-Starlight.zip?rlkey=gvg9rzeibzv7n6937k7v964ck&st=cv4e5xmc&dl=1",
+          "-ObO2kZqG_mWUx4_aVf_": "https://www.dropbox.com/scl/fi/ecx9kebbq14yg5sb5n56u/Miya-Legend-Old-Starlight.zip?rlkey=2vqun8qkqee809ht6xquar2wl&st=2v8e2ke1&dl=1",
+          "-ObO2kZqG_mWUx4_aVfa": "https://www.dropbox.com/scl/fi/gfldf31a6w7rlcphz21ws/Miya-Collector-Old-Starlight.zip?rlkey=5bryayq29t2w2uujf1nboxzd5&st=g5q975g8&dl=1",
+          "-ObO2kZqG_mWUx4_aVfb": "https://www.dropbox.com/scl/fi/rvqpy9n2paoq4nv215bxq/Miya-Atomic-Starlight.zip?rlkey=2w4wwigeu20z62mgti5urid0u&st=qc32u69g&dl=1",
+          "-ObO2kZqG_mWUx4_aVfc": "https://www.dropbox.com/scl/fi/dt6i62ii1kt2b728qhnpa/Miya-Starlight-Old-Starlight.zip?rlkey=ht8nt4t1p5ex37rowkadcrfwi&st=14n5krok&dl=1"
+        }
+      },
+      "-OY9fKrv3a5lOVRtALR6": {
+        "img1": "https://i.supaimg.com/344093f1-91c4-4621-8e03-8b2494bf1530.png",
+        "name1": "Honor",
+        "tag1": "https://i.supaimg.com/3c6c74bb-5d43-4b76-be1e-3680e7ae383a.png",
+        "type1": "Limited",
+        "type_links": {
+          "-ObO2R0q87as128A1JCz": "https://www.dropbox.com/scl/fi/sr27vz3vsrat18ib4cfvy/Miya-Luckybox-Limited.zip?rlkey=4d1lj3uavsed21q24x443eqti&st=wvix0wmy&dl=1",
+          "-ObO2R0rEQ7qQKa-QClQ": "https://www.dropbox.com/scl/fi/4qqvuy1ezywxc614z5gt4/Miya-Legend-Limited.zip?rlkey=ijzfhc71hsrnlvvce0h6t8ppn&st=vpc8zed7&dl=1",
+          "-ObO2R0rEQ7qQKa-QClR": "https://www.dropbox.com/scl/fi/ritq0qplrdzi07b3tpyzm/Miya-Collector-Limited.zip?rlkey=4381oqyousk1xr4on9udnmu37&st=mcckns5x&dl=1",
+          "-ObO2R0rEQ7qQKa-QClS": "https://www.dropbox.com/scl/fi/q2hy226u78nmc6yntker4/Miya-Atomic-Limited.zip?rlkey=0l2n0a7n22zl8sspa0j46hfn2&st=fqmya41o&dl=1",
+          "-ObO2R0rEQ7qQKa-QClT": "https://www.dropbox.com/scl/fi/zr92vsmye8ernut23x5qt/Miya-Starlight-Limited.zip?rlkey=dq261jdk8o2x5f9sv41guz3v8&st=0ge81hgb&dl=1"
+        }
+      },
+      "-OY9fP0MHPVEoIYNwcc7": {
+        "img1": "https://i.supaimg.com/2821aa0e-4256-42ad-9172-b4ae0a43d801.png",
+        "name1": "Modena Butterfly",
+        "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type1": "Legend",
+        "type_links": {
+          "-ObO4evJKxufRsU5v3H7": "unavailable",
+          "-ObO4evJKxufRsU5v3H8": "unavailable",
+          "-ObO4evK_9shr3hKo4iP": "unavailable",
+          "-ObO4evK_9shr3hKo4iQ": "https://www.dropbox.com/scl/fi/wc3a05yt1mzhtqtbah4bd/Miya-Atomic-Legend.zip?rlkey=npnlqhul045j5w6dz046001ni&st=v8jlfazx&dl=1",
+          "-ObO4evK_9shr3hKo4iR": "https://www.dropbox.com/scl/fi/774bllbzpqh9k0imdfxt3/Miya-Starlight-Legend.zip?rlkey=0iv0t8bl24cjjsk3lt5nolx29&st=i46ncpz6&dl=1"
+        }
+      },
+      "-OY9fSu9cxVn0CzP4OIc": {
+        "img1": "https://i.supaimg.com/e277ebb3-57f5-4b9c-8504-0f2fc25b2e83.png",
+        "name1": "Sweet Fantasy",
+        "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
+        "type1": "Valentine",
+        "type_links": {
+          "-ObO2u_kzOue1ZpBHj7P": "https://www.dropbox.com/scl/fi/9utbcfua98qllrv88982l/Miya-Luckybox-Valentine.zip?rlkey=s0tez1t1vl3d76rz0m2bc0uup&st=gvcj26g3&dl=1",
+          "-ObO2u_lRUN1jNFQavAD": "https://www.dropbox.com/scl/fi/win4b1k3kgsokdand4281/Miya-Legend-Valentine.zip?rlkey=l8p6bswpjnuncxz8imq27h5yn&st=tpz9q42e&dl=1",
+          "-ObO2u_lRUN1jNFQavAE": "https://www.dropbox.com/scl/fi/eft6boogmk3h1n16vmnrh/Miya-Collector-Valentine.zip?rlkey=7tzhq3h4rxdj55s52qjienqen&st=0yq2x6c3&dl=1",
+          "-ObO2u_lRUN1jNFQavAF": "https://www.dropbox.com/scl/fi/hz3uw9mmnfyrzw8zqmoai/Miya-Atomic-Valentine.zip?rlkey=hyw1ib7jrmwph26yi203ntn5p&st=fm6l4yes&dl=1",
+          "-ObO2u_lRUN1jNFQavAG": "https://www.dropbox.com/scl/fi/h0rgd5levr7c70x99zyj7/Miya-Starlight-Valentine.zip?rlkey=hc3dvyq2hxdd3k6a98mctytir&st=95rvj0gg&dl=1"
+        }
+      },
+      "-OY9fWPYcKtC86WFaN-m": {
+        "img1": "https://i.supaimg.com/710acda2-a355-41aa-87a5-884407fc2047.png",
+        "name1": "Suzuhime",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-ObO2nbnUPsanJBEZh93": "https://www.dropbox.com/scl/fi/sh3nktsz6olwfpl3fnhgp/Miya-Luckybox-Special.zip?rlkey=4qbnv1zroscbb5ij5khjb2y26&st=n0s1wivh&dl=1",
+          "-ObO2nbnUPsanJBEZh94": "https://www.dropbox.com/scl/fi/dxonv7xmccdzp6b2k3uyz/Miya-Legend-Special.zip?rlkey=ik3bdvgarowcdbuxqfpz4whd9&st=84w14q0n&dl=1",
+          "-ObO2nbnUPsanJBEZh95": "https://www.dropbox.com/scl/fi/n27tqlo8n0jmt2g6flor3/Miya-Collector-Special.zip?rlkey=tcq8kbw09mszdfix501ddk2hv&st=nz46hdrw&dl=1",
+          "-ObO2nboiwXzxaDncH4n": "https://www.dropbox.com/scl/fi/a10pcjn2x4mkwkqh8bg76/Miya-Atomic-Special.zip?rlkey=cwmejkxkcjp2rt9300o82c0ul&st=qh99gqh6&dl=1",
+          "-ObO2nbqGCHUNPUYKikZ": "https://www.dropbox.com/scl/fi/5ls908fq0jp3klyts91ow/Miya-Starlight-Special.zip?rlkey=alweg6thxzu7pg14qcomlt4k4&st=gben31wt&dl=1"
+        }
+      },
+      "-OY9f_3NUNz4bu-ZStWP": {
+        "img1": "https://i.supaimg.com/3f719a04-d7d8-49a1-8d8b-039cbd63484f.png",
+        "name1": "Jungle Ranger",
+        "tag1": "",
+        "type1": "S18 First Recharge",
+        "type_links": {
+          "-ObO2r1BLeWNAGU1O930": "https://www.dropbox.com/scl/fi/xr8emen4m7l2e8ftj7bdk/Miya-Luckybox-Top-up.zip?rlkey=p95cvs5qjavas7fdcdx4t8um0&st=s0q5cm7p&dl=1",
+          "-ObO2r1CLW1vkiBRsPMu": "https://www.dropbox.com/scl/fi/p86r13ll1uf2pqcdv79be/Miya-Legend-Top-up.zip?rlkey=sfqitvrlb33xv4q24reyiebxl&st=a0sd4mye&dl=1",
+          "-ObO2r1G0_TfcQi6z0sV": "https://www.dropbox.com/scl/fi/qvvpz9vds9h50gyzazor1/Miya-Collector-Top-up.zip?rlkey=sl55t7ajywfx39f10hgysncpx&st=it2qxwrr&dl=1",
+          "-ObO2r1HlOSanjI6Xsuh": "https://www.dropbox.com/scl/fi/f0oah4fjggkry1658j38n/Miya-Atomic-Jungle-Ranger.zip?rlkey=4jx9tgawc3ekg5x15385rcx83&st=jr18527f&dl=1",
+          "-ObO2r1HlOSanjI6Xsui": "https://www.dropbox.com/scl/fi/e1pufk0gp7j241fyg4b7f/Miya-Starlight-Top-up.zip?rlkey=1l45iv436wc8rd5ibf9ya1u4k&st=wa0a8kr4&dl=1"
+        }
+      },
+      "-OY9gr-3R1n3jjQVUWuR": {
+        "img1": "https://i.supaimg.com/7d676a21-46e1-4ce9-988b-66a849f3863b.png",
+        "name1": "Moon Priestess",
+        "tag1": "https://i.supaimg.com/0a6ef5ec-20f5-4dd1-b2d9-5db22e0477fc.png",
+        "type1": "5th Anniversary",
+        "type_links": {
+          "-ObO2yowWvupkMyV7nun": "unavailable",
+          "-ObO2yowWvupkMyV7nuo": "https://www.dropbox.com/scl/fi/f2i99p3ajjh108wikiy3r/Miya-Legend-Anniversary.zip?rlkey=mqornnine8ceo9ybcvesqj06e&st=yglb67vq&dl=1",
+          "-ObO2yoxcreO1J4fFeeD": "https://www.dropbox.com/scl/fi/td8l0yacviax4wmfhayxd/Miya-Collector-Anniversary.zip?rlkey=elscl1cygrrfm4e573z35epn7&st=xt12j3oz&dl=1",
+          "-ObO2yoxcreO1J4fFeeE": "https://www.dropbox.com/scl/fi/3x61pkn2jmu1kedyovwsm/Miya-Atomic-Anniversary.zip?rlkey=hgj0ecojyedmy3rtk477uptkq&st=6zu946bb&dl=1",
+          "-ObO2yoxcreO1J4fFeeF": "https://www.dropbox.com/scl/fi/02ysk44whu6mis0gm2vmc/Miya-Starlight-Anniversary.zip?rlkey=somqfksouv0vk7sxr6vbu44uv&st=y6rzkkzx&dl=1"
+        }
+      },
+      "-OY9h-Y8ACONizOiHpmm": {
+        "img1": "https://i.supaimg.com/7b2e0740-ebcd-4518-972e-f4945beb3f95.png",
+        "name1": "Doom Catalyst",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-ObO2EwM-xMbfCU_Tnyd": "https://www.dropbox.com/scl/fi/g5doea3gitpy5da5phg0p/Miya-Luckybox-Collector.zip?rlkey=u681o1mrobsawy3vbewuv3bnl&st=elwdpgnt&dl=1",
+          "-ObO2EwM-xMbfCU_Tnye": "https://www.dropbox.com/scl/fi/pxv1p11wxfa4h707f9utq/Miya-Legend-Collector.zip?rlkey=nftpvo1vdhhs42ekq8sh841s6&st=kvsrjbbz&dl=1",
+          "-ObO2EwNWLz2bjVl9ik5": "unavailable",
+          "-ObO2EwNWLz2bjVl9ik6": "https://www.dropbox.com/scl/fi/bxdauq4wo5kz107fzyljw/Miya-Atomic-Collector.zip?rlkey=mm83imlt22kxmg2rd9v8wkeh2&st=8hu9om3w&dl=1",
+          "-ObO2EwNWLz2bjVl9ik7": "https://www.dropbox.com/scl/fi/7tqci3yenfuh8ugei3gl0/Miya-Starlight-Collector.zip?rlkey=lj62e3fh9odarvq36joz4j0i1&st=xmfahw3z&dl=1"
+        }
+      },
+      "-OY9h4LlACK7PWEqxcBO": {
+        "img1": "https://i.supaimg.com/3d5e4206-9962-4317-a21b-a18075cb7a49.png",
+        "name1": "Atomic Pop Miya",
+        "tag1": "https://i.supaimg.com/dc77e2be-ed47-4412-a059-3d7146495864.png",
+        "type1": "Atomic Pop",
+        "type_links": {
+          "-ObO3F8RSRxHyvYCVweV": "unavailable",
+          "-ObO3F8RSRxHyvYCVweW": "https://www.dropbox.com/scl/fi/0bmi70qtqyhniriufv4zb/Miya-Legend-Atomic.zip?rlkey=ih0i6eqvermlch99kaurgitqm&st=9hfnsfc2&dl=1",
+          "-ObO3F8RSRxHyvYCVweX": "https://www.dropbox.com/scl/fi/dfjss6fho9mqjm618aq3k/Miya-Collector-Allstar.zip?rlkey=acumilopfevhrayqcpqzh69m5&st=wsamtt6o&dl=1",
+          "-ObO3F8RSRxHyvYCVweY": "unavailable",
+          "-ObO3F8RSRxHyvYCVweZ": "unavailable"
+        }
+      },
+      "-OY9h8rEYoPKScZIHYFv": {
+        "img1": "https://i.supaimg.com/6f0650dc-6430-4fe4-8647-a663396f4160.png",
+        "name1": "Nightowl Huntress",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2025",
+        "type_links": {
+          "-ObO3ephc9bGi4CCpOyo": "unavailable",
+          "-ObO3ephc9bGi4CCpOyp": "https://www.dropbox.com/scl/fi/ikwcrz7f7l331o48bz95e/Miya-Legend-New-Starlight.zip?rlkey=vyu1abe1pv24zxpg3jn076dzx&st=s68ahnzi&dl=1",
+          "-ObO3ephc9bGi4CCpOyq": "https://www.dropbox.com/scl/fi/ddrqnb2ww2l26ownhmehj/Miya-Collector-New-Starlight.zip?rlkey=no14b3hj5m5jvh4qyarro823x&st=ecx4qjs1&dl=1",
+          "-ObO3ephc9bGi4CCpOyr": "unavailable",
+          "-ObO3epigUhk9Cq-PK7I": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-ObO26une3N9CqMm3rNM": {
+        "img2": "https://i.supaimg.com/d0146d36-e924-44a7-8fab-decb827b0834.png",
+        "name2": "Christmas Carnival",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      },
+      "-ObO27sWdhdnTrmUgs7X": {
+        "img2": "https://i.supaimg.com/2821aa0e-4256-42ad-9172-b4ae0a43d801.png",
+        "name2": "Modena Butterfly",
+        "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type2": "Legend"
+      },
+      "-ObO29HblnPMA73Lm66e": {
+        "img2": "https://i.supaimg.com/7b2e0740-ebcd-4518-972e-f4945beb3f95.png",
+        "name2": "Doom Catalyst",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      },
+      "-ObO2ATajmbd51csd74C": {
+        "img2": "https://i.supaimg.com/3d5e4206-9962-4317-a21b-a18075cb7a49.png",
+        "name2": "Atomic Pop Miya",
+        "tag2": "https://i.supaimg.com/dc77e2be-ed47-4412-a059-3d7146495864.png",
+        "type2": "Atomic Pop"
+      },
+      "-ObO2BMQ9e6ADE_BrrSC": {
+        "img2": "https://i.supaimg.com/6f0650dc-6430-4fe4-8647-a663396f4160.png",
+        "name2": "Nightowl Huntress",
+        "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type2": "Starlight 2025"
+      }
+    },
+    "img": "https://i.supaimg.com/d9acf7dc-9d77-4486-9c07-3083660b9a62.png",
+    "name": "Miya"
+  },
+  "Moskov": {
+    "Replacements": {
+      "-OY9hQ5D0bLE0wwnzpiY": {
+        "img1": "https://i.supaimg.com/8173e1fe-7f7d-4bd7-adc7-6bceca4238cf.png",
+        "name1": "Spear of Quiescence",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObQG2OWbejqYeWhQl4W": "https://www.dropbox.com/scl/fi/gdgefau883cntk4suxjb4/Moskov-Abyss-Default.zip?rlkey=lbok9caiwlmq3y2iwiy0fwzlb&st=beug63r3&dl=1",
+          "-ObQG2OWbejqYeWhQl4X": "https://www.dropbox.com/scl/fi/gejh6jdnyz21umjle6603/Moskov-Allstar-Default.zip?rlkey=zgqxohcl8e6i63wyhitimmx98&st=fim5i3g7&dl=1",
+          "-ObQG2OWbejqYeWhQl4Y": "https://www.dropbox.com/scl/fi/6rr3g73cj5j99dhbskddb/Moskov-Luckybox-Default.zip?rlkey=img5z12nhpqr77uo358dlx2mm&st=83vxgnqq&dl=1",
+          "-Of7Gl7PyUyCZCEEHGOp": "https://www.dropbox.com/scl/fi/35w9w5as7ycg2x63ut7h5/Moskov-Collector-Default.zip?rlkey=wougjfnbspew1bw230zrhv2u2&st=djhcwy86&dl=1"
+        }
+      },
+      "-OY9hUQ5xblM-hjaz68W": {
+        "img1": "https://i.supaimg.com/b501bfd5-c51c-45ec-9dc3-c775268f54e6.png",
+        "name1": "Spear of Bone Dragon",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-ObQG-fhT84dsShoakRk": "https://www.dropbox.com/scl/fi/ry1x7r6zbhlaevty3iee5/Moskov-Abyss-Basic.zip?rlkey=kuhcklx345c9x0y1myq7z81lg&st=k8ym7sst&dl=1",
+          "-ObQG-fizDVO_AUPdmjj": "https://www.dropbox.com/scl/fi/gqx0w4mxsoe264je34gcp/Moskov-Allstar-Basic.zip?rlkey=egrdpi0n2fhebab6eg2fugdas&st=p3t65avg&dl=1",
+          "-ObQG-fizDVO_AUPdmjk": "https://www.dropbox.com/scl/fi/qvnjhjgnunskoyoyqqioe/Moskov-Luckybox-Basic.zip?rlkey=dvej0f967969ogrk5za5r8ow7&st=1b961l4q&dl=1",
+          "-Of7Gj45p0CFDZB6k5ZA": "https://www.dropbox.com/scl/fi/5bwjl06s8oj026p2vw9yt/Moskov-Collector-Basic.zip?rlkey=rem6wc71afj4ezs14p2ra149b&st=6swsvhgx&dl=1"
+        }
+      },
+      "-OY9he8sfpfYZ4nRUeL8": {
+        "img1": "https://i.supaimg.com/eeaa4c98-b05a-4a17-aaa8-ba9040973528.png",
+        "name1": "Snake Eye Commander",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2017",
+        "type_links": {
+          "-ObQGX4Gr8SlXQpjaBzC": "https://www.dropbox.com/scl/fi/j95roliy8asrijr2srusu/Moskov-Abyss-Starlight.zip?rlkey=uau2r59h550gpzbgsip17apix&st=5fi3bz6z&dl=1",
+          "-ObQGX4Gr8SlXQpjaBzD": "https://www.dropbox.com/scl/fi/lgbuw62v590jjolnzljpe/Moskov-Allstar-Old-Starlight.zip?rlkey=4t87mhayc5ofkj2kiplgh745g&st=ycvzddqe&dl=1",
+          "-ObQGX4Hx1FyEhyT_sT6": "https://www.dropbox.com/scl/fi/1bvxjsn3gzaxg6t2jq0by/Moskov-Luckybox-Old-Starlight.zip?rlkey=0ehtjrfbzdhma9ty3eooocyxt&st=jdbz7f82&dl=1",
+          "-Of7GyBLro03Vq0mk9w4": "https://www.dropbox.com/scl/fi/95acfeors62900bolj8y2/Moskov-Collector-Old-Starlight.zip?rlkey=vjz1skma2wy432g1bacr5rspd&st=r3idi2ik&dl=1"
+        }
+      },
+      "-OY9hkQvE-3b3Lhvgomg": {
+        "img1": "https://i.supaimg.com/5cdf1fe1-f005-4f24-815d-94eeb633f9b4.png",
+        "name1": "Yasha",
+        "tag1": "https://i.supaimg.com/f4c2b852-b687-42cb-81fb-8a69d3fdee50.png",
+        "type1": "Season 7",
+        "type_links": {
+          "-ObQGP0QTvUokaEgXpqF": "https://www.dropbox.com/scl/fi/01dtj6l44drie69bcqfia/Moskov-Abyss-Season.zip?rlkey=s82gr6z1dkrlp8ld7qnj6vxxa&st=2llnehy5&dl=1",
+          "-ObQGP0RSgW6H5dZDCet": "unavailable",
+          "-ObQGP0SOw42XxJqeCrb": "https://www.dropbox.com/scl/fi/m11zui8pm2v179abenvd3/Moskov-Luckybox-Season.zip?rlkey=1jw0t1c6clfrjlv1umjrm5una&st=3luziem2&dl=1",
+          "-Of7H-FKwjHs8XIngPTa": "https://www.dropbox.com/scl/fi/6fmswii0tw03rwvw9yml6/Moskov-Collector-Season.zip?rlkey=ftfre5dq3sxzjkgftm4rmhx0y&st=n0a827ht&dl=1"
+        }
+      },
+      "-OY9hqg6Uy4DBO9QhUG3": {
+        "img1": "https://i.supaimg.com/8058e939-d919-4ca2-b945-5acaddcd91f2.png",
+        "name1": "Javelin Champion",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-ObQGS6UJMQD0CWEE2LL": "https://www.dropbox.com/scl/fi/b48itcsnl1pl9yx8yyokk/Moskov-Abyss-Special.zip?rlkey=6k3ldm55quaba3y79qwi5zox1&st=zrwt5nav&dl=1",
+          "-ObQGS6WGNmcXeGnbACV": "https://www.dropbox.com/scl/fi/0sabzain5r5bpi03v1wmn/Moskov-Allstar-Special.zip?rlkey=2hrdnmck2joelmxa4pwwhrbr0&st=h5lviqh4&dl=1",
+          "-ObQGS6WGNmcXeGnbACW": "https://www.dropbox.com/scl/fi/pbtc8hjayqasbrppm7tzx/Moskov-Luckybox-Special.zip?rlkey=utupu8zom8h2gbyvcvn0ep9ef&st=68hwo9zj&dl=1",
+          "-Of7H1ZobDAOLjY8gmTw": "https://www.dropbox.com/scl/fi/ahj4fpezsvkwh0xha6kfv/Moskov-Collector-Special.zip?rlkey=tsxaoc1jlt07wm172i0cgxc84&st=i7e3ozcc&dl=1"
+        }
+      },
+      "-OY9huNX1uWA86hDftAA": {
+        "img1": "https://i.supaimg.com/358aa694-0940-402b-9f07-50c849e9188c.png",
+        "name1": "Decapitator",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-ObQG5-FlrE6wfGqKJbX": "https://www.dropbox.com/scl/fi/3t59lqdz68usueya8h070/Moskov-Abyss-Elite.zip?rlkey=34ijq339nlk3dkfnciej5sgqd&st=6ymdybfb&dl=1",
+          "-ObQG5-GsU5hsZojMgaT": "https://www.dropbox.com/scl/fi/xtb3xjstp779wkvhnm31i/Moskov-Allstar-Elite.zip?rlkey=ztgqwpxt7fsf4znpbmg06fcz1&st=nc2vv7az&dl=1",
+          "-ObQG5-GsU5hsZojMgaU": "https://www.dropbox.com/scl/fi/qu7ml70157p13q3a646d9/Moskov-Luckybox-Elite.zip?rlkey=vd236ad2h7cb33mgibbi84rm2&st=mjh16c7n&dl=1",
+          "-Of7GnGsE3qXpPTQZacr": "https://www.dropbox.com/scl/fi/a8ylats3y772na4e2ial1/Moskov-Collector-Elite.zip?rlkey=coajb08pffg2quyad8sdhgd38&st=n21yo9mz&dl=1"
+        }
+      },
+      "-OY9hzZEK1B4SKP_ZPV-": {
+        "img1": "https://i.supaimg.com/e08f8058-7f3b-48ac-b20b-e0916e87b990.png",
+        "name1": "Blood Spear",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-ObQG83OsBlffuyyEmup": "https://www.dropbox.com/scl/fi/6a0dsb9lyc1d0bhtbwu4v/Moskov-Abyss-Epic.zip?rlkey=94pirsa76zxql1g6ooddk0d3u&st=7wz3c7uo&dl=1",
+          "-ObQG83OsBlffuyyEmuq": "https://www.dropbox.com/scl/fi/vtdwcpxcedu5url89xn0i/Moskov-Allstar-Epic.zip?rlkey=6dct3445rxdxnynuaouv5xftl&st=lvsc6b1m&dl=1",
+          "-ObQG83OsBlffuyyEmur": "unavailable",
+          "-Of7GpOvNfW4itIYlz5r": "https://www.dropbox.com/scl/fi/p2zc73piw6jlxbdv9123o/Moskov-Collector-Epic.zip?rlkey=1ipkv0ypbnl225kojr0o3jz46&st=m9o9jsuo&dl=1"
+        }
+      },
+      "-OY9i7AQ9Sug05I9cZi5": {
+        "img1": "https://i.supaimg.com/f9ee517b-269d-4f7d-b7fd-18333298366c.png",
+        "name1": "Doom Incarnate",
+        "tag1": "https://i.supaimg.com/fef49e9d-d65d-467f-bc78-43fdae61a53b.png",
+        "type1": "Abyss",
+        "type_links": {
+          "-ObQGaHHB0ZRQuevIltP": "unavailable",
+          "-ObQGaHKzmuCkRapU-4a": "https://www.dropbox.com/scl/fi/6q9xj15940gfaig96fwep/Moskov-Allstar-Abyss.zip?rlkey=19kftvx2420k8x9urmuzt7lb5&st=ywrdz2pq&dl=1",
+          "-ObQGaHLFEnvcv2hwDKk": "unavailable",
+          "-Of7GYI6a9R3acmf7JTm": "https://www.dropbox.com/scl/fi/gbcqrx22nix1qyju09pyb/Moskov-Collector-Abyss.zip?rlkey=zo3nvuasen8xyh1itqzx3wc3a&st=fuchk646&dl=1"
+        }
+      },
+      "-OY9iBKy-uVnI1UyAeNL": {
+        "img1": "https://i.supaimg.com/e8426ebd-5f37-4152-9d74-7d3d6807dce9.png",
+        "name1": "Violet Spear",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2023",
+        "type_links": {
+          "-ObQGDy4-7s-hGcIIJoZ": "https://www.dropbox.com/scl/fi/dxkvt32nw9tuu6oldbh7v/Moskov-Abyss-New-Starlight.zip?rlkey=wk5h09nvk44deja1dc7ib4j8c&st=ugy7qfd6&dl=1",
+          "-ObQGDy4-7s-hGcIIJo_": "https://www.dropbox.com/scl/fi/wjahblm6ofpg6wh0gbm7o/Moskov-Allstar-New-Starlight.zip?rlkey=mlfvkd30gpxo1ypeokq2g87fj&st=4iox5yos&dl=1",
+          "-ObQGDy4-7s-hGcIIJoa": "unavailable",
+          "-Of7GvZaedzHOdgY3oxs": "https://www.dropbox.com/scl/fi/qy9l1o55b7x9n5csz1s2s/Moskov-Collector-New-Starlight.zip?rlkey=jn3yrjomgvxsdoen8onsm2bdr&st=ogs5v951&dl=1"
+        }
+      },
+      "-OY9iJGAKA8-sb9lAYQI": {
+        "img1": "https://i.supaimg.com/6cac068b-b569-42cc-9e29-2b31d88b6d0b.png",
+        "name1": "Infernal Wrymlord",
+        "tag1": "https://i.supaimg.com/f0804770-d198-4fa3-b970-4c375fc52bf2.png",
+        "type1": "All Star",
+        "type_links": {
+          "-ObQFxpL0ZUM85O4lbFt": "https://www.dropbox.com/scl/fi/i2y5ohnuspyz6cj8p8xq9/Moskov-Abyss-Allstar.zip?rlkey=fpo375d8ku3tmlodrq02u0dbq&st=cvlrwcpt&dl=1",
+          "-ObQFxpMNis5syyLKIqd": "https://www.dropbox.com/scl/fi/6nugwr9qjzzy3a3j9btig/Moskov-Allstar-Season.zip?rlkey=n4kcrx8e66okpkdyvppvf9z93&st=9jcip7to&dl=1",
+          "-ObQFxpMNis5syyLKIqe": "unavailable",
+          "-Of7GgCI-0ZXghYYgv2u": "https://www.dropbox.com/scl/fi/ly9htmq9f7kmp1bp0tbmb/Moskov-Collector-Allstar.zip?rlkey=r01omglsemw18ec72lp4scixl&st=fg8x76tw&dl=1"
+        }
+      },
+      "-ObQFu75NZG1-bBrdV7-": {
+        "img1": "https://i.supaimg.com/951fb03a-2721-4eff-ab38-fc7eed71696a.png",
+        "name1": "Twilight Dragon",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-ObQGAiTI3pUZMdV6pgC": "https://www.dropbox.com/scl/fi/8vqptx4h9zx20j0peham1/Moskov-Abyss-Luckybox.zip?rlkey=n8kzbx66t8d4ykfy90liwg2mv&st=wj46m7dw&dl=1",
+          "-ObQGAiTI3pUZMdV6pgD": "https://www.dropbox.com/scl/fi/oq04za7965zxe2bctp37l/Moskov-Allstar-Luckybox.zip?rlkey=rvhsvkoea7vvt0vi9r0rgxng1&st=c5cxo33u&dl=1",
+          "-ObQGAiTI3pUZMdV6pgE": "unavailable",
+          "-Of7GrkTHbWKMVb13azh": "https://www.dropbox.com/scl/fi/5opyrzo5eov67agoih15t/Moskov-Collector-Luckybox.zip?rlkey=1yrqduu5z9e3ub2uvqa1wd1ze&st=l3sj3lhl&dl=1"
+        }
+      }
+    },
+    "Skins": {
+      "-ObQFJUlBgM-yOs1kE8W": {
+        "img2": "https://i.supaimg.com/f9ee517b-269d-4f7d-b7fd-18333298366c.png",
+        "name2": "Doom Incarnate",
+        "tag2": "https://i.supaimg.com/fef49e9d-d65d-467f-bc78-43fdae61a53b.png",
+        "type2": "Abyss"
+      },
+      "-ObQFK0dYv85ga747eq3": {
+        "img2": "https://i.supaimg.com/6cac068b-b569-42cc-9e29-2b31d88b6d0b.png",
+        "name2": "Infernal Wrymlord",
+        "tag2": "https://i.supaimg.com/f0804770-d198-4fa3-b970-4c375fc52bf2.png",
+        "type2": "All Star"
+      },
+      "-ObQFuIGD3rhMZbMqXE5": {
+        "img2": "https://i.supaimg.com/951fb03a-2721-4eff-ab38-fc7eed71696a.png",
+        "name2": "Twilight Dragon",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      },
+      "-Of7GDIG3kKf1phgKL7x": {
+        "img2": "https://i.supaimg.com/a7583ba1-3993-4531-9de2-78eb6d3cb7be.jpg",
+        "name2": "Harbinger of Chaos",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      }
+    },
+    "img": "https://i.supaimg.com/8173e1fe-7f7d-4bd7-adc7-6bceca4238cf.png",
+    "name": "Moskov"
+  },
+  "Lesley": {
+    "Replacements": {
+      "-OY9jDZYt3_LaP-aUn63": {
+        "img1": "https://i.supaimg.com/e31439b2-1467-499a-8558-05e6c18606b1.jpg",
+        "name1": "Deadly Sniper",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObLIGkAMDy4_jsO7AdX": "unavailable",
+          "-ObLIGkByNEWNXu2RBzs": "https://www.dropbox.com/scl/fi/ukcrp1zwilk957vulxg7x/Lesley-Legend-Default.zip?rlkey=j787xg20exw63kugcytd7dwq3&st=ad5at4k9&dl=1",
+          "-ObLIGkByNEWNXu2RBzt": "https://www.dropbox.com/scl/fi/t78bpb8329p2kv0o9syt1/Lesley-Collector-Default.zip?rlkey=qc8os0a69vqxy8pga9jks4rjd&st=fundsqmm&dl=1",
+          "-ObLIGkByNEWNXu2RBzu": "https://www.dropbox.com/scl/fi/vo4l1dip475njf4q2ub27/Lesley-Annual-Default.zip?rlkey=1e5q65bj4542mft7nuei17wbb&st=6iwwhodw&dl=1",
+          "-ObLIGkByNEWNXu2RBzv": "https://www.dropbox.com/scl/fi/hyafzgscp6w2fjrhan42o/Lesley-Aspirants-Default.zip?rlkey=3y08hi6zll8s6ddmfj37imqsc&st=otliqeow&dl=1",
+          "-ObLIGkByNEWNXu2RBzw": "unavailable",
+          "-ObLIGkByNEWNXu2RBzx": "unavailable"
+        }
+      },
+      "-OY9jFmhthEh7YhSflEO": {
+        "img1": "https://i.supaimg.com/d7824897-56b3-47b9-8232-3f97a4cfa64a.jpg",
+        "name1": "Royal Musketeer",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-ObLIHl403DxCNDSQ3n4": "unavailable",
+          "-ObLIHl66hoUC0cJTDFK": "https://www.dropbox.com/scl/fi/poxgem8fy8mhiqravlp1p/Lesley-Legend-Basic.zip?rlkey=t3mafqm5hjbwe0f2qq3kzwvx7&st=3emtjpnd&dl=1",
+          "-ObLIHl7zr60dAxLv2vB": "https://www.dropbox.com/scl/fi/89nfgfgk2yxu6jqqxt2rv/Lesley-Collector-Basic.zip?rlkey=csoogx01eq3660qle8m2bw1gq&st=7dmr2ja0&dl=1",
+          "-ObLIHl7zr60dAxLv2vC": "https://www.dropbox.com/scl/fi/32s0yt5urb7liql08lswt/Lesley-Annual-Basic.zip?rlkey=mq34pv6rckzcjhx7he4n2uq3j&st=xw4wllvg&dl=1",
+          "-ObLIHl7zr60dAxLv2vD": "https://www.dropbox.com/scl/fi/s1uqjqht4p2c3kps71sd7/Lesley-Aspirants-Basic.zip?rlkey=c0jck3bi8dsm0c37y06s7gxhx&st=y79etpeb&dl=1",
+          "-ObLIHl7zr60dAxLv2vE": "unavailable",
+          "-ObLIHl7zr60dAxLv2vF": "unavailable"
+        }
+      },
+      "-OY9jJ0dlosWywnK79y1": {
+        "img1": "https://i.supaimg.com/b58f050a-8317-4e12-b5e9-2d5f4b9ad464.jpg",
+        "name1": "General Rosa",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-ObLIJKdTK7jYATkPsGa": "unavailable",
+          "-ObLIJKev6VbPJGvE9YZ": "https://www.dropbox.com/scl/fi/gypp9wvmajj9jn3btcjv2/Lesley-Legend-Elite.zip?rlkey=elghuqdaprs77gvajq4nb6cur&st=lqz75k22&dl=1",
+          "-ObLIJKfwcriVknlSTE5": "https://www.dropbox.com/scl/fi/5nse2ctcgdncnozeu9nea/Lesley-Collector-Elite.zip?rlkey=h8yn35x0l3tlg7dpejqy4na4x&st=mu9wtxp8&dl=1",
+          "-ObLIJKgWVcPQS8vjNU8": "https://www.dropbox.com/scl/fi/tt8siy3msmz20b26zugg2/Lesley-Annual-Elite.zip?rlkey=4p7x60d33mu3751xcic8pfe79&st=rjwapqqq&dl=1",
+          "-ObLIJKgWVcPQS8vjNU9": "https://www.dropbox.com/scl/fi/srcbk9vnl0wckvwx5gjf2/Lesley-Aspirants-Elite.zip?rlkey=xp88xn0imkxpj31vr5mf7117q&st=5kcqv6ur&dl=1",
+          "-ObLIJKgWVcPQS8vjNUA": "unavailable",
+          "-ObLIJKhRTNA-asieFp7": "unavailable"
+        }
+      },
+      "-OY9jNUxHRqB8XvH7xlx": {
+        "img1": "https://i.supaimg.com/4b896102-d29c-4826-a2e6-ad180b75a996.jpg",
+        "name1": "Cheergunner",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-ObLIQ1NtBXz-8-OCvIV": "unavailable",
+          "-ObLIQ1NtBXz-8-OCvIW": "https://www.dropbox.com/scl/fi/kxbxlb42g8qdox6z67shs/Lesley-Legend-Special.zip?rlkey=hswk604rwi9jjefokhikmttgy&st=y2dsh6y6&dl=1",
+          "-ObLIQ1NtBXz-8-OCvIX": "https://www.dropbox.com/scl/fi/87dexjqf87dr99gb6lb4p/Lesley-Collector-Special.zip?rlkey=w8xr0dk780vzus58v3q9v528p&st=3icyj10z&dl=1",
+          "-ObLIQ1NtBXz-8-OCvIY": "https://www.dropbox.com/scl/fi/kns1ysm5wj9b4a15ldul5/Lesley-Annual-Special.zip?rlkey=zhjmlqr901dxgzufk8qhrq8gk&st=v1zasfrq&dl=1",
+          "-ObLIQ1Ox-DgfQxSUflA": "https://www.dropbox.com/scl/fi/4x1zqxa59zqgltoqoqez9/Lesley-Aspirants-Special.zip?rlkey=1ujsiqqr02wdn7bpe8nshq6g3&st=43awu6gt&dl=1",
+          "-ObLIQ1Ox-DgfQxSUflB": "unavailable",
+          "-ObLIQ1Ox-DgfQxSUflC": "unavailable"
+        }
+      },
+      "-OY9jQcjAc0eg-iG1ExE": {
+        "img1": "https://i.supaimg.com/ae5ed337-d920-4a0d-ba80-6eb39cdb47e1.jpg",
+        "name1": "Stellaris Ghost",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-ObLIUj2C2k7GaszQ_yu": "unavailable",
+          "-ObLIUj3IqeGJIbbRRjO": "https://www.dropbox.com/scl/fi/oge2mlmwz7h0mgmg3j8ok/Lesley-Legend-Luckybox.zip?rlkey=gkwl0645nsw26x3tngbejr30u&st=u5q94uid&dl=1",
+          "-ObLIUj3IqeGJIbbRRjP": "https://www.dropbox.com/scl/fi/risrjmmmj2mjos62yeor7/Lesley-Collector-Luckybox.zip?rlkey=m571l46uhwohavamrf2y9he9l&st=snnrsltr&dl=1",
+          "-ObLIUj3IqeGJIbbRRjQ": "https://www.dropbox.com/scl/fi/i00jv9kkwbs7pogfnthmm/Lesley-Annual-Luckybox.zip?rlkey=qhkqvm4k0lc22gxjedmqm19je&st=05xxwbcw&dl=1",
+          "-ObLIUj3IqeGJIbbRRjR": "https://www.dropbox.com/scl/fi/i74qff4ocpkr4ro06ocae/Lesley-Aspirants-Luckybox.zip?rlkey=f4bdi385p67nwbl822ewq41fx&st=m54b89t6&dl=1",
+          "-ObLIUj3IqeGJIbbRRjS": "unavailable",
+          "-ObLIUj3IqeGJIbbRRjT": "unavailable"
+        }
+      },
+      "-OY9jUIrEXGvByBR9tMx": {
+        "img1": "https://i.supaimg.com/096d2f9a-b141-44a1-a802-29d28f4f9f3a.jpg",
+        "name1": "Dangerous Love",
+        "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
+        "type1": "Valentine",
+        "type_links": {
+          "-ObLIavHWe6Ha1M8C5-F": "unavailable",
+          "-ObLIavIbA17eSZJL5z-": "https://www.dropbox.com/scl/fi/otpdcrymaq0ye8pf7ulys/Lesley-Legend-Valentine.zip?rlkey=fmbbycnrff9y48skdj5ynxgkv&st=ik2k8pgv&dl=1",
+          "-ObLIavIbA17eSZJL5z0": "https://www.dropbox.com/scl/fi/9gqbam1nn28rjxwelleai/Lesley-Collector-Valentine.zip?rlkey=yi4m00uiv2ou1a0txhu0qsbcx&st=9dyji44k&dl=1",
+          "-ObLIavIbA17eSZJL5z1": "https://www.dropbox.com/scl/fi/a12r8wulaevdngkysz7rw/Lesley-Annual-Valentine.zip?rlkey=06jxox96a4zx9iwjxjiwn22qn&st=o4wachtv&dl=1",
+          "-ObLIavIbA17eSZJL5z2": "https://www.dropbox.com/scl/fi/65k7ahsjf4aape9vorgvv/Lesley-Aspirants-Valentine.zip?rlkey=9wbd0bsj7dy392zc2x351asg7&st=f2qcv4fr&dl=1",
+          "-ObLIavIbA17eSZJL5z3": "unavailable",
+          "-ObLIavJRJXYnDyJcpX1": "unavailable"
+        }
+      },
+      "-OY9jXRILPHo3cdnQ5xg": {
+        "img1": "https://i.supaimg.com/2448592c-9da6-434b-9a18-546db705112c.jpg",
+        "name1": "Angelic Agent",
+        "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type1": "Legend",
+        "type_links": {
+          "-ObLIhJuDPizjH4BS8e5": "unavailable",
+          "-ObLIhJuDPizjH4BS8e6": "unavailable",
+          "-ObLIhJv09T2vSSN4S4G": "https://www.dropbox.com/scl/fi/radj8ycfojq8p32atjq1r/Lesley-Collector-Legend.zip?rlkey=eslo0ka6jdhz7oeu7c9qopvcc&st=4cfdbq5b&dl=1",
+          "-ObLIhJv09T2vSSN4S4H": "https://www.dropbox.com/scl/fi/1f14l27wan9vhr4ecjtgg/Lesley-Annual-Legend.zip?rlkey=lob1hpz9osiooiwvbmzdr2axy&st=ts5h1yu1&dl=1",
+          "-ObLIhJv09T2vSSN4S4I": "https://www.dropbox.com/scl/fi/sgebupsgtcjeqwmbdmhnb/Lesley-Aspirants-Legend.zip?rlkey=tdttc2gphizn7ucobof0wrsbs&st=ho3qfvke&dl=1",
+          "-ObLIhJv09T2vSSN4S4J": "unavailable",
+          "-ObLIhJv09T2vSSN4S4K": "unavailable"
+        }
+      },
+      "-OY9jcDcgABgLMzq6P67": {
+        "img1": "https://i.supaimg.com/5e1f962f-c3be-4e4d-b61a-083b49c0cd1d.jpg",
+        "name1": "Lethal Lady",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight",
+        "type_links": {
+          "-ObLIpDWdufSfLdNrBk0": "unavailable",
+          "-ObLIpDWdufSfLdNrBk1": "https://www.dropbox.com/scl/fi/m9a83ukbe5grsjp8qebaz/Lesley-Legend-Starlight.zip?rlkey=uo43n1y2z6i8qhn2ax223o4hs&st=jbhg1ajn&dl=1",
+          "-ObLIpDWdufSfLdNrBk2": "https://www.dropbox.com/scl/fi/yp50l8wrx6n36ixfaw39k/Lesley-Collector-Starlight.zip?rlkey=ky6v5g7dlx3c3onu6346gflb5&st=836h2cyl&dl=1",
+          "-ObLIpDWdufSfLdNrBk3": "https://www.dropbox.com/scl/fi/e2k81oqhpk44058hr1w03/Lesley-Annual-Starlight.zip?rlkey=0oxu1r45dtlo8y3438c9eurw1&st=i54gycyr&dl=1",
+          "-ObLIpDWdufSfLdNrBk4": "https://www.dropbox.com/scl/fi/ie03ytjk3bgro2ot5mc17/Lesley-Aspirants-Starlight.zip?rlkey=61vs4yo7gb7a4bbp2i1yhlvn0&st=sjgnmdnx&dl=1",
+          "-ObLIpDX2XFDdZoPwYIn": "unavailable",
+          "-ObLIpDX2XFDdZoPwYIo": "unavailable"
+        }
+      },
+      "-OY9jfmWKisr6ysNjhYW": {
+        "img1": "https://i.supaimg.com/f959b45c-5400-49d7-b4c1-f813b56f7623.png",
+        "name1": "Falcon Mistress",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-ObLJfxGDfXz4mlxbqKX": "unavailable",
+          "-ObLJfxGDfXz4mlxbqKY": "https://www.dropbox.com/scl/fi/vbd5s4sapujs5o4r75lgu/Lesley-Legend-Collector.zip?rlkey=jjybnynkt4fs4lct1ml4bm7io&st=hhcweqy3&dl=1",
+          "-ObLJfxGDfXz4mlxbqKZ": "unavailable",
+          "-ObLJfxGDfXz4mlxbqK_": "https://www.dropbox.com/scl/fi/z1w8f3x8lx2fscjdpyw6q/Lesley-Annual-Collector.zip?rlkey=vx9pz66xhbq66tkmpyzpgilo7&st=2688kpvt&dl=1",
+          "-ObLJfxGDfXz4mlxbqKa": "https://www.dropbox.com/scl/fi/7ss5wvuzqo32zh3aswv6g/Lesley-Aspirants-Collector.zip?rlkey=lfsaw9d9h0uk9irfyajnq0nyb&st=9gfpo4aa&dl=1",
+          "-ObLJfxH4uExtiZSjlG8": "unavailable",
+          "-ObLJfxH4uExtiZSjlG9": "unavailable"
+        }
+      },
+      "-OY9jkzJQO9ikbZcRMmi": {
+        "img1": "https://i.supaimg.com/102de90e-18ba-43f4-b507-57ac83f49543.png",
+        "name1": "Hawk-eyed Sniper",
+        "tag1": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png",
+        "type1": "Anual Starlight",
+        "type_links": {
+          "-ObLKotLVxv-VKe0swLM": "unavailable",
+          "-ObLKotLVxv-VKe0swLN": "https://www.dropbox.com/scl/fi/3hqqgvwxy4uobewp617z7/Lesley-Legend-Annual-Star.zip?rlkey=eoqcryb4dwmah5g6jxlvfok3z&st=hgdo4ok2&dl=1",
+          "-ObLKotLVxv-VKe0swLO": "https://www.dropbox.com/scl/fi/bzfz81paz2a5u92gy8hr7/Lesley-Collector-Annual-Star.zip?rlkey=p0prvz5vw2mo3isofc2ccvvvc&st=zkzjrmlm&dl=1",
+          "-ObLKotLVxv-VKe0swLP": "unavailable",
+          "-ObLKotLVxv-VKe0swLQ": "https://www.dropbox.com/scl/fi/ijr431j7jh60z53uxtv2f/Lesley-Aspirants-Annual-Star.zip?rlkey=ir8glxjx8j64kt8c50qp6sjs7&st=61ymedfv&dl=1",
+          "-ObLKotLVxv-VKe0swLR": "unavailable",
+          "-ObLKotLVxv-VKe0swLS": "unavailable"
+        }
+      },
+      "-OY9jpxSWQTkwgNrGFG6": {
+        "img1": "https://i.supaimg.com/96c39265-6a29-478e-80a6-c836b7026230.png",
+        "name1": "Deadeye Spectre",
+        "tag1": "https://i.supaimg.com/9e12716d-a6ec-4592-8502-3a5c1c8d57bd.png",
+        "type1": "The Aspirants",
+        "type_links": {
+          "-ObLMIuwunQw2GNcJ1lC": "unavailable",
+          "-ObLMIuwunQw2GNcJ1lD": "https://www.dropbox.com/scl/fi/qeqt6dlqd3f5pzlft7axi/Lesley-Legend-Aspirants.zip?rlkey=ds9y1lj9osepobxrlmgscjlb0&st=xpowqzzq&dl=1",
+          "-ObLMIuxyqAxhmdI0kMY": "https://www.dropbox.com/scl/fi/xi86h9egr3l7ind1up6gc/Lesley-Collector-Aspirants.zip?rlkey=9e0gknqk58m3sxaqzavd2tbna&st=fg6b6nju&dl=1",
+          "-ObLMIuxyqAxhmdI0kMZ": "https://www.dropbox.com/scl/fi/9zvdhoc6k53fh942w2qqn/Lesley-Annual-Aspirants.zip?rlkey=j4u894nb07b84jiqb1cahqh31&st=487y9z3a&dl=1",
+          "-ObLMIuxyqAxhmdI0kM_": "unavailable",
+          "-ObLMIuxyqAxhmdI0kMa": "unavailable",
+          "-ObLMIuyfKG_yQRfP8Gl": "unavailable"
+        }
+      },
+      "-OY9jvSHR_jcF10084ot": {
+        "img1": "https://i.supaimg.com/111b6930-eb52-44bc-a984-fa52e754cda6.png",
+        "name1": "Meowkin Hunter",
+        "tag1": "https://i.supaimg.com/77bd314b-50db-4eed-9ea8-f1658ebd8af1.png",
+        "type1": "Mythic Meow",
+        "type_links": {
+          "-ObLMvoj9WMc4URJkJz8": "unavailable",
+          "-ObLMvokA3t59jAA--qz": "unavailable",
+          "-ObLMvokA3t59jAA--r-": "unavailable",
+          "-ObLMvokA3t59jAA--r0": "unavailable",
+          "-ObLMvolSaa1dlyc--4u": "unavailable",
+          "-ObLMvolSaa1dlyc--4v": "unavailable",
+          "-ObLMvolSaa1dlyc--4w": "unavailable"
+        }
+      },
+      "-OY9k-ZlUPNtGorln3pQ": {
+        "img1": "https://i.supaimg.com/f9a8bd04-c0fa-48f6-9334-0ba4ba58cf12.png",
+        "name1": "Duchess of Tides",
+        "tag1": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png",
+        "type1": "Covenant",
+        "type_links": {
+          "-ObLMx39gjqdNf3oCTsz": "unavailable",
+          "-ObLMx39gjqdNf3oCTt-": "https://www.dropbox.com/scl/fi/kkirz8ogklkgi9vk4wpq7/Lesley-Legend-Covenant.zip?rlkey=gk7tqrlv40yyjuca1dpysyb2o&st=304asixf&dl=1",
+          "-ObLMx39gjqdNf3oCTt0": "https://www.dropbox.com/scl/fi/tfvbbztj0sklsoofe4c5v/Lesley-Collector-Covenant.zip?rlkey=t20w2tajrc3yql9nge6ygcm3n&st=3fqpvqw0&dl=1",
+          "-ObLMx39gjqdNf3oCTt1": "https://www.dropbox.com/scl/fi/bw0bpfallzjyvxaymg10h/Lesley-Annual-Covenant.zip?rlkey=zsd6gt84r4k1dkmgsbxkpodri&st=n4t46fct&dl=1",
+          "-ObLMx3AnmaOITlhKqAO": "https://www.dropbox.com/scl/fi/flhnjtq1zjvwjliwhmgdu/Lesley-Aspirants-Covenant.zip?rlkey=cvy7vzyda316by1n4q4hj0zmy&st=qbh2p901&dl=1",
+          "-ObLMx3AnmaOITlhKqAP": "unavailable",
+          "-ObLMx3AnmaOITlhKqAQ": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-ObLHzMo9HOIc37BW_6d": {
+        "img2": "https://i.supaimg.com/ae5ed337-d920-4a0d-ba80-6eb39cdb47e1.jpg",
+        "name2": "Stellaris Ghost",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      },
+      "-ObLI-5iPZEzjiGpvNBu": {
+        "img2": "https://i.supaimg.com/2448592c-9da6-434b-9a18-546db705112c.jpg",
+        "name2": "Angelic Agent",
+        "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type2": "Legend"
+      },
+      "-ObLI-vJuiyD10ITyhI9": {
+        "img2": "https://i.supaimg.com/f959b45c-5400-49d7-b4c1-f813b56f7623.png",
+        "name2": "Falcon Mistress",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      },
+      "-ObLI1pzh8J8u_QAzH3e": {
+        "img2": "https://i.supaimg.com/102de90e-18ba-43f4-b507-57ac83f49543.png",
+        "name2": "Hawk-eyed Sniper",
+        "tag2": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png",
+        "type2": "Anual Starlight"
+      },
+      "-ObLI2ZLgMSD-gkRJUWC": {
+        "img2": "https://i.supaimg.com/96c39265-6a29-478e-80a6-c836b7026230.png",
+        "name2": "Deadeye Spectre",
+        "tag2": "https://i.supaimg.com/9e12716d-a6ec-4592-8502-3a5c1c8d57bd.png",
+        "type2": "The Aspirants"
+      },
+      "-ObLI3rOZwq9yKM6Tx14": {
+        "img2": "https://i.supaimg.com/111b6930-eb52-44bc-a984-fa52e754cda6.png",
+        "name2": "Meowkin Hunter",
+        "tag2": "https://i.supaimg.com/77bd314b-50db-4eed-9ea8-f1658ebd8af1.png",
+        "type2": "Mythic Meow"
+      },
+      "-ObLI4ire8bAJ3WtYj9b": {
+        "img2": "https://i.supaimg.com/f9a8bd04-c0fa-48f6-9334-0ba4ba58cf12.png",
+        "name2": "Duchess of Tides",
+        "tag2": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png",
+        "type2": "Covenant"
+      }
+    },
+    "img": "https://i.supaimg.com/e31439b2-1467-499a-8558-05e6c18606b1.jpg",
+    "name": "Lesley"
+  },
+  "Kimmy": {
+    "Replacements": {
+      "-OY9kJXRl9EVXxkfV3cK": {
+        "img1": "https://i.supaimg.com/50bb3132-e381-4f4a-9213-6d06668fb833.png",
+        "name1": "Hoverjet Outrider",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObL9lr3TvK9S4VD-wc_": "https://www.dropbox.com/scl/fi/dpwvqy9ftb753pwb3wzww/Kimmy-Luckybox-Default.zip?rlkey=u6rl2tjjkww94i969q5umfik4&st=h698m7qd&dl=1",
+          "-ObL9lr3TvK9S4VD-wca": "unavailable",
+          "-ObL9lr3TvK9S4VD-wcb": "https://www.dropbox.com/scl/fi/cyw9cu7e0somsrd7xfu7y/Kimmy-Starwars-Default.zip?rlkey=ubcknzoiyzheoaishrgj8517i&st=2airv5np&dl=1"
+        }
+      },
+      "-OY9l8KlKXa6wzSMp37q": {
+        "img1": "https://i.supaimg.com/c0aa6098-9fa9-4568-80fb-bab99fb7674b.png",
+        "name1": "Steam Researcher",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-ObL9iw4HLnBHfGjTvMW": "https://www.dropbox.com/scl/fi/6q9vkmzh0vhxgekoarvgg/Kimmy-Luckybox-Basic.zip?rlkey=5372ebvr5mu0rt8dboaa8r5u2&st=9y9yo6tr&dl=1",
+          "-ObL9iw4HLnBHfGjTvMX": "unavailable",
+          "-ObL9iw4HLnBHfGjTvMY": "https://www.dropbox.com/scl/fi/vwkzcc3obfto1wlxk92x9/Kimmy-Starwars-Basic.zip?rlkey=7flgw5ih2d4zwcldccajw6r7l&st=n5jji1fw&dl=1"
+        }
+      },
+      "-OY9lBkaLWoHgDT8gFva": {
+        "img1": "https://i.supaimg.com/42c4cddd-0375-44b6-aa1a-7bf5ec9b41ee.png",
+        "name1": "Bio Frontier",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight",
+        "type_links": {
+          "-ObLA3SiQblxrxRH68zB": "https://www.dropbox.com/scl/fi/ze3b2b57519tfjt6okwd4/Kimmy-Luckybox-Starlight.zip?rlkey=18zy4l138albs62ug2az4m90s&st=epg0ihro&dl=1",
+          "-ObLA3SiQblxrxRH68zC": "unavailable",
+          "-ObLA3SiQblxrxRH68zD": "https://www.dropbox.com/scl/fi/to96k61j1wdini7udxds5/Kimmy-Starwars-Starlight.zip?rlkey=dhbawjvuroxmerb4kofn8wnt4&st=kosrv3uq&dl=1"
+        }
+      },
+      "-OY9lG7ZQENbyA2Ggk-O": {
+        "img1": "https://i.supaimg.com/a972635b-22bd-4578-ba90-c6d4d5f5f607.png",
+        "name1": "Astrocat",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-ObLALJbpoPX8Atfqj03": "unavailable",
+          "-ObLALJcODyLUt-I1UpB": "unavailable",
+          "-ObLALJgjGHKym2TsMh0": "https://www.dropbox.com/scl/fi/x0svjklmho9o02hjo1xzi/Kimmy-Starwars-Luckybox.zip?rlkey=5chgq2psgfd10hmquevl8lefp&st=d5tgn5zr&dl=1"
+        }
+      },
+      "-OY9lL8n9JcaAlKAhTzW": {
+        "img1": "https://i.supaimg.com/4c3d030e-3ccf-45ad-8f1b-613df6ff9226.png",
+        "name1": "Charge Leader",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 1",
+        "type_links": {
+          "-ObL9vVpbUWrLH47kciz": "https://www.dropbox.com/scl/fi/yrnao68mkjsu8tvuvflvm/Kimmy-Luckybox-Social-Charge.zip?rlkey=6ocazy1fs3ucaijjak7vkwo7p&st=2zweydgy&dl=1",
+          "-ObL9vVq264tVSycbh_q": "unavailable",
+          "-ObL9vVq264tVSycbh_r": "https://www.dropbox.com/scl/fi/xta77ehqpvbw817jsgusi/Kimmy-Starwars-Special-Charge.zip?rlkey=11ilm1fny13cbf5cm572b10pz&st=ltbrd2qc&dl=1"
+        }
+      },
+      "-OY9lPy84-QZU-zvELaI": {
+        "img1": "https://i.supaimg.com/eb61c7f3-7ce0-47d9-8f5c-41b05e94aa4a.png",
+        "name1": "Frost Wing",
+        "tag1": "https://i.supaimg.com/b212be91-7e5f-40d8-b7f7-10dacc317b3d.png",
+        "type1": "Dragon Tamer",
+        "type_links": {
+          "-ObL9om_oK8cUPphEBAB": "https://www.dropbox.com/scl/fi/2wdrtvsjifz673d9iasol/Kimmy-Luckybox-Dragon-Tamer.zip?rlkey=4fjogsitwmgsnub5ypjwmj160&st=0z7g21nt&dl=1",
+          "-ObL9omatzyurmNbsFcW": "unavailable",
+          "-ObL9omatzyurmNbsFcX": "https://www.dropbox.com/scl/fi/cqyjfnrndovkok4q3ehxy/Kimmy-Starwars-Dragon.zip?rlkey=8hmytqttpmjxa1l1xhbcgkl07&st=tx4m4hfs&dl=1"
+        }
+      },
+      "-OY9lViM_Y4dtheq_3mw": {
+        "img1": "https://i.supaimg.com/10dd2ebc-e311-44be-a057-284cb4b4bf28.png",
+        "name1": "First Order Jet Trooper",
+        "tag1": "https://i.supaimg.com/f8f8194d-6618-495f-a815-87cf5253e3fa.png",
+        "type1": "Starwars",
+        "type_links": {
+          "-ObLA7-A6CUB3J-k6nsb": "https://www.dropbox.com/scl/fi/sciflwgdk2utehcg33xci/Kimmy-Luckybox-Starwars.zip?rlkey=pidbrtjwh6tk499oh5f6zpiwn&st=rjkyugif&dl=1",
+          "-ObLA7-A6CUB3J-k6nsc": "unavailable",
+          "-ObLA7-A6CUB3J-k6nsd": "unavailable"
+        }
+      },
+      "-OY9l_6Ug41ZjbJHuxV-": {
+        "img1": "https://i.supaimg.com/9ad687a8-fff7-402b-985c-ff3db1c336f3.png",
+        "name1": "Rising Nova",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 2",
+        "type_links": {
+          "-ObL9xyKS8yzuAB-9T-S": "https://www.dropbox.com/scl/fi/vjn2wtf7ip8767bgmuq5j/Kimmy-Luckybox-Special-Rising.zip?rlkey=lgtnm3773j34zwdq0rcr5ro9b&st=clfk0vpg&dl=1",
+          "-ObL9xyKS8yzuAB-9T-T": "unavailable",
+          "-ObL9xyKS8yzuAB-9T-U": "https://www.dropbox.com/scl/fi/exuohdw15oi6jjryxwt0z/Kimmy-Starwars-Special-Rising.zip?rlkey=udexo4yt24b4aojomy5qzkntl&st=ohloln9h&dl=1"
+        }
+      },
+      "-OY9lfXF6-8q39ChTQg5": {
+        "img1": "https://i.supaimg.com/42b9927c-5dae-4e56-8e37-c2747b2025bc.png",
+        "name1": "High Seas Cadet",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-ObL9rEKtw_ESxva-Kl8": "https://www.dropbox.com/scl/fi/vf7uzchc6i1x3kxw2iarv/Kimmy-Luckybox-Elite.zip?rlkey=qxgpg9jp4nnpkxjvx8h2qajtq&st=z4wl03ps&dl=1",
+          "-ObL9rEKtw_ESxva-Kl9": "unavailable",
+          "-ObL9rEKtw_ESxva-KlA": "https://www.dropbox.com/scl/fi/3kl58m5szlikufdnc9f3l/Kimmy-Starwars-Elite.zip?rlkey=uiwedi315lw44fxh43354h5kk&st=3a1er2xi&dl=1"
+        }
+      }
+    },
+    "Skins": {
+      "-ObL9UXOXVATTejmF3qa": {
+        "img2": "https://i.supaimg.com/a972635b-22bd-4578-ba90-c6d4d5f5f607.png",
+        "name2": "Astrocat",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      },
+      "-ObL9gGWG0KeC8lO4WgD": {
+        "img2": "https://i.supaimg.com/eb61c7f3-7ce0-47d9-8f5c-41b05e94aa4a.png",
+        "name2": "Frost Wing",
+        "tag2": "https://i.supaimg.com/b212be91-7e5f-40d8-b7f7-10dacc317b3d.png",
+        "type2": "Dragon Tamer"
+      },
+      "-ObL9gkLUFlJSa9HITjd": {
+        "img2": "https://i.supaimg.com/10dd2ebc-e311-44be-a057-284cb4b4bf28.png",
+        "name2": "First Order Jet Trooper",
+        "tag2": "https://i.supaimg.com/f8f8194d-6618-495f-a815-87cf5253e3fa.png",
+        "type2": "Starwars"
+      }
+    },
+    "img": "https://i.supaimg.com/50bb3132-e381-4f4a-9213-6d06668fb833.png",
+    "name": "Kimmy"
+  },
+  "Beatrix": {
+    "Replacements": {
+      "-OY9lsZ3ENhJnJJDTBeh": {
+        "img1": "https://i.supaimg.com/81ad3bec-22c3-46f5-ad32-d9035f96865d.png",
+        "name1": "Dawnbreak Soldier",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_ND0KBPqzmYtbcHB_V": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20-%20Default.zip",
+          "-O_ND0KBPqzmYtbcHB_W": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20Default.zip",
+          "-O_ND0KBPqzmYtbcHB_X": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Default.zip",
+          "-Of73Y8Z511vFrkVmza5": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20Painted%20-%20Default.zip"
+        }
+      },
+      "-OY9m4A1wC2ZW8RApCwu": {
+        "img1": "https://i.supaimg.com/56ffcfa9-772d-439a-9ce1-a31cd21f9b82.png",
+        "name1": "X Factor",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-O_ND22flTJo_R1Dtpvk": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20-%20Basic.zip",
+          "-O_ND22h2QMZpNFqy6hS": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20Basic.zip",
+          "-O_ND22iDFXEQ1twiMO4": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Basic.zip",
+          "-Of73a9RTudjwEBhHtMp": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20Painted%20-%20Basic.zip"
+        }
+      },
+      "-OY9m7Mju5VQxCV_iup6": {
+        "img1": "https://i.supaimg.com/bb244a2a-8385-4da0-ba71-47254bbb24cf.png",
+        "name1": "Blitz Attack",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-O_ND2do-Iz6CcSj99UF": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20-%20Elite.zip",
+          "-O_ND2dpU9P_eSLcEEEa": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20Elite.zip",
+          "-O_ND2dsZLlOeXfTjtP8": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Elite.zip",
+          "-Of73ex_C-Kw3jMVrQkg": "unavailable"
+        }
+      },
+      "-OY9mEN27MPViOeQlk93": {
+        "img1": "https://i.supaimg.com/1c6be8b6-7758-4fea-bda6-5d55cb4fca4d.png",
+        "name1": "Space Agent",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2022",
+        "type_links": {
+          "-O_ND3DYhqu58gi8hejz": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20-%20Starlight.zip",
+          "-O_ND3D_9ZC7hclZFNEe": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20Starlight.zip",
+          "-O_ND3D_9ZC7hclZFNEf": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Starlight.zip",
+          "-Of73fLNqNavDSTrgbdi": "unavailable"
+        }
+      },
+      "-OY9mJZPSnINj3KLkfsZ": {
+        "img1": "https://i.supaimg.com/36224f5f-f1ac-4285-95fb-a873837482ad.png",
+        "name1": "Light Chaser",
+        "tag1": "https://i.supaimg.com/dfc01a1d-4fae-4e3f-b613-668bd6215725.png",
+        "type1": "M4",
+        "type_links": {
+          "-O_ND4CvOgy9by0eiU1t": "unavailable",
+          "-O_ND4CwHVj0Ui9hp1cC": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20M4.zip",
+          "-O_ND4CwHVj0Ui9hp1cD": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20M4.zip",
+          "-Of73fzYcxHHzuEOx5eg": "unavailable"
+        }
+      },
+      "-OY9mN1kmcBqY-vQr-cX": {
+        "img1": "https://i.supaimg.com/83affba5-9e47-4568-a6fa-e5e8d5183331.png",
+        "name1": "Stellar Briliance",
+        "tag1": "https://i.supaimg.com/56471255-f65b-4dbc-ac15-b66701a8d7d9.png",
+        "type1": "Prime",
+        "type_links": {
+          "-O_ND4n6TMDhZkw2wx6L": "unavailable",
+          "-O_ND4n6TMDhZkw2wx6M": "unavailable",
+          "-O_ND4n6TMDhZkw2wx6N": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Prime.zip",
+          "-Of73gQa9hzSKAFCqw9j": "unavailable"
+        }
+      },
+      "-OY9mRioc-VZekifDPbU": {
+        "img1": "https://i.supaimg.com/83c00ca6-e8a7-4243-8eb7-4cce29880986.png",
+        "name1": "Vibrant Fiesta",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-O_ND5SxoP4sSpNthhKt": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20-%20Special.zip",
+          "-O_ND5SxoP4sSpNthhKu": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20Special.zip",
+          "-O_ND5SxoP4sSpNthhKv": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Special.zip",
+          "-Of73h1jAIltyMwBFTIF": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-O_NBwmTIKnF-CBd3EZf": {
+        "img2": "https://i.supaimg.com/36224f5f-f1ac-4285-95fb-a873837482ad.png",
+        "name2": "Light Chaser",
+        "tag2": "https://i.supaimg.com/dfc01a1d-4fae-4e3f-b613-668bd6215725.png",
+        "type2": "M4"
+      },
+      "-O_NBxXyGfOrYqxK-vsi": {
+        "img2": "https://i.supaimg.com/83affba5-9e47-4568-a6fa-e5e8d5183331.png",
+        "name2": "Stellar Briliance",
+        "tag2": "https://i.supaimg.com/56471255-f65b-4dbc-ac15-b66701a8d7d9.png",
+        "type2": "Prime"
+      },
+      "-O_NCwjf6_m4q43EeoPr": {
+        "img2": "https://i.supaimg.com/8a96c5a6-57bb-46c4-acf3-d32c9c163d7c.jpg",
+        "name2": "Sky Force Maverick",
+        "tag2": "https://i.supaimg.com/e6df9bca-6911-4f63-8d14-bb7abecb61bc.png",
+        "type2": "FMVP"
+      },
+      "-Of73V49-UxVBNieTE-B": {
+        "img2": "https://i.supaimg.com/69d38256-68a2-4ff9-a870-863427aa6a0f.webp",
+        "name2": "Light Seeker",
+        "tag2": "https://i.supaimg.com/dfc01a1d-4fae-4e3f-b613-668bd6215725.png",
+        "type2": "Painted M4"
+      }
+    },
+    "img": "https://i.supaimg.com/81ad3bec-22c3-46f5-ad32-d9035f96865d.png",
+    "name": "Beatrix"
+  },
+  "Melissa": {
+    "Replacements": {
+      "-OY9mmFVg68-ugg9hmpb": {
+        "img1": "https://i.supaimg.com/46e6dda4-a63a-45bc-b9d1-f5ac3b1e5524.png",
+        "name1": "Cursed Needle",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObO1OL_3rpnzppK8SfG": "https://www.dropbox.com/scl/fi/v2esnc5aejjddtb3sscje/Melissa-JJK-Default.zip?rlkey=byha7sdl8od60c0c9n6l4227w&st=pie09vlz&dl=1",
+          "-ObO1OLabW0vqkRCh_fi": "unavailable",
+          "-ObO1OLabW0vqkRCh_fj": "https://www.dropbox.com/scl/fi/esmj3zxn5stqakadudvne/Melissa-Collector-Default.zip?rlkey=zsz4a0phu1r599vq26etl0dw8&st=1893r9rf&dl=1"
+        }
+      },
+      "-OY9mnx2qu7DK0vehbiS": {
+        "img1": "https://i.supaimg.com/212c5670-3151-4b36-8de9-1b3dcddd3846.png",
+        "name1": "Twinge Weaver",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-ObO1JVmdaTFUb32XsHr": "https://www.dropbox.com/scl/fi/ja1numg8elzzksbc1066u/Melissa-JJK-Basic.zip?rlkey=5ongrigyholrrgpd16dndic2k&st=9c9xw6bv&dl=1",
+          "-ObO1JVmdaTFUb32XsHs": "unavailable",
+          "-ObO1JVnaT5Y1_4eZY_N": "https://www.dropbox.com/scl/fi/w0f7m9vkn3n84d7tosui1/Melissa-Collector-Basic.zip?rlkey=k61ub23wpszmp8yn8nojkkfdj&st=4b31u86j&dl=1"
+        }
+      },
+      "-OY9mw0GGeb_hsZ6YIs_": {
+        "img1": "https://i.supaimg.com/1a7ca43e-7c86-423b-934f-453de8eaeff1.png",
+        "name1": "Nobara Kugisaki",
+        "tag1": "https://i.supaimg.com/0a81fdb1-a14d-404f-9444-36c3bb1ce9e8.png",
+        "type1": "Jujutsu Kaisen",
+        "type_links": {
+          "-ObO1Y5tgDo2P2DTHaKE": "unavailable",
+          "-ObO1Y5vhJqq_VpkQdsX": "unavailable",
+          "-ObO1Y5vhJqq_VpkQdsY": "https://www.dropbox.com/scl/fi/dwtz9ayj8nse1ezjl4nbj/Melissa-Collector-JJK.zip?rlkey=0s7uetztbb4nko8xxfmstlx16&st=fus3k2o1&dl=1"
+        }
+      },
+      "-OY9mzpCdb7KVhhu4Qd7": {
+        "img1": "https://i.supaimg.com/6f643c6d-16d5-4b57-be3a-94850512ddd9.png",
+        "name1": "Nightwalker",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2023",
+        "type_links": {
+          "-ObO1VMOLmgBZtwzXH7f": "https://www.dropbox.com/scl/fi/fqeg1kajj3pqiv63eiybo/Melissa-JJK-Starlight.zip?rlkey=bnbt5wvb0ep6fgldm4yznhka0&st=2luvi3ec&dl=1",
+          "-ObO1VMR70CAvz4Ezurl": "unavailable",
+          "-ObO1VMSUYUcsqm8lhs9": "https://www.dropbox.com/scl/fi/8i90c8ldsy0yduz8bemc5/Melissa-Collector-Starlight.zip?rlkey=p6v12hec52vw5g7afyv8iak8c&st=hv935v2h&dl=1"
+        }
+      },
+      "-OY9n5KjIPrgVteL5zRZ": {
+        "img1": "https://i.supaimg.com/1d3edcf0-7222-4174-8b3e-24c701e64f9b.png",
+        "name1": "SPARKLE Melissa",
+        "tag1": "https://i.supaimg.com/cc757c51-a3bc-496b-9ffd-ec27b7e1b45e.png",
+        "type1": "Sparkle",
+        "type_links": {
+          "-ObO1RCBIOYDStoKFiCl": "https://www.dropbox.com/scl/fi/l1uegvuz7gd15ilth1s84/Melissa-JJK-Sparkle.zip?rlkey=fex7w87yzr5dxdukeprek6l3l&st=tccfvii9&dl=1",
+          "-ObO1RCBIOYDStoKFiCm": "unavailable",
+          "-ObO1RCCykf_NXL4uL_B": "https://www.dropbox.com/scl/fi/a68cdk546a5uuhe5pf427/Melissa-Collector-Sparkle.zip?rlkey=0yw0jlp3orq6xrfjeqrl6o5na&st=z053dze5&dl=1"
+        }
+      },
+      "-OY9n8tJPBuNO6PF4JL7": {
+        "img1": "https://i.supaimg.com/29320a44-377e-4f18-83a9-5a5092c67da4.png",
+        "name1": "Umbra Bloom",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-ObO1Lqc2OZq3QhREZDh": "https://www.dropbox.com/scl/fi/f67ogoyysfzyde2yv4kds/Melissa-JJK-Collector.zip?rlkey=05h7mm6f772cz2ie99p5hbz2k&st=h6ojg8fo&dl=1",
+          "-ObO1Lqc2OZq3QhREZDi": "unavailable",
+          "-ObO1Lqc2OZq3QhREZDj": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-ObO15SYjZ_320XpATAT": {
+        "img2": "https://i.supaimg.com/1a7ca43e-7c86-423b-934f-453de8eaeff1.png",
+        "name2": "Nobara Kugisaki",
+        "tag2": "https://i.supaimg.com/0a81fdb1-a14d-404f-9444-36c3bb1ce9e8.png",
+        "type2": "Jujutsu Kaisen"
+      },
+      "-ObO1GBkoEksQMqepioC": {
+        "img2": "https://i.supaimg.com/1d3edcf0-7222-4174-8b3e-24c701e64f9b.png",
+        "name2": "SPARKLE Melissa",
+        "tag2": "https://i.supaimg.com/cc757c51-a3bc-496b-9ffd-ec27b7e1b45e.png",
+        "type2": "Sparkle"
+      },
+      "-ObO1GibuMr5k5GWc2kh": {
+        "img2": "https://i.supaimg.com/29320a44-377e-4f18-83a9-5a5092c67da4.png",
+        "name2": "Umbra Bloom",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      }
+    },
+    "img": "https://i.supaimg.com/46e6dda4-a63a-45bc-b9d1-f5ac3b1e5524.png",
+    "name": "Melissa"
+  },
+  "Ixia": {
+    "Replacements": {
+      "Default": {
+        "img1": "https://i.supaimg.com/6ecc1fab-6cc3-4580-b83a-fa7f212b82b9.png",
+        "name1": "Archlight Outlaw",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "STARLIGHT": "https://www.dropbox.com/scl/fi/mmkrt6rosdirct8pp0kv8/Ixia-Starlight-Default.zip?rlkey=58fbb45j9bysdbvjijxwhu3g0&st=mf9jymjt&dl=1",
+          "METRO ZERO": "https://www.dropbox.com/scl/fi/ckrbf4h9fv54z1lo2unqj/Ixia-Metro-Zero-Default.zip?rlkey=8hj32wo4hv8y7un883g97ald1&st=p8c050ch&dl=1"
+        }
+      },
+      "Basic": {
+        "img1": "https://i.supaimg.com/84936f18-f75d-4303-841a-0bbe59c902ee.png",
+        "name1": "Shifting Sand",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "STARLIGHT": "https://www.dropbox.com/scl/fi/rltgo1onl6veohjntisxa/Ixia-Starlight-Basic.zip?rlkey=ukvf30k5d7prc0mpecmth47ob&st=3irlgcjg&dl=1",
+          "METRO ZERO": "https://www.dropbox.com/scl/fi/dwjv5spxxs27co759tj65/Ixia-Metro-Zero-Basic.zip?rlkey=neevqxeglq9cfgcwvyo17kiwh&st=7wcg8k2o&dl=1"
+        }
+      },
+      "Starlight": {
+        "img1": "https://i.supaimg.com/b613fea8-84e7-4a53-9fda-479be1a7a620.png",
+        "name1": "Dynamic Streak",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2024",
+        "type_links": {
+          "STARLIGHT": "unavailable",
+          "METRO ZERO": "https://www.dropbox.com/scl/fi/l53an7khlhz0povqks17r/Ixia-Metro-Zero-Starlight.zip?rlkey=gnw3ydjhodsl7fnvnpx7dg58c&st=jf7xrzxi&dl=1"
+        }
+      },
+      "Metro Zero": {
+        "img1": "https://i.supaimg.com/24b6755b-38e3-4608-a305-8a5e7c20d2bd.jpg",
+        "name1": "Invoker's Command",
+        "tag1": "https://i.supaimg.com/7adfbdf7-50c4-429f-92e4-5929f8f57719.png",
+        "type1": "Metro Zero",
+        "type_links": {
+          "STARLIGHT": "unavailable",
+          "METRO ZERO": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "Starlight": {
+        "img2": "https://i.supaimg.com/b613fea8-84e7-4a53-9fda-479be1a7a620.png",
+        "name2": "Dynamic Streak",
+        "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type2": "Starlight 2024"
+      },
+      "Metro Zero": {
+        "img2": "https://i.supaimg.com/24b6755b-38e3-4608-a305-8a5e7c20d2bd.jpg",
+        "name2": "Invoker's Command",
+        "tag2": "https://i.supaimg.com/7adfbdf7-50c4-429f-92e4-5929f8f57719.png",
+        "type2": "Netro Zero"
+      }
+    },
+    "img": "https://i.supaimg.com/6ecc1fab-6cc3-4580-b83a-fa7f212b82b9.png",
+    "name": "Ixia "
+  },
+  "Brody": {
+    "Replacements": {
+      "-OY9o141TziPVt7LqxKP": {
+        "img1": "https://i.supaimg.com/93270d93-065e-4656-85d8-78c62ae5fed2.png",
+        "name1": "The Lone Star",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_N8Nx6tnn4KhfEOUcK": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Default.zip",
+          "-O_N8Nx7rMjIDoKA8t28": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20Default.zip",
+          "-O_N8Nx7rMjIDoKA8t29": "unavailable",
+          "-O_N8Nx7rMjIDoKA8t2A": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20Default.zip"
+        }
+      },
+      "-OY9o4VuEE8sHaYhOQdw": {
+        "img1": "https://i.supaimg.com/35274bca-5884-4106-85c4-8a5c2e686f44.png",
+        "name1": "Nameless Stray",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-O_N9mnzRiSwIUWQN-1_": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Basic.zip",
+          "-O_N9mo-M9wFewTzjkRd": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20Basic.zip",
+          "-O_N9mo-M9wFewTzjkRe": "unavailable",
+          "-O_N9mo-M9wFewTzjkRf": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20Basic.zip"
+        }
+      },
+      "-OY9oBDvozzl-wUeoAj9": {
+        "img1": "https://i.supaimg.com/5e04a283-f9a3-4090-9cc1-f71767d20ea4.png",
+        "name1": "S.T.U.N. Brody",
+        "tag1": "https://i.supaimg.com/1be3f819-710a-4a1d-8a2e-9057cd6fee06.png",
+        "type1": "S.T.U.N.",
+        "type_links": {
+          "-O_N9wF3MxyGAQ-5X7ux": "unavailable",
+          "-O_N9wF3MxyGAQ-5X7uy": "unavailable",
+          "-O_N9wF3MxyGAQ-5X7uz": "https://github.com/injctr/large/raw/main/Brody/Champion/Brody%20Champion%20-%20STUN.zip",
+          "-O_N9wF3MxyGAQ-5X7v-": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20STUN.zip"
+        }
+      },
+      "-OY9oFv5YKWo-G2yV9FV": {
+        "img1": "https://i.supaimg.com/349d6bf6-4f3c-4c98-a960-53d4fadb2e71.png",
+        "name1": "Lethal Fang",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2021",
+        "type_links": {
+          "-O_NA0CqwLIHaszcv5js": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Starlight.zip",
+          "-O_NA0CrgCgNeEdOGppq": "unavailable",
+          "-O_NA0CrgCgNeEdOGppr": "https://github.com/injctr/large/raw/main/Brody/Champion/Brody%20Champion%20-%20Starlight.zip",
+          "-O_NA0CrgCgNeEdOGpps": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20Starlight.zip"
+        }
+      },
+      "-OY9oJJW7YesPktnfwQi": {
+        "img1": "https://i.supaimg.com/93336f41-cbdf-444a-a3e3-e085cbf6d42f.png",
+        "name1": "Ore-chemist",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-O_NA21Ad4Xns9P97HSU": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Collector.zip",
+          "-O_NA21Ad4Xns9P97HSV": "unavailable",
+          "-O_NA21Ad4Xns9P97HSW": "https://github.com/injctr/large/raw/main/Brody/Champion/Brody%20Champion%20-%20Collector.zip",
+          "-O_NA21Ad4Xns9P97HSX": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20Collector.zip"
+        }
+      },
+      "-OY9oN-1yuQmdUPElpYq": {
+        "img1": "https://i.supaimg.com/702294ef-4a34-4a02-b4a3-474c8f2572e9.png",
+        "name1": "Quantum Grip",
+        "tag1": "https://i.supaimg.com/1005a0ba-8f15-4e15-962c-0d3b51cea3e4.png",
+        "type1": "MPL",
+        "type_links": {
+          "-O_NACZFnempAKTPlGEg": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20MPL.zip",
+          "-O_NACZGc-smVdRpHeYF": "unavailable",
+          "-O_NACZGc-smVdRpHeYG": "https://github.com/injctr/large/raw/main/Brody/Champion/Brody%20Champion%20-%20MPL.zip",
+          "-O_NACZGc-smVdRpHeYH": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20MPL.zip"
+        }
+      },
+      "-OY9oWben74iXg8GPzAB": {
+        "img1": "https://i.supaimg.com/df0b33c4-afa1-4864-b1e7-bdc5f5eeebeb.png",
+        "name1": "APBren",
+        "tag1": "https://i.supaimg.com/1589abc4-551e-4dbb-932f-5bb1c0162372.png",
+        "type1": "Champion",
+        "type_links": {
+          "-O_NAFWHKnE7Vzk7HIoN": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Champion.zip",
+          "-O_NAFWHKnE7Vzk7HIoO": "unavailable",
+          "-O_NAFWHKnE7Vzk7HIoP": "unavailable",
+          "-O_NAFWHKnE7Vzk7HIoQ": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20Champion.zip"
+        }
+      },
+      "-OY9oalgOiw8914VIiq6": {
+        "img1": "https://i.supaimg.com/e3a3252d-750d-41a7-a281-3ce2d54b90d5.png",
+        "name1": "Neobeast Brody",
+        "tag1": "https://i.supaimg.com/c4585e6f-2bf8-430a-97ee-e171a36fa108.png",
+        "type1": "Neobeast",
+        "type_links": {
+          "-O_NAMuHwbaLQXN_66fU": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Neobeast.zip",
+          "-O_NAMuHwbaLQXN_66fV": "unavailable",
+          "-O_NAMuHwbaLQXN_66fW": "https://github.com/injctr/large/raw/main/Brody/Champion/Brody%20Champion%20-%20Neobeast.zip",
+          "-O_NAMuHwbaLQXN_66fX": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-O_N7xRKfx8IIjlkcf1n": {
+        "img2": "https://i.supaimg.com/5e04a283-f9a3-4090-9cc1-f71767d20ea4.png",
+        "name2": "S.T.U.N. Brody",
+        "tag2": "https://i.supaimg.com/1be3f819-710a-4a1d-8a2e-9057cd6fee06.png",
+        "type2": "S.T.U.N."
+      },
+      "-O_N86mrXMdK3uIAsvYB": {
+        "img2": "https://i.supaimg.com/93336f41-cbdf-444a-a3e3-e085cbf6d42f.png",
+        "name2": "Ore-chemist",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      },
+      "-O_N8Ky9xPWh-JzJ9cPo": {
+        "img2": "https://i.supaimg.com/df0b33c4-afa1-4864-b1e7-bdc5f5eeebeb.png",
+        "name2": "APBren",
+        "tag2": "https://i.supaimg.com/1589abc4-551e-4dbb-932f-5bb1c0162372.png",
+        "type2": "Champion"
+      },
+      "-O_N8LlIDHf66QVHHSDs": {
+        "img2": "https://i.supaimg.com/e3a3252d-750d-41a7-a281-3ce2d54b90d5.png",
+        "name2": "Neobeast Brody",
+        "tag2": "https://i.supaimg.com/c4585e6f-2bf8-430a-97ee-e171a36fa108.png",
+        "type2": "Neobeast"
+      }
+    },
+    "img": "https://i.supaimg.com/93270d93-065e-4656-85d8-78c62ae5fed2.png",
+    "name": "Brody"
+  },
+  "Popol and Kupa": {
+    "Replacements": {
+      "-OY9ou-nfn7MVe_rjHJI": {
+        "img1": "https://i.supaimg.com/5216bc22-8903-4aa5-a251-5a80418aa526.png",
+        "name1": "Icefield Companions",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObQVKbdMtstMHla73_r": "https://www.dropbox.com/scl/fi/j2byls9x99bxlsm9g7lac/Popol-Transformers-Default.zip?rlkey=n47xit570e3acgv8kjp1vfjb6&st=y5766x7m&dl=1",
+          "-ObQVKbdMtstMHla73_s": "https://www.dropbox.com/scl/fi/q1ayna5mfa3vbkysnhdid/Popol-Collector-Default.zip?rlkey=gupsls6rmc14217q1it72y2hw&st=bzb7ty9q&dl=1"
+        }
+      },
+      "-OY9oxopVmwEWfxPg5aJ": {
+        "img1": "https://i.supaimg.com/8abde426-42c4-4c83-8221-fe4f4dbf9d39.png",
+        "name1": "Hunting Pals",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-ObQVEFE2epf7fzKkNzc": "https://www.dropbox.com/scl/fi/uv99nbbrsjecv0k3fu13d/Popol-Transformers-Basic.zip?rlkey=7ypfivvn0xz3uuew89vxwb02o&st=utfp5k0o&dl=1",
+          "-ObQVEFE2epf7fzKkNzd": "https://www.dropbox.com/scl/fi/ph46gdnvotlxorev0t7bb/Popol-Collector-Basic.zip?rlkey=n5zpjim6d0y2bhuhtik3y7lmx&st=y5bdzqcc&dl=1"
+        }
+      },
+      "-OY9p1PwId1q73m-OhkY": {
+        "img1": "https://i.supaimg.com/49b7a4e2-127f-4717-b75c-2d0dccdf3f6f.png",
+        "name1": "Tribal Howl",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-ObQVMd5qFtt0tjqDwBy": "https://www.dropbox.com/scl/fi/ize5q8dwk74w6s4nv8uvp/Popol-Transformers-Elite.zip?rlkey=afb07n03uk6tkybmed8cow82g&st=o1b6ngsk&dl=1",
+          "-ObQVMd6wLWCyiVZuEqf": "https://www.dropbox.com/scl/fi/ikex9sbloat9fyypkx0r8/Popol-Collector-Elite.zip?rlkey=ijnj12v08gvai9rukoqbdabk9&st=rh885f9r&dl=1"
+        }
+      },
+      "-OY9p5PSC8svAdc5I7iW": {
+        "img1": "https://i.supaimg.com/c430c6f6-94ec-4f17-9f38-9d4f3a9ba751.png",
+        "name1": "Trouble Makers",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2021",
+        "type_links": {
+          "-ObQVXxNG6VErHlzV_-o": "unavailable",
+          "-ObQVXxOooXUpRIy_46M": "https://www.dropbox.com/scl/fi/0izdgy37m9sw7r4fm1zjd/Popol-Collector-Starlight.zip?rlkey=3dbnjvkyoiiudmsu3ts8n8twe&st=vjvjfua1&dl=1"
+        }
+      },
+      "-OY9p9lJsrUZKByRrDDt": {
+        "img1": "https://i.supaimg.com/59bb79a8-59b8-4036-9544-fdb3566df346.png",
+        "name1": "Soundwave & Ravage",
+        "tag1": "https://i.supaimg.com/9d4990f7-6dce-4571-83bb-a0a5553fa875.png",
+        "type1": "Transformers",
+        "type_links": {
+          "-ObQVP8xUsihv9xAlK0d": "https://www.dropbox.com/scl/fi/r921vscq76z3goe5leggl/Popol-Transformers-Starlight.zip?rlkey=5rsn41ts9zznx40wt7ntrsm6x&st=xk722q1x&dl=1",
+          "-ObQVP8xUsihv9xAlK0e": "https://www.dropbox.com/scl/fi/ggl3b96yxue25fd91vfyu/Popol-Collector-Transformers.zip?rlkey=u8fmv3o8eyli32atbeiryawgn&st=5z2wocyj&dl=1"
+        }
+      },
+      "-OY9pE5ijJ2stJljk_6p": {
+        "img1": "https://i.supaimg.com/5a3eba9a-3164-471a-8c4f-e10bb2c594b9.png",
+        "name1": "Spirit of the Brush",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-ObQVGUv8TF5cZx_Pcfl": "unavailable",
+          "-ObQVGUv8TF5cZx_Pcfm": "https://www.dropbox.com/scl/fi/96r0bkixd0x60683nfrtx/Popol-Transformers-Collector.zip?rlkey=cn9zjeaktobi6uw0rx6lr12x9&st=edqen0i2&dl=1"
+        }
+      },
+      "-OY9pM19-J-QwZTWMTfu": {
+        "img1": "https://i.supaimg.com/8e90dbfc-fbd8-4c82-8273-5da302f6450a.png",
+        "name1": "Proto Hunter",
+        "tag1": "https://i.supaimg.com/f012696c-5070-448f-816f-c0f87831852a.png",
+        "type1": "All Star",
+        "type_links": {
+          "-ObQVbMPyjcDFLIFBqEa": "unavailable",
+          "-ObQVbMQO_BIUH7ODbtm": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-ObQV49nD4if161PJH-i": {
+        "img2": "https://i.supaimg.com/59bb79a8-59b8-4036-9544-fdb3566df346.png",
+        "name2": "Soundwave & Ravage",
+        "tag2": "https://i.supaimg.com/9d4990f7-6dce-4571-83bb-a0a5553fa875.png",
+        "type2": "Transformers"
+      },
+      "-ObQV4d--erIzEqQAW9E": {
+        "img2": "https://i.supaimg.com/5a3eba9a-3164-471a-8c4f-e10bb2c594b9.png",
+        "name2": "Spirit of the Brush",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      }
+    },
+    "img": "https://i.supaimg.com/5216bc22-8903-4aa5-a251-5a80418aa526.png",
+    "name": "Popol and Kupa"
+  },
+  "Natan": {
+    "Replacements": {
+      "-OY9pcpbhwXUmYt4NEtz": {
+        "img1": "https://i.supaimg.com/a0412b31-7b3f-4e66-8050-5995630b4ddc.png",
+        "name1": "Spacetime Walker",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7jhXv8bxieqPeXtcI": "https://www.dropbox.com/scl/fi/bkjby53j88n82iw2eelx9/Natan-Collector-Default.zip?rlkey=462dj7dsvvo947leun2ddlbus&st=5fk022m7&dl=1",
+          "-Of7jhXv8bxieqPeXtcJ": "https://www.dropbox.com/scl/fi/31ljsi8am4n80j1h2o7wc/Natan-MSC-Default.zip?rlkey=vkphye5mjonxryjlrbp509j5m&st=flkza4e2&dl=1",
+          "03 COVENANT": "https://github.com/injctr/large/raw/main/Natan/Covenant/Nathan%20Covenant%20-%20Default.zip"
+        }
+      },
+      "-OY9peZEPy-v-oCPxubH": {
+        "img1": "https://i.supaimg.com/ddae3fce-2f89-4c46-ab2a-058702aafbb0.png",
+        "name1": "Time Wielder",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Of7jdDNn66YCfqSVDZp": "https://www.dropbox.com/scl/fi/xtfudnq4up4cnos5cfu0w/Natan-Collector-Basic.zip?rlkey=cmopp4nre7ye21kbzjk3w607k&st=gmtyrsee&dl=1",
+          "-Of7jdDNn66YCfqSVDZq": "https://www.dropbox.com/scl/fi/37hw7fghok31gw3ez5bbi/Natan-MSC-Basic.zip?rlkey=c2zvraoc8n1v98ac66dc5dzx7&st=hkhk5om0&dl=1",
+          "03 COVENANT": "https://github.com/injctr/large/raw/main/Natan/Covenant/Natan%20Covenant%20-%20Basic.zip"
+        }
+      },
+      "-OY9pj-L9ijfqQHLnGOa": {
+        "img1": "https://i.supaimg.com/94578d07-bc0d-411d-8d58-eedfd6a7bef2.png",
+        "name1": "Chaos Hunter",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-Of7jo-ry5ji_CkQfdlN": "https://www.dropbox.com/scl/fi/5bwycrg1j4je02pf1qpd8/Natan-Collector-Elite.zip?rlkey=20n0bd2mbomtxpr05megppmop&st=2tty5x1j&dl=1",
+          "-Of7jo-ry5ji_CkQfdlO": "https://www.dropbox.com/scl/fi/3x9ofivexnp5qnfmfzw0p/Natan-MSC-Elite.zip?rlkey=y2b29gk4p0i4fq3ltv19sdm8x&st=uh62ycxf&dl=1",
+          "03 COVENANT": "https://github.com/injctr/large/raw/main/Natan/Covenant/Nathan%20Covenant%20-%20Elite.zip"
+        }
+      },
+      "-OY9pnV3ptPEFQy6cuDt": {
+        "img1": "https://i.supaimg.com/cfe6fb5c-9a6c-4a01-8d0c-9b4d7be01e5a.png",
+        "name1": "Captain Chrono",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2022",
+        "type_links": {
+          "-Of7k5-T9GBYC_v1GwOP": "https://www.dropbox.com/scl/fi/kjprl8qd2pdpk8ua9kpkr/Natan-Collector-Starlight.zip?rlkey=7gqcyjnr0o1rcqzp90qhdf6k7&st=u04m2iv4&dl=1",
+          "-Of7k5-UCcBDxUz70z9o": "https://www.dropbox.com/scl/fi/9kls9vo5dm1s8ucbq7znh/Natan-MSC-Starlight.zip?rlkey=s450ynknd9f92ievfhgafeugn&st=2gsoemb8&dl=1",
+          "03 COVENANT": "https://github.com/injctr/large/raw/main/Natan/Covenant/Nathan%20Covenant%20-%20Starlight.zip"
+        }
+      },
+      "-OY9pqzfwV8JWqSNIe85": {
+        "img1": "https://i.supaimg.com/78c1833e-d697-4728-a12e-7d063f522a15.png",
+        "name1": "Tidal Lord",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-Of7jwX4T5IsJogkE0KM": "unavailable",
+          "-Of7jwX54wlG44vPqKsK": "https://www.dropbox.com/scl/fi/kpc30ed9k8hytorvga2u1/Natan-MSC-Collector.zip?rlkey=d5yxf0timi6ox5t93e6q13pom&st=mbk8ki5y&dl=1",
+          "03 COVENANT": "https://github.com/injctr/large/raw/main/Natan/Covenant/Nathan%20Covenant%20-%20Collector.zip"
+        }
+      },
+      "-OY9pvSWff3KkNRU4XJB": {
+        "img1": "https://i.supaimg.com/f7586203-245e-4428-bf23-93f21a38988a.png",
+        "name1": "Temporal Vortex",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-Of7k2YMAo48-ZeBUGTj": "https://www.dropbox.com/scl/fi/zckedu3kana5gwcc08tkb/Natan-Collector-Special.zip?rlkey=xov67am5ydisqnox0p9h3al3o&st=7njmygw4&dl=1",
+          "-Of7k2YMAo48-ZeBUGTk": "https://www.dropbox.com/scl/fi/b4tsljvz86jifczc72vw6/Natan-MSC-Special.zip?rlkey=ej086mgow3qfber6d0q62rnit&st=dboldsq9&dl=1",
+          "03 COVENANT": "https://github.com/injctr/large/raw/main/Natan/Covenant/Nathan%20Covenant%20-%20Special.zip"
+        }
+      },
+      "-OY9q1dMUdZk4lJkiHar": {
+        "img1": "https://i.supaimg.com/f060de66-3aa7-4d7a-8667-29007e563da7.png",
+        "name1": "Archon of Knowledge",
+        "tag1": "https://i.supaimg.com/448aecba-dc27-4351-a7db-a90f6727ceaf.png",
+        "type1": "MSC 2024",
+        "type_links": {
+          "-Of7k-coSVr2iQf3vOMB": "https://www.dropbox.com/scl/fi/kns81fd493vhbgy4ef5hp/Natan-Collector-MSC.zip?rlkey=2qahvvnp22qo3a2kdzojfsa9z&st=c3lgy9bz&dl=1",
+          "-Of7k-csff_N8ihKLxV_": "unavailable",
+          "03 COVENANT": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7jasWhpRhTnbP9Ile": {
+        "img2": "https://i.supaimg.com/78c1833e-d697-4728-a12e-7d063f522a15.png",
+        "name2": "Tidal Lord",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      },
+      "-Of7jbPtibekJgr_9SIm": {
+        "img2": "https://i.supaimg.com/f060de66-3aa7-4d7a-8667-29007e563da7.png",
+        "name2": "Archon of Knowledge",
+        "tag2": "https://i.supaimg.com/448aecba-dc27-4351-a7db-a90f6727ceaf.png",
+        "type2": "MSC 2024"
+      },
+      "03 COVENANT": {
+        "img2": "https://i.supaimg.com/c8146f11-3a85-4cc8-badc-255d67225503.jpg",
+        "name2": "Sanguine Steward",
+        "tag2": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png",
+        "type2": "Covenant"
+      }
+    },
+    "img": "https://i.supaimg.com/a0412b31-7b3f-4e66-8050-5995630b4ddc.png",
+    "name": "Natan"
+  },
+  "Clint": {
+    "Replacements": {
+      "-OY9qL1mI14gQEHfWf7J": {
+        "img1": "https://i.supaimg.com/62112335-f2cf-425c-b371-ef50da462aec.png",
+        "name1": "West Justice",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7f7KQCqCFZ2Mrbz1B": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Default.zip",
+          "-OfEL2w8eKSkelNauQ4L": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Default.zip"
+        }
+      },
+      "-OY9qV7y4FdlQ5VDQTzj": {
+        "img1": "https://i.supaimg.com/78cca51a-c8b5-43a9-8123-2d2917e1688d.jpg",
+        "name1": "Summer Blast",
+        "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
+        "type1": "Summer",
+        "type_links": {
+          "-Of7fWGVXnbcGzQvO8sf": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Summer.zip",
+          "-OfEL5kXA_7_SLuWprAq": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Summer.zip"
+        }
+      },
+      "-OY9qZX0O8GqGiLA37E7": {
+        "img1": "https://i.supaimg.com/1037afae-0b26-459f-aafd-4c79573fcf6b.png",
+        "name1": "Guns and Roses",
+        "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
+        "type1": "Valentine",
+        "type_links": {
+          "-Of7fZzi83T6V9iot3TM": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Valentine.zip",
+          "-OfELZ3j5Vhf8yKObt-N": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Valentine.zip"
+        }
+      },
+      "-OY9qdcZrQF3CcDsIikb": {
+        "img1": "https://i.supaimg.com/a014899a-bc4a-4fbc-a409-0ceb432101d1.png",
+        "name1": "Rock and Roll",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2017",
+        "type_links": {
+          "-Of7fPMcZENuqNJq0Vkx": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Starlight%20Rock%20And%20Roll.zip",
+          "-OfELPikRe2-xNh1HPLf": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Old%20Starlight.zip"
+        }
+      },
+      "-OY9qh_Esl2ivSMdNhFd": {
+        "img1": "https://i.supaimg.com/1da0430a-c9b9-4fb3-b2c0-8c79bee94b91.png",
+        "name1": "Badminton Champion",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-Of7fDx40-4C9ILwaChA": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Special.zip",
+          "-OfELVfOmB4w8NgbVhNV": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Special.zip"
+        }
+      },
+      "-OY9qnuQR93taCDb9vTT": {
+        "img1": "https://i.supaimg.com/c536ddc0-214f-4bf9-82ee-1425592bc982.png",
+        "name1": "Witch Hunter",
+        "tag1": "https://i.supaimg.com/48426836-8c60-462a-a9ef-49052b9387a0.png",
+        "type1": "Season 15",
+        "type_links": {
+          "-Of7fBIjKeBHj3VqVx_J": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Season.zip",
+          "-OfELSi36hoti43yNbf1": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Season.zip"
+        }
+      },
+      "-OY9qunNHn_CrxvtosOB": {
+        "img1": "https://i.supaimg.com/be8431a0-4a89-40ef-9ef4-4cf40d69d3d6.png",
+        "name1": "Shadow Omen",
+        "tag1": "https://i.supaimg.com/adbaf76c-73d6-4ffd-9f73-277cfc04ce33.png",
+        "type1": "M2",
+        "type_links": {
+          "-Of7fd48KXzP8ySBfjUw": "unavailable",
+          "-OfELDdG1hj_yt0NXw9Y": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20M2.zip"
+        }
+      },
+      "-OY9qzj4Uy8_vzt47tvR": {
+        "img1": "https://i.supaimg.com/95e1b511-8a2c-421a-a949-1dbdff37b205.png",
+        "name1": "Operator CL",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2022",
+        "type_links": {
+          "-Of7fHICjA5knSzz9HVD": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Starlight%20Operator%20CL.zip",
+          "-OfELNTizaQgZ9afLILd": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20New%20Starlight.zip"
+        }
+      },
+      "-OY9r2ZGXN9uulC-yXc7": {
+        "img1": "https://i.supaimg.com/5d080082-f5c0-4c6e-b785-afd052ab86e4.png",
+        "name1": "Crimson Blast",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-Of7fgcsxY9wSVo3-HCN": "unavailable",
+          "-OfEL-_wZ6YlulyyNufX": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Collector.zip"
+        }
+      },
+      "-OY9r67olgoSBLqUJ-AM": {
+        "img1": "https://i.supaimg.com/1b475c0d-4d76-4348-af75-f441eb43e0a6.png",
+        "name1": "Captain of the Reefs",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-Of7fl-hnFWYynqNXN01": "unavailable",
+          "-OfEKwWNovO7iZsTGXNA": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Epic.zip"
+        }
+      },
+      "-OY9rEr1iLVOpHweK6ID": {
+        "img1": "https://i.supaimg.com/4ea16d3a-7fb7-4cfd-9914-2f383188830d.png",
+        "name1": "Dragon's Maw",
+        "tag1": "https://i.supaimg.com/6e885561-995d-4650-8808-58f0660df534.png",
+        "type1": "Mythic 2024",
+        "type_links": {
+          "-Of7foR60qgRvBc8Hkhl": "unavailable",
+          "-OfEKvpK2BicVXeMFz2F": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7f3kEBcBapIc_Rx3Z": {
+        "img2": "https://i.supaimg.com/be8431a0-4a89-40ef-9ef4-4cf40d69d3d6.png",
+        "name2": "Shadow Omen",
+        "tag2": "https://i.supaimg.com/adbaf76c-73d6-4ffd-9f73-277cfc04ce33.png",
+        "type2": "M2"
+      },
+      "-OfEJ9yxQidDcMP4rJlN": {
+        "img2": "https://i.supaimg.com/34eaca0d-fdab-4915-baff-b6aa55d0c4c3.jpg",
+        "name2": "Vessel of Ruin",
+        "tag2": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png",
+        "type2": "Soul Vessels"
+      }
+    },
+    "img": "https://i.supaimg.com/62112335-f2cf-425c-b371-ef50da462aec.png",
+    "name": "Clint"
+  },
+  "Irithel": {
+    "Replacements": {
+      "-OY9rV4GC8OPw4I8AQwe": {
+        "img1": "https://i.supaimg.com/5ffd3fbc-312d-454c-b634-d86f6186ce45.png",
+        "name1": "Jungle Heart",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Ob13dh2-KLKd6wk0VKD": "https://github.com/injctr/large/raw/main/Irithel/Zodiac/Irithel%20Zodiac%20-%20Default.zip",
+          "-Ob13dh3GhInTIGcF5ol": "https://github.com/injctr/large/raw/main/Irithel/Ducati/Irithel%20Ducati%20-%20Default.zip"
+        }
+      },
+      "-OY9rYLZiV9CjahBYwj9": {
+        "img1": "https://i.supaimg.com/6fca39a2-2aea-4b71-8ff7-aed211095d9f.png",
+        "name1": "Silver Cyclone",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Ob13bOLltwjy0qFaW2V": "https://github.com/injctr/large/raw/main/Irithel/Zodiac/Irithel%20Zodiac%20-%20Basic.zip",
+          "-Ob13bOLltwjy0qFaW2X": "https://github.com/injctr/large/raw/main/Irithel/Ducati/Irithel%20Ducati%20-%20Basic.zip"
+        }
+      },
+      "-OY9rcOXzNMpKBKmgigX": {
+        "img1": "https://i.supaimg.com/732bf937-be0c-48ce-b602-015afb04a07c.png",
+        "name1": "Hellfire",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-Ob13kaDcz34iWenjVxA": "https://github.com/injctr/large/raw/main/Irithel/Zodiac/Irithel%20Zodiac%20-%20Epic.zip",
+          "-Ob13kaEpK947ZTMj2de": "https://github.com/injctr/large/raw/main/Irithel/Ducati/Irithel%20Ducati%20-%20Epic.zip"
+        }
+      },
+      "-OY9rhgstKt204EqjkJQ": {
+        "img1": "https://i.supaimg.com/7ef087eb-2df3-4921-b442-0f26606407f2.png",
+        "name1": "Nightarrow",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2018",
+        "type_links": {
+          "-Ob13wxq9tdBhTfQnaeg": "https://github.com/injctr/large/raw/main/Irithel/Zodiac/Irithel%20Zodiac%20-%20Old%20Starlight.zip",
+          "-Ob13wxrOY329iI3fwHD": "https://github.com/injctr/large/raw/main/Irithel/Ducati/Irithel%20Ducati%20-%20Starlight%201.zip"
+        }
+      },
+      "-OY9roRD6luCFtk5FS8O": {
+        "img1": "https://i.supaimg.com/3a458d6a-55a1-4a93-9a21-83eac0cb40ef.png",
+        "name1": "Sagittarius",
+        "tag1": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
+        "type1": "Zodiac",
+        "type_links": {
+          "-Ob140MqQl8zFyQwiAYQ": "unavailable",
+          "-Ob140MqQl8zFyQwiAYS": "https://github.com/injctr/large/raw/main/Irithel/Ducati/Irithel%20Ducati%20-%20Zodiac.zip"
+        }
+      },
+      "-OY9rs6MBhjMDZTcNGyi": {
+        "img1": "https://i.supaimg.com/ad1eed3b-f009-4108-90c4-2287a87fcee3.png",
+        "name1": "Astral Wanderer",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-Ob13oNh1Ojp8UZQk7kH": "https://github.com/injctr/large/raw/main/Irithel/Zodiac/Irithel%20Zodiac%20-%20Luckybox.zip",
+          "-Ob13oNil_sgXmtnEWRa": "https://github.com/injctr/large/raw/main/Irithel/Ducati/Irithel%20Ducati%20-%20Luckybox.zip"
+        }
+      },
+      "-OY9rzuuh9Q3Z-FQT2rQ": {
+        "img1": "https://i.supaimg.com/8a6b3a04-9665-4584-a270-9539edf53ff3.png",
+        "name1": "Monster SP Rider",
+        "tag1": "https://i.supaimg.com/04fca538-0617-43ba-ad67-df791261275a.png",
+        "type1": "Ducati",
+        "type_links": {
+          "-Ob13h9CnR07BV6UyMrT": "https://github.com/injctr/large/raw/main/Irithel/Zodiac/Irithel%20Zodiac%20-%20Ducati.zip",
+          "-Ob13h9D2J98FLxafXhv": "unavailable"
+        }
+      },
+      "-OY9s5uTJuIJAEj9nWYr": {
+        "img1": "https://i.supaimg.com/3b557820-2a1a-47d3-ab93-0f16f8477990.png",
+        "name1": "Checkered Knight",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2025",
+        "type_links": {
+          "-Ob13s802ZnsDo8qn24s": "https://github.com/injctr/large/raw/main/Irithel/Zodiac/Irithel%20Zodiac%20-%20New%20Starlight.zip",
+          "-Ob13s81BezVw9bSrWw5": "https://github.com/injctr/large/raw/main/Irithel/Ducati/Irithel%20Ducati%20-%20Starlight%202.zip"
+        }
+      }
+    },
+    "Skins": {
+      "-OYCANwnSOIs3iWA2-GN": {
+        "img2": "https://i.supaimg.com/3a458d6a-55a1-4a93-9a21-83eac0cb40ef.png",
+        "name2": "Sagittarius",
+        "tag2": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
+        "type2": "Zodiac"
+      },
+      "-OYCAV14v3BZXnoyb3Ay": {
+        "img2": "https://i.supaimg.com/8a6b3a04-9665-4584-a270-9539edf53ff3.png",
+        "name2": "Monster SP Rider",
+        "tag2": "https://i.supaimg.com/04fca538-0617-43ba-ad67-df791261275a.png",
+        "type2": "Ducati"
+      }
+    },
+    "img": "https://i.supaimg.com/5ffd3fbc-312d-454c-b634-d86f6186ce45.png",
+    "name": "Irithel"
+  }
+}

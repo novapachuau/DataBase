@@ -1,0 +1,1323 @@
+{
+  "Khufra": {
+    "Replacements": {
+      "-OY9sQvJyxkDCrxwhtqg": {
+        "img1": "https://i.supaimg.com/d4434cbb-c103-491f-bda9-5a3f9be6d123.png",
+        "name1": "Desert Tyrant",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7hfnioyxVBChpaBBE": "https://www.dropbox.com/scl/fi/it6l5ryi3pfz4zun67oz5/Khufta-Collector-Default.zip?rlkey=vjlnbve5ihmy73nvosf9dxst4&st=64cs0ocm&dl=1"
+        }
+      },
+      "-OY9sTrLipRD_IyAv2tL": {
+        "img1": "https://i.supaimg.com/9c69d706-b79c-4340-85c3-5a6c3a8da1d2.png",
+        "name1": "Desert Owl",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Of7hdukdJWNgFGdO08x": "https://www.dropbox.com/scl/fi/p51lbrhrfj5ao5trxikuz/Khufta-Collector-Basic.zip?rlkey=8ungmslnwpx5k4lz2j4ad2gzv&st=k4l1gkcy&dl=1"
+        }
+      },
+      "-OY9sYFslzMJa1yaFY8A": {
+        "img1": "https://i.supaimg.com/35b5f003-9708-4797-8d20-f8301f312aea.png",
+        "name1": "Apophis",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 1",
+        "type_links": {
+          "-Of7hhmwC-lMEcEpHfHh": "https://www.dropbox.com/scl/fi/ku499bcdz4h7ke8iqaq4m/Khufta-Collector-Elite-Apophis.zip?rlkey=y2tvfoh6dro44bjwofe454spy&st=lvn2ni22&dl=1"
+        }
+      },
+      "-OY9sadGhWMfwITletyo": {
+        "img1": "https://i.supaimg.com/87983bf7-2bfb-4ba3-9876-f606e1a46c84.png",
+        "name1": "Gentleman Thief",
+        "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
+        "type1": "Valentine",
+        "type_links": {
+          "-Of7inI_tM9YmXDKbf3-": "https://www.dropbox.com/scl/fi/bu4o7mda25h353b48eeay/Khufta-Collector-Valentine.zip?rlkey=fsxl7loxnkacpabopp59dnso1&st=z5xae48s&dl=1"
+        }
+      },
+      "-OY9sep5vMgN4eXQZ2-m": {
+        "img1": "https://i.supaimg.com/6e5454e5-eed4-4dce-be25-a06f3d94d854.png",
+        "name1": "Volcanic Overlord",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-Of7imosxGa2NTc7QlvR": "unavailable"
+        }
+      },
+      "-OY9sjlzIcPqxaKLVBE_": {
+        "img1": "https://i.supaimg.com/6b8c8d20-2c89-4d19-8b7b-da9ecead6b55.png",
+        "name1": "Dreadful Clown",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2021",
+        "type_links": {
+          "-Of7hrvpQBNQ6bAT_aDv": "https://www.dropbox.com/scl/fi/1uz6qy6f5c82a2zz4ih60/Khufta-Collector-Starlight.zip?rlkey=m6h98f6y5vzy6skl0mo8yqa6c&st=s6spmcp7&dl=1"
+        }
+      },
+      "-OY9sp6dOkX3uyh10GGM": {
+        "img1": "https://i.supaimg.com/379d0465-00e7-420e-bf07-8a2154780b0a.png",
+        "name1": "Iron Hook",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 2",
+        "type_links": {
+          "-Of7hkEYi-2vleP9d3Eb": "https://www.dropbox.com/scl/fi/8ubxwhd1y30wbjitdsmtg/Khufta-Collector-Elite-Iron-Hook.zip?rlkey=j5qrfa0kuixi38fz7107bzmg3&st=cq1apcti&dl=1"
+        }
+      },
+      "-Of7ie9RH_E2eeTvGPZk": {
+        "img1": "https://i.supaimg.com/428367e1-caea-424b-a68a-f842d0b63eca.jpg",
+        "name1": "Cursed Scroll",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-Of7iisK2C68rhsi1nFD": "https://www.dropbox.com/scl/fi/ydkj2beioblz9cddpe1f0/Khufta-Collector-Epic.zip?rlkey=2oj63ffeuhpyrrxnvxasq2djt&st=qwa4gdkx&dl=1"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7hcoynW8l5druEo1I": {
+        "img2": "https://i.supaimg.com/6e5454e5-eed4-4dce-be25-a06f3d94d854.png",
+        "name2": "Volcanic Overlord",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      }
+    },
+    "img": "https://i.supaimg.com/d4434cbb-c103-491f-bda9-5a3f9be6d123.png",
+    "name": "Khufra"
+  },
+  "Atlas": {
+    "Replacements": {
+      "-OY9t4_7d-bFWCRKfiGV": {
+        "img1": "https://i.supaimg.com/21fe75f9-8323-4883-9eca-1b43cdb6a5fe.png",
+        "name1": "Ocean Gladiator",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_SOVdqbRxjsKwpB7uo": "https://github.com/injctr/large/raw/main/Atlas/Starlight/Atlas%20Starlight%20-%20Default.zip",
+          "-O_SOVdr2dbySE76p7CC": "https://github.com/injctr/large/raw/main/Atlas/MSC/Atlas%20MSC%20-%20Default.zip",
+          "-O_SOVdr2dbySE76p7CD": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Default.zip"
+        }
+      },
+      "-OY9tA7FJg_sfLXIbWGu": {
+        "img1": "https://i.supaimg.com/54dd2b12-1a94-4b5a-8311-37786e00a916.png",
+        "name1": "Reactor Core",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-O_SOZb9n4uN91Ul1D28": "https://github.com/injctr/large/raw/main/Atlas/Starlight/Atlas%20Starlight%20-%20Basic.zip",
+          "-O_SOZb9n4uN91Ul1D29": "https://github.com/injctr/large/raw/main/Atlas/MSC/Atlas%20MSC%20-%20Basic.zip",
+          "-O_SOZb9n4uN91Ul1D2A": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Basic.zip"
+        }
+      },
+      "-OY9tF6UtAf77N6s3BqW": {
+        "img1": "https://i.supaimg.com/ec735e02-bf2c-4979-a436-4f92d903f31d.png",
+        "name1": "Fuel Turbine",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-O_SOcpIex1gJXetg10r": "unavailable",
+          "-O_SOcpJA2C1qjVGfK8X": "unavailable",
+          "-O_SOcpJA2C1qjVGfK8Y": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Elite.zip"
+        }
+      },
+      "-OY9tKbleE6SfBvFmiw-": {
+        "img1": "https://i.supaimg.com/b3df5d10-0f3f-4e8d-876d-92433bd21148.png",
+        "name1": "Space Mech",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2022",
+        "type_links": {
+          "-O_SOh5YJwHCQCGretiv": "unavailable",
+          "-O_SOh5Zu10-A1PZfACq": "unavailable",
+          "-O_SOh5Zu10-A1PZfACr": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Starlight.zip"
+        }
+      },
+      "-OY9tSLAtWfBgPi_0mwC": {
+        "img1": "https://i.supaimg.com/65b04c75-f5ef-49f9-ab59-8c5717e10373.png",
+        "name1": "Rune of Sentinel",
+        "tag1": "https://i.supaimg.com/9c0f81a3-06de-4c7c-9ddb-ebea1b075c11.png",
+        "type1": "MSC 2033",
+        "type_links": {
+          "-O_SOgK2XvqyQLc5r_Xm": "unavailable",
+          "-O_SOgK2XvqyQLc5r_Xn": "unavailable",
+          "-O_SOgK2XvqyQLc5r_Xo": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20MSC.zip"
+        }
+      },
+      "-OY9tXOA5gHLG-ZsZ2c2": {
+        "img1": "https://i.supaimg.com/73e41b11-b436-4255-bfaa-6e7442b7e348.png",
+        "name1": "Mecha Infernus",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-O_SOh5YJwHCQCGretiv": "unavailable",
+          "-O_SOh5Zu10-A1PZfACq": "unavailable",
+          "-O_SOh5Zu10-A1PZfACr": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-O_SOSLIFSAYVWNHElYB": {
+        "img2": "https://i.supaimg.com/b3df5d10-0f3f-4e8d-876d-92433bd21148.png",
+        "name2": "Space Mech",
+        "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type2": "Starlight 2022"
+      },
+      "-O_SOSwlREklKo9zOr-U": {
+        "img2": "https://i.supaimg.com/65b04c75-f5ef-49f9-ab59-8c5717e10373.png",
+        "name2": "Rune of Sentinel",
+        "tag2": "https://i.supaimg.com/9c0f81a3-06de-4c7c-9ddb-ebea1b075c11.png",
+        "type2": "MSC 2033"
+      },
+      "-O_SOTZ8z7Lu5xVg38hg": {
+        "img2": "https://i.supaimg.com/73e41b11-b436-4255-bfaa-6e7442b7e348.png",
+        "name2": "Mecha Infernus",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      }
+    },
+    "img": "https://i.supaimg.com/21fe75f9-8323-4883-9eca-1b43cdb6a5fe.png",
+    "name": "Atlas"
+  },
+  "Tigreal": {
+    "Replacements": {
+      "-OY9tp5TE_6Oe0vIAn0B": {
+        "img1": "https://i.supaimg.com/07df2630-7af2-423c-960e-a5d4ece0d926.png",
+        "name1": "Warrior of Dawn",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7nKS9F51JJXkoXRRo": "https://www.dropbox.com/scl/fi/4yptz7nkw379vj3ml94ex/Tigreal-Collector-Default.zip?rlkey=xmqxow5gd6yxywevzifibzwjq&st=rgu6nzxu&dl=1"
+        }
+      },
+      "-OY9tt8nAqHCh-Xfdutd": {
+        "img1": "https://i.supaimg.com/94279937-73a4-4185-b636-8b052b6c22cc.png",
+        "name1": "Dark Guardian",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite  1",
+        "type_links": {
+          "-Of7nMVCiPy2xDv7BrW2": "https://www.dropbox.com/scl/fi/cm43cwzixfegua21kpzdf/Tigreal-Collector-Elite-Dark-Guardian.zip?rlkey=g0a1lh6l3ewz0xnj7dzcz38zi&st=xd6sgcwo&dl=1"
+        }
+      },
+      "-OY9twztzSJNbgVn87kj": {
+        "img1": "https://i.supaimg.com/51d70fb3-5338-4ee3-ae78-0c39c3e6852a.png",
+        "name1": "Fallen Guard",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 2",
+        "type_links": {
+          "-Of7nOP34BozzlKkssq0": "https://www.dropbox.com/scl/fi/56nsey4x698w7687tpf7z/Tigreal-Collector-Elite-Fallen-Guard.zip?rlkey=phm39s3o2qmaav6qd75ngc4ty&st=vo1wwr5i&dl=1"
+        }
+      },
+      "-OY9u2tV6DlusFOx2Nll": {
+        "img1": "https://i.supaimg.com/d42a3ed4-1aa5-40e8-a42a-f440821746de.png",
+        "name1": "Wyrmslayer",
+        "tag1": "https://i.supaimg.com/d6738763-26a7-4019-bc08-1eb6779b3e9a.png",
+        "type1": "Season 10",
+        "type_links": {
+          "-Of7nQc3CvDEqzFS6Rqg": "https://www.dropbox.com/scl/fi/9phk0ogwxh4djz8g4cazn/Tigreal-Collector-Season.zip?rlkey=h88gc8ah15lq732lorph0xqk0&st=tp8zej40&dl=1"
+        }
+      },
+      "-OY9u6VSb7s3YOFA7xdn": {
+        "img1": "https://i.supaimg.com/b05a787c-59ce-40fa-9cb2-f6912ea5b460.png",
+        "name1": "Lightborn - Defender",
+        "tag1": "https://i.supaimg.com/69a7a5dd-6136-442a-b82c-c5bd54dbac46.png",
+        "type1": "Lightborn",
+        "type_links": {
+          "-Of7nXUBIXoNClSLZppm": "unavailable"
+        }
+      },
+      "-OY9uBsaCM6FCs-9XL-L": {
+        "img1": "https://i.supaimg.com/d7a0bde8-c4f1-48b0-8551-7ab4e8b7ad4f.png",
+        "name1": "Gold Baron",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 1",
+        "type_links": {
+          "-Of7nUGZvZu3OO_zW2py": "https://www.dropbox.com/scl/fi/1hh31e768wzcuogvtgnhd/Tigreal-Collector-Special-Gold-Baron.zip?rlkey=k0tfy6umffzzq8zu8exdhq7wd&st=1zxws9kx&dl=1"
+        }
+      },
+      "-OY9uHPvq3oMTIbQa4Kw": {
+        "img1": "https://i.supaimg.com/a4e4e445-edb0-452e-82b6-017e37ad6d01.png",
+        "name1": "Galactic Marshal",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2022",
+        "type_links": {
+          "-Of7nYUKchGslsCM9EbJ": "unavailable"
+        }
+      },
+      "-OY9uLt2-27F4y8S_pg9": {
+        "img1": "https://i.supaimg.com/ad20b211-e3ee-48f7-b7d3-b8b8ee74ffcc.png",
+        "name1": "Pasha of Justice",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 2",
+        "type_links": {
+          "-Of7nZBKu3UBDBIVoUZn": "unavailable"
+        }
+      },
+      "-Of7nF6y1Zw2W5mpRPB0": {
+        "img1": "https://i.supaimg.com/302adfd0-a27e-47ac-8c30-127cd9e5b5b4.jpg",
+        "name1": "Celestial General",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-Of7nH00u9ssHGvnzEJD": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7nFN0PcJS8F1Vtuhu": {
+        "img2": "https://i.supaimg.com/302adfd0-a27e-47ac-8c30-127cd9e5b5b4.jpg",
+        "name2": "Celestial General",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      }
+    },
+    "img": "https://i.supaimg.com/07df2630-7af2-423c-960e-a5d4ece0d926.png",
+    "name": "Tigreal"
+  },
+  "Franco": {
+    "Replacements": {
+      "-OY9ueJbEmcNMSyasprn": {
+        "img1": "https://i.supaimg.com/5e9a415f-b8dc-4f25-85ef-cf8f0fa8cfb9.png",
+        "name1": "Frozen Warrior",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_tmJIJh7XWmgyXDjLR": "https://github.com/injctr/large/raw/main/Franco/Luckybox/Franco%20Luckybox%20-%20Default.zip",
+          "-O_tmJIJh7XWmgyXDjLS": "https://github.com/injctr/large/raw/main/Franco/Blazing/Franco%20Blazing%20-%20Default.zip",
+          "-O_tmJIJh7XWmgyXDjLT": "https://github.com/injctr/large/raw/main/Franco/Legend/Franco%20Legend%20-%20Default.zip"
+        }
+      },
+      "-OY9uiXR1OnPocqVlZ7Q": {
+        "img1": "https://i.supaimg.com/26f44858-8b1e-4158-aab9-8bbb33361740.png",
+        "name1": "Masterchef",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-O_tmc3DqQEKwNf-6ahe": "https://github.com/injctr/large/raw/main/Franco/Luckybox/Franco%20Luckybox%20-%20Special.zip",
+          "-O_tmc3EAlWlGaOpT4mM": "https://github.com/injctr/large/raw/main/Franco/Blazing/Franco%20Blazing%20-%20Special.zip",
+          "-O_tmc3EAlWlGaOpT4mN": "https://github.com/injctr/large/raw/main/Franco/Legend/Franco%20Legend%20-%20Special.zip"
+        }
+      },
+      "-OY9umgDB9lB0zrma5gW": {
+        "img1": "https://i.supaimg.com/f113fba8-f10b-49ed-bea6-be55b2ba2c15.png",
+        "name1": "Apocalypse",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2017",
+        "type_links": {
+          "-O_tmgTpWBq7XX4tfC2F": "https://github.com/injctr/large/raw/main/Franco/Luckybox/Franco%20Luckybox%20-%20Starlight.zip",
+          "-O_tmgTpWBq7XX4tfC2G": "unavailable",
+          "-O_tmgTpWBq7XX4tfC2H": "https://github.com/injctr/large/raw/main/Franco/Legend/Franco%20Legend%20-%20Starlight.zip"
+        }
+      },
+      "-OY9ut0WH5eg9rLI1q9x": {
+        "img1": "https://i.supaimg.com/62d6d25b-8bb5-4f9f-9986-1d16917a0657.png",
+        "name1": "Locomotive",
+        "tag1": "https://i.supaimg.com/68bfa234-923d-48cb-8bae-5db72276832f.png",
+        "type1": "Season 9",
+        "type_links": {
+          "-O_tmYycx2bQ4gj_LyPd": "https://github.com/injctr/large/raw/main/Franco/Luckybox/Franco%20Luckybox%20-%20Season.zip",
+          "-O_tmYycx2bQ4gj_LyPe": "unavailable",
+          "-O_tmYycx2bQ4gj_LyPf": "https://github.com/injctr/large/raw/main/Franco/Legend/Franco%20Legend%20-%20Season.zip"
+        }
+      },
+      "-OY9uy9HFeLHSF8wPDR1": {
+        "img1": "https://i.supaimg.com/7e759256-2ca3-4df4-9c9c-466985603bd5.png",
+        "name1": "Wheatfield Nightmare",
+        "tag1": "https://i.supaimg.com/b78a2af1-60c9-4f62-8758-988924980127.png",
+        "type1": "Halloween",
+        "type_links": {
+          "-O_tmQ7rnnFBJPUTb9qF": "https://github.com/injctr/large/raw/main/Franco/Luckybox/Franco%20Luckybox%20-%20Haloween.zip",
+          "-O_tmQ7rnnFBJPUTb9qG": "unavailable",
+          "-O_tmQ7rnnFBJPUTb9qH": "https://github.com/injctr/large/raw/main/Franco/Legend/Franco%20Legend%20-%20Halloween.zip"
+        }
+      },
+      "-OY9v0tAer7PcdITYq7d": {
+        "img1": "https://i.supaimg.com/120079de-9ecd-4af6-9013-c42414fa1fdd.png",
+        "name1": "Valhalla Ruler",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-O_tmG4tGDi5A0B5Fr3T": "unavailable",
+          "-O_tmG4uu0GhJvNrsgWj": "unavailable",
+          "-O_tmG4wmNNOcAoJluFp": "https://github.com/injctr/large/raw/main/Franco/Legend/Franco%20Legend%20-%20Luckybox.zip"
+        }
+      },
+      "-OY9v6Bjr4QBaPHPucP4": {
+        "img1": "https://i.supaimg.com/9663056d-b4a5-44e2-9e35-6fcab4b9354f.png",
+        "name1": "Blazing Axe",
+        "tag1": "https://i.supaimg.com/93fa4e4c-e3dd-48b6-a689-ffe84647ff97.png",
+        "type1": "Blazing Bounties",
+        "type_links": {
+          "-O_tmDzyIhIwNpcAV07U": "unavailable",
+          "-O_tmDzzA9X5hyhB5qFT": "unavailable",
+          "-O_tmDzzA9X5hyhB5qFU": "https://github.com/injctr/large/raw/main/Franco/Legend/Franco%20Legend%20-%20Blazing.zip"
+        }
+      },
+      "-OY9v9kXEe7RcsiEpf5q": {
+        "img1": "https://i.supaimg.com/9ac18704-f783-43c5-b4fa-8f31f234313a.png",
+        "name1": "Bone Crusher",
+        "tag1": "",
+        "type1": "S21 First Recharge",
+        "type_links": {
+          "-O_tmlrB_AzsmJoTFPxv": "https://github.com/injctr/large/raw/main/Franco/Luckybox/Franco%20Luckybox%20-%20Bone%20Crusher.zip",
+          "-O_tmlrCbzflklbCi5_H": "unavailable",
+          "-O_tmlrCbzflklbCi5_I": "https://github.com/injctr/large/raw/main/Franco/Legend/Franco%20Legend%20-%20Top%20Up.zip"
+        }
+      },
+      "-OY9vFnbrHZLuBlQaepz": {
+        "img1": "https://i.supaimg.com/06d0af81-a55d-4c00-a5ac-33245e4190a7.png",
+        "name1": "King of Hell",
+        "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type1": "Legend",
+        "type_links": {
+          "-O_tmVG731nHVucXV7vl": "unavailable",
+          "-O_tmVG9hA3WdPEtvuNx": "unavailable",
+          "-O_tmVG9hA3WdPEtvuNy": "unavailable"
+        }
+      },
+      "-OY9vKpnzu5RZjVh4vum": {
+        "img1": "https://i.supaimg.com/1bdd8ff5-0e6d-4644-b798-c88f81c4585c.png",
+        "name1": "Quantum Vanguard",
+        "tag1": "https://i.supaimg.com/1005a0ba-8f15-4e15-962c-0d3b51cea3e4.png",
+        "type1": "MPL",
+        "type_links": {
+          "-O_tmVG731nHVucXV7vl": "unavailable",
+          "-O_tmVG9hA3WdPEtvuNx": "unavailable",
+          "-O_tmVG9hA3WdPEtvuNy": "https://github.com/injctr/large/raw/main/Franco/Legend/Franco%20Legend%20-%20MPL.zip"
+        }
+      }
+    },
+    "Skins": {
+      "-O_tm2rkvbPUnsqI3ZtI": {
+        "img2": "https://i.supaimg.com/120079de-9ecd-4af6-9013-c42414fa1fdd.png",
+        "name2": "Valhalla Ruler",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      },
+      "-O_tm60rQtcm68j24ZEp": {
+        "img2": "https://i.supaimg.com/9663056d-b4a5-44e2-9e35-6fcab4b9354f.png",
+        "name2": "Blazing Axe",
+        "tag2": "https://i.supaimg.com/93fa4e4c-e3dd-48b6-a689-ffe84647ff97.png",
+        "type2": "Blazing Bounties"
+      },
+      "-O_tm6zJyvzVdgkTNHVz": {
+        "img2": "https://i.supaimg.com/06d0af81-a55d-4c00-a5ac-33245e4190a7.png",
+        "name2": "King of Hell",
+        "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type2": "Legend"
+      }
+    },
+    "img": "https://i.supaimg.com/5e9a415f-b8dc-4f25-85ef-cf8f0fa8cfb9.png",
+    "name": "Franco"
+  },
+  "Minotaur": {
+    "Replacements": {
+      "-OY9vwAEJHus5mwMdAx1": {
+        "img1": "https://i.supaimg.com/13be6c35-d572-47d5-a02c-6b1b427625d4.png",
+        "name1": "Son of Minos",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObO1qStQ3zaMA2p7Js9": "https://www.dropbox.com/scl/fi/8z38tpwm7porh4nxovsy3/Minotaur-Zodiac-Default.zip?rlkey=55natlfyhjwt24k6dmruj2h80&st=3evekr93&dl=1"
+        }
+      },
+      "-OY9vzOX7PIZR3Viib82": {
+        "img1": "https://i.supaimg.com/93b3c7e9-a252-4f0d-b2c8-7ec82fe5b82a.png",
+        "name1": "Bursting Yama",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 1",
+        "type_links": {
+          "-ObO1vc3AxXineIuR9Qr": "https://www.dropbox.com/scl/fi/f0yt5f5qxfzeuraeyj4zq/Minotaur-Zodiac-Elite-Yama.zip?rlkey=f1um3hy42yqf2qirc0s0psw3g&st=3gc6b0xv&dl=1"
+        }
+      },
+      "-OY9w6vJUYNMtzwhCy0L": {
+        "img1": "https://i.supaimg.com/f27946b9-ba5b-45f9-b487-3404ff69a7f8.png",
+        "name1": "Orbiter",
+        "tag1": "https://i.supaimg.com/b0d7526c-b8f1-46a4-b805-7a9ee55c9aeb.png",
+        "type1": "Season 4",
+        "type_links": {
+          "-ObO1xhJKgdGyON95H3u": "https://www.dropbox.com/scl/fi/d2udq01ajk9iezp6qpzv8/Minotaur-Zodiac-Season.zip?rlkey=ucurjrz9n817w4jed5lclz9ww&st=mqkuvqer&dl=1"
+        }
+      },
+      "-OY9wAZsRwDcDzS4_9C7": {
+        "img1": "https://i.supaimg.com/56006a82-f29a-4726-bba4-adc3bf4e706d.png",
+        "name1": "Sacred Hammer",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 2",
+        "type_links": {
+          "-ObO1t5xRmz6ppXs6mnY": "https://www.dropbox.com/scl/fi/qyxiriuc2aybu7tl21308/Minotaur-Zodiac-Elite-Hammer.zip?rlkey=d0w4sprzmu1c3avk9qc455mhe&st=6s9x0mx1&dl=1"
+        }
+      },
+      "-OY9wEJtTTqY5Kj7yxHl": {
+        "img1": "https://i.supaimg.com/4d72aaab-f2ae-4bae-ae3e-20dac5891100.png",
+        "name1": "Taurus",
+        "tag1": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
+        "type1": "Zodiac",
+        "type_links": {
+          "-ObO21dXI5z6zXzC-q74": "unavailable"
+        }
+      },
+      "-OY9wI4fk4y_hFHzEeSQ": {
+        "img1": "https://i.supaimg.com/960d91c1-ae7c-4da8-98b2-39254c4e11fc.png",
+        "name1": "Dreadnought",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-ObO2-bCN8IKGAHdK465": "https://www.dropbox.com/scl/fi/wcglriapvl9yedalp4pb5/Minotaur-Zodiac-Special.zip?rlkey=abqnm8r3pgrgl0mnua3cr29ky&st=qrnopusn&dl=1"
+        }
+      }
+    },
+    "Skins": {
+      "-ObO1p4JWhkrSj3mYdsv": {
+        "img2": "https://i.supaimg.com/4d72aaab-f2ae-4bae-ae3e-20dac5891100.png",
+        "name2": "Taurus",
+        "tag2": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
+        "type2": "Zodiac"
+      }
+    },
+    "img": "https://i.supaimg.com/13be6c35-d572-47d5-a02c-6b1b427625d4.png",
+    "name": "Minotaur"
+  },
+  "Akai": {
+    "Replacements": {
+      "-OY9wc6C-r_MWRoJRauy": {
+        "img1": "https://i.supaimg.com/3b68b91c-b524-4018-9b9b-9f0b9823f17e.png",
+        "name1": "Panda Warrior",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_LXKlH22vkE7CcHhbW": "unavailable",
+          "-O_LXKlH22vkE7CcHhbX": "unavailable",
+          "-O_LXKlI0pY1gukQ-8zh": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Default.zip"
+        }
+      },
+      "-OY9wj2fIY7ENqWqOuWj": {
+        "img1": "https://i.supaimg.com/d665a706-895d-4432-aa90-c3db13e5c037.png",
+        "name1": "Summer Party",
+        "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
+        "type1": "Summer",
+        "type_links": {
+          "-O_LXQlytt-H-XL_QV-o": "unavailable",
+          "-O_LXQlytt-H-XL_QV-p": "unavailable",
+          "-O_LXQlytt-H-XL_QV-q": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Summer.zip"
+        }
+      },
+      "-OY9wq2_HLlVViYdu4AN": {
+        "img1": "https://i.supaimg.com/6e4dc56f-d4b5-4207-bb8d-58c08e1fa475.png",
+        "name1": "Monk",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 1",
+        "type_links": {
+          "-O_LXVnXxEuUfVnxIdRh": "unavailable",
+          "-O_LXVnXxEuUfVnxIdRi": "unavailable",
+          "-O_LXVnXxEuUfVnxIdRj": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Elite.zip"
+        }
+      },
+      "-OY9wuKOFgT3zgenaY43": {
+        "img1": "https://i.supaimg.com/84ae1065-407e-4521-bce1-fe838c54de58.png",
+        "name1": "Akazonae Samurai",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2018",
+        "type_links": {
+          "-O_LXecHPoe1bbKTu5vM": "unavailable",
+          "-O_LXecHPoe1bbKTu5vN": "unavailable",
+          "-O_LXecHPoe1bbKTu5vO": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Starlight.zip"
+        }
+      },
+      "-OY9wxtExTCVVeUUdawt": {
+        "img1": "https://i.supaimg.com/a45693c1-a388-43dd-85ac-df270ccb2b59.png",
+        "name1": "Imperial Assassin",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-O_LXk9-FU1pxIqSE6Yk": "unavailable",
+          "-O_LXk9-FU1pxIqSE6Yl": "unavailable",
+          "-O_LXk908CP6ju8474tA": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Luckybox.zip"
+        }
+      },
+      "-OY9x2VhyxKFhKaLD5cn": {
+        "img1": "https://i.supaimg.com/38083379-0e15-4312-b1ac-5e7d3194d564.png",
+        "name1": "Stream Recluse",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 2",
+        "type_links": {
+          "-O_LXtMSPfQf9SHGkENz": "unavailable",
+          "-O_LXtMSPfQf9SHGkEO-": "unavailable",
+          "-O_LXtMSPfQf9SHGkEO0": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Elite%20Top%20up.zip"
+        }
+      },
+      "-OY9x8SkRut0_seSeqLE": {
+        "img1": "https://i.supaimg.com/5a0e33ee-dc67-4434-9253-1944817c5655.png",
+        "name1": "Street Enforcer",
+        "tag1": "https://i.supaimg.com/09ca64ce-9a2e-4ce7-958f-c282841cc6b2.png",
+        "type1": "Season 19",
+        "type_links": {
+          "-O_LXzX2S6Hnaa_UuPHH": "unavailable",
+          "-O_LXzX2S6Hnaa_UuPHI": "unavailable",
+          "-O_LXzX2S6Hnaa_UuPHJ": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Season.zip"
+        }
+      },
+      "-OY9xF0v2md9r6Q8cDTv": {
+        "img1": "https://i.supaimg.com/6f6d8e0b-7364-4743-98ff-9c8fb17aae44.png",
+        "name1": "Kung Fu Panda",
+        "tag1": "https://i.supaimg.com/5e877764-2c64-4e25-9b67-ced163c75627.png",
+        "type1": "Kung Fu Panda",
+        "type_links": {
+          "-O_LY6RaDocDkxRHjHOy": "unavailable",
+          "-O_LY6RaDocDkxRHjHOz": "unavailable",
+          "-O_LY6RaDocDkxRHjHP-": "unavailable"
+        }
+      },
+      "-OY9xIezW3EtQcClaLRl": {
+        "img1": "https://i.supaimg.com/f112086c-a97f-4b40-bbd6-619863a6df23.png",
+        "name1": "Pumpkin Brawler",
+        "tag1": "https://i.supaimg.com/b78a2af1-60c9-4f62-8758-988924980127.png",
+        "type1": "Halloween",
+        "type_links": {
+          "-O_LY4JhwB5fNOVzNiPR": "unavailable",
+          "-O_LY4JiUFRjTMYs5nfx": "unavailable",
+          "-O_LY4JiUFRjTMYs5nfy": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Halloween.zip"
+        }
+      },
+      "-OY9xvhhlDYPEL3qMxwR": {
+        "img1": "https://i.supaimg.com/a4621ffa-c658-4fb4-88da-477d648e2a74.png",
+        "name1": "Marvelous Maestro",
+        "tag1": "https://i.supaimg.com/e5921af2-c4dc-4768-8d0f-c93b4f9b0622.png",
+        "type1": "8th Anniversary",
+        "type_links": {
+          "-O_LYD3xO4Mn-TvWDcWe": "unavailable",
+          "-O_LYD3xO4Mn-TvWDcWf": "unavailable",
+          "-O_LYD3xO4Mn-TvWDcWg": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Anniversary.zip"
+        }
+      }
+    },
+    "Skins": {
+      "-O_LXCGtmHn1P34TRjvR": {
+        "img2": "https://i.supaimg.com/84ae1065-407e-4521-bce1-fe838c54de58.png",
+        "name2": "Akazonae Samurai",
+        "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type2": "Starlight 2018"
+      },
+      "-O_LXD_n7toR9QPJnNTA": {
+        "img2": "https://i.supaimg.com/a45693c1-a388-43dd-85ac-df270ccb2b59.png",
+        "name2": "Imperial Assassin",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      },
+      "-O_LXEs4uixXfpLPCWBT": {
+        "img2": "https://i.supaimg.com/6f6d8e0b-7364-4743-98ff-9c8fb17aae44.png",
+        "name2": "Kung Fu Panda",
+        "tag2": "https://i.supaimg.com/5e877764-2c64-4e25-9b67-ced163c75627.png",
+        "type2": "Kung Fu Panda"
+      }
+    },
+    "img": "https://i.supaimg.com/3b68b91c-b524-4018-9b9b-9f0b9823f17e.png",
+    "name": "Akai"
+  },
+  "Johnson": {
+    "Replacements": {
+      "-OY9yF00GqzCJjzJ-PlQ": {
+        "img1": "https://i.supaimg.com/d420dd0a-a693-466d-94e7-257bae0d08f9.png",
+        "name1": "Wild Engine",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Ob16BQkIhiwK9EIUHAf": "https://github.com/injctr/large/raw/main/Johnson/Luckybox/Johnson%20Luckybox%20-%20Default.zip",
+          "-Ob16BQkIhiwK9EIUHAg": "https://github.com/injctr/large/raw/main/Johnson/Transformers/Johnson%20Transformers%20-%20Default.zip",
+          "-Ob16BQlGA4z0Q46ts-k": "https://github.com/injctr/large/raw/main/Johnson/Legend/Johnson%20Legend%20-%20Default.zip"
+        }
+      },
+      "-OY9yJX5YeR9PVlUv1xF": {
+        "img1": "https://i.supaimg.com/bd4ab09c-1009-4c66-9f70-9c668ba6235a.png",
+        "name1": "Fire Chief",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Ob168dOTVn0EQoF0mm6": "https://github.com/injctr/large/raw/main/Johnson/Luckybox/Johnson%20Luckybox%20-%20Basic.zip",
+          "-Ob168dP2OzTouEY1dMW": "https://github.com/injctr/large/raw/main/Johnson/Transformers/Johnson%20Transformers%20-%20Basic.zip",
+          "-Ob168dP2OzTouEY1dMX": "https://github.com/injctr/large/raw/main/Johnson/Legend/Johnson%20Legend%20-%20Basic.zip"
+        }
+      },
+      "-OY9yR_w9a9RPX0_qsGk": {
+        "img1": "https://i.supaimg.com/55fe6077-8358-4c11-8de9-c970e3d263ec.png",
+        "name1": "S.A.B.E.R. Automata",
+        "tag1": "https://i.supaimg.com/92f02b44-3f74-41a2-88c8-67022fc138d3.png",
+        "type1": "S.A.B.E.R.",
+        "type_links": {
+          "-Ob16Yv2Qg-bAgFYEDVf": "https://github.com/injctr/large/raw/main/Johnson/Luckybox/Johnson%20Luckybox%20-%20SABER.zip",
+          "-Ob16Yv2Qg-bAgFYEDVg": "https://github.com/injctr/large/raw/main/Johnson/Transformers/Johnson%20Transformers%20-%20Saber.zip",
+          "-Ob16Yv2Qg-bAgFYEDVh": "https://github.com/injctr/large/raw/main/Johnson/Legend/Johnson%20Legend%20-%20SABER.zip"
+        }
+      },
+      "-OY9yVKugIjNBpFSkN6M": {
+        "img1": "https://i.supaimg.com/c4d22f68-9c74-4dc1-9363-3a2ae814cb9c.png",
+        "name1": "Jeepney Racer",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-Ob16Uk6DsjImEXwpGKz": "https://github.com/injctr/large/raw/main/Johnson/Luckybox/Johnson%20Luckybox%20-%20Elite.zip",
+          "-Ob16Uk7dCcUoKAoUaNS": "https://github.com/injctr/large/raw/main/Johnson/Transformers/Johnson%20Transformers%20-%20Elite.zip",
+          "-Ob16Uk7dCcUoKAoUaNT": "https://github.com/injctr/large/raw/main/Johnson/Legend/Johnson%20Legend%20-%20Elite.zip"
+        }
+      },
+      "-OY9yZzSHApHcodXoi02": {
+        "img1": "https://i.supaimg.com/4d350a50-417c-407f-81a9-140083764ae7.png",
+        "name1": "Wreck King",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-Ob8GLb_muXxS3eZYZPp": "unavailable",
+          "-Ob8GLbogDUYOL8p-Tot": "https://github.com/injctr/large/raw/main/Johnson/Transformers/Johnson%20Transformers%20-%20Luckybox.zip",
+          "-Ob8GLbpHSSv9gBSK9lY": "https://github.com/injctr/large/raw/main/Johnson/Legend/Johnson%20Legend%20-%20Luckybox.zip"
+        }
+      },
+      "-OY9ycrbhnFQhXKebcKP": {
+        "img1": "https://i.supaimg.com/4ffada3b-8017-46e0-958f-12e3c039d7dd.png",
+        "name1": "Death Ride",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-Ob16c3m9_o60mfbVNUi": "https://github.com/injctr/large/raw/main/Johnson/Luckybox/Johnson%20Luckybox%20-%20Special.zip",
+          "-Ob16c3m9_o60mfbVNUj": "https://github.com/injctr/large/raw/main/Johnson/Transformers/Johnson%20Transformers%20-%20Special.zip",
+          "-Ob16c3nneC6EhybGRVB": "https://github.com/injctr/large/raw/main/Johnson/Legend/Johnson%20Legend%20-%20Special.zip1"
+        }
+      },
+      "-OY9yhfrUtFAsOShERG5": {
+        "img1": "https://i.supaimg.com/d3c249e0-64db-45e0-b091-da920e6346a9.png",
+        "name1": "Optimus Prime",
+        "tag1": "https://i.supaimg.com/9d4990f7-6dce-4571-83bb-a0a5553fa875.png",
+        "type1": "Transformers",
+        "type_links": {
+          "-ObDZ3xmprIWZ2W6zuDg": "unavailable",
+          "-ObDZ3xmprIWZ2W6zuDh": "unavailable",
+          "-ObDZ3xmprIWZ2W6zuDi": "https://github.com/injctr/large/raw/main/Johnson/Legend/Johnson%20Legend%20-%20Transformers.zip"
+        }
+      },
+      "-OY9yp68G0ubnJuL-rCK": {
+        "img1": "https://i.supaimg.com/b9b767e8-d22c-4540-b635-2a77065bbee9.png",
+        "name1": "Starblazer",
+        "tag1": "https://i.supaimg.com/3e24f847-7286-4fa9-9f46-7ac27d0e47b1.png",
+        "type1": "7th Anniversary",
+        "type_links": {
+          "-Ob165gg9DcxrVtqmUtU": "https://github.com/injctr/large/raw/main/Johnson/Luckybox/Johnson%20Luckybox%20-%20Anniversary.zip",
+          "-Ob165ghgDgi5KTS6PVe": "https://github.com/injctr/large/raw/main/Johnson/Transformers/Johnson%20Transformers%20-%20Anniversary.zip",
+          "-Ob165ghgDgi5KTS6PVf": "https://github.com/injctr/large/raw/main/Johnson/Legend/Johnson%20Legend%20-%20Anniversary.zip"
+        }
+      },
+      "-OY9yslXJL6pNAcDdqEz": {
+        "img1": "https://i.supaimg.com/253579c8-6c5e-4736-ab7f-ec46eba13b45.png",
+        "name1": "Sovereign of Realms",
+        "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type1": "Legend",
+        "type_links": {
+          "-ObDYyOkOjK8PwmQBldw": "unavailable",
+          "-ObDYyOnc6sIqDfk9uMC": "https://github.com/injctr/large/raw/main/Johnson/Transformers/Johnson%20Transformers%20-%20Legend.zip",
+          "-ObDYyOnc6sIqDfk9uMD": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Ob15w6emm9cVYzbm5ol": {
+        "img2": "https://i.supaimg.com/4d350a50-417c-407f-81a9-140083764ae7.png",
+        "name2": "Wreck King",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      },
+      "-Ob15wtvboVS-de9PWPA": {
+        "img2": "https://i.supaimg.com/d3c249e0-64db-45e0-b091-da920e6346a9.png",
+        "name2": "Optimus Prime",
+        "tag2": "https://i.supaimg.com/9d4990f7-6dce-4571-83bb-a0a5553fa875.png",
+        "type2": "Transformers"
+      },
+      "-Ob15xbyOhK-iEc_Pkso": {
+        "img2": "https://i.supaimg.com/253579c8-6c5e-4736-ab7f-ec46eba13b45.png",
+        "name2": "Sovereign of Realms",
+        "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+        "type2": "Legend"
+      }
+    },
+    "img": "https://i.supaimg.com/d420dd0a-a693-466d-94e7-257bae0d08f9.png",
+    "name": "Johnson"
+  },
+  "Edith": {
+    "Replacements": {
+      "-OY9z9_Os1W3o_ch6lmj": {
+        "img1": "https://i.supaimg.com/c6b9269b-c002-41c3-a07f-70deaf9fae2d.png",
+        "name1": "Ancient Guard",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_tcT_idy-piuHayxIT": "https://github.com/injctr/large/raw/main/Edith/Collector/Edith%20Collector%20-%20Default.zip",
+          "-O_tcT_idy-piuHayxIU": "https://github.com/injctr/large/raw/main/Edith/BTC/Edith%20BTC%20-%20Default.zip",
+          "-O_tcT_idy-piuHayxIV": "https://github.com/injctr/large/raw/main/Edith/MPL/Edith%20MPL%20-%20Default.zip"
+        }
+      },
+      "-OY9zDVmiuuXdVhAt2-9": {
+        "img1": "https://i.supaimg.com/09d22b0d-6ee1-4a39-b426-9bfbeefc38d3.png",
+        "name1": "Celestial Safeguard",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-O_tcNs9GEDj7qgRxfaA": "https://github.com/injctr/large/raw/main/Edith/Collector/Edith%20Collector%20-%20Basic.zip",
+          "-O_tcNsArRuCdk0-GT9r": "https://github.com/injctr/large/raw/main/Edith/BTC/Edith%20BTC%20-%20Basic.zip",
+          "-O_tcNsArRuCdk0-GT9s": "https://github.com/injctr/large/raw/main/Edith/MPL/Edith%20MPL%20-%20Basic.zip"
+        }
+      },
+      "-OY9zImgEWsWg6lZQVW-": {
+        "img1": "https://i.supaimg.com/75d01254-bdbc-4054-a02c-55dbc8752790.png",
+        "name1": "Ancient Warden",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2023",
+        "type_links": {
+          "-O_tcYl0qrqm8voxU0Mf": "https://github.com/injctr/large/raw/main/Edith/Collector/Edith%20Collector%20-%20Starlight.zip",
+          "-O_tcYl1Yl-vNotL_rjm": "https://github.com/injctr/large/raw/main/Edith/BTC/Edith%20BTC%20-%20Starlight.zip",
+          "-O_tcYl2vJpEvD9fz6XS": "https://github.com/injctr/large/raw/main/Edith/MPL/Edith%20MPL%20-%20Starlight.zip"
+        }
+      },
+      "-OY9zN8fUibfHPU5gZls": {
+        "img1": "https://i.supaimg.com/931d2a6a-7212-4579-ab89-c0b16a312aae.png",
+        "name1": "Red Bastion",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-O_tcdF7Ckcptautv09M": "unavailable",
+          "-O_tcdF7Ckcptautv09N": "https://github.com/injctr/large/raw/main/Edith/BTC/Edith%20BTC%20-%20Collector.zip",
+          "-O_tcdF7Ckcptautv09O": "unavailable"
+        }
+      },
+      "-OY9zUrDZSLjds-x7vsH": {
+        "img1": "https://i.supaimg.com/a6c8ff0f-6bff-4f1f-920c-48bd3060eec7.png",
+        "name1": "Beyond the Clouds Edith",
+        "tag1": "https://i.supaimg.com/069e5684-1fae-4285-888a-3e87ebeecef9.png",
+        "type1": "Coulds",
+        "type_links": {
+          "-O_tcQocbOTUBZF_zYUh": "https://github.com/injctr/large/raw/main/Edith/Collector/Edith%20Collector%20-%20BTC.zip",
+          "-O_tcQof3Wx9lmJWG_Fb": "unavailable",
+          "-O_tcQoh82dQzu4fKTj0": "unavailable"
+        }
+      },
+      "-OY9zcy0-jRdudFgjcEJ": {
+        "img1": "https://i.supaimg.com/e2882ddc-ed41-4b3a-b3ef-59c44edb5636.png",
+        "name1": "Prismatic Sentinel",
+        "tag1": "https://i.supaimg.com/1005a0ba-8f15-4e15-962c-0d3b51cea3e4.png",
+        "type1": "MPL",
+        "type_links": {
+          "-O_tcWIfccP73ZPHUimq": "https://github.com/injctr/large/raw/main/Edith/Collector/Edith%20Collector%20-%20MPL.zip",
+          "-O_tcWIfccP73ZPHUimr": "https://github.com/injctr/large/raw/main/Edith/BTC/Edith%20BTC%20-%20MPL.zip",
+          "-O_tcWIfccP73ZPHUims": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-O_tc1_s0_T7ogIawBuK": {
+        "img2": "https://i.supaimg.com/931d2a6a-7212-4579-ab89-c0b16a312aae.png",
+        "name2": "Red Bastion",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      },
+      "-O_tc2U9loP3RojO8REX": {
+        "img2": "https://i.supaimg.com/a6c8ff0f-6bff-4f1f-920c-48bd3060eec7.png",
+        "name2": "Beyond the Clouds Edith",
+        "tag2": "https://i.supaimg.com/069e5684-1fae-4285-888a-3e87ebeecef9.png",
+        "type2": "Coulds"
+      },
+      "-O_tcGDKNhChyqFg_2ZN": {
+        "img2": "https://i.supaimg.com/e2882ddc-ed41-4b3a-b3ef-59c44edb5636.png",
+        "name2": "Prismatic Sentinel",
+        "tag2": "https://i.supaimg.com/1005a0ba-8f15-4e15-962c-0d3b51cea3e4.png",
+        "type2": "MPL"
+      }
+    },
+    "img": "https://i.supaimg.com/c6b9269b-c002-41c3-a07f-70deaf9fae2d.png",
+    "name": "Edith"
+  },
+  "Grock": {
+    "Replacements": {
+      "01 DEFAULT": {
+        "img1": "https://i.supaimg.com/3d6deea2-fdc6-4914-a23f-1ac203959b01.png",
+        "name1": "Fortress Titan",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Default.zip",
+          "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Default.zip"
+        }
+      },
+      "02 BASIC": {
+        "img1": "https://i.supaimg.com/9479857e-6bd4-42a6-b817-8261999473a5.png",
+        "name1": "Grave Guardian",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Basic.zip",
+          "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Basic.zip"
+        }
+      },
+      "03 ELITE": {
+        "img1": "https://i.supaimg.com/db435147-5261-4076-bd63-e45b3a1988f2.png",
+        "name1": "Castle Guard",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Elite.zip",
+          "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Elite.zip"
+        }
+      },
+      "04 VENOM": {
+        "img1": "https://i.supaimg.com/ebd8170f-a8e7-4a74-8ca0-880f00a350bc.png",
+        "name1": "V.E.N.O.M. Monitor Lizard",
+        "tag1": "https://i.supaimg.com/86422ed2-4db0-49ca-ab4a-ab1d460a1fb8.png",
+        "type1": "V.E.N.O.M.",
+        "type_links": {
+          "01 EPIC": "unavailable",
+          "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20VENOM.zip"
+        }
+      },
+      "05 STARLIGHT": {
+        "img1": "https://i.supaimg.com/41974c63-32f6-4680-9b44-c0ede890b9a1.png",
+        "name1": "Iceland Golem",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2019",
+        "type_links": {
+          "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Starlight.zip",
+          "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Starlight.zip"
+        }
+      },
+      "06 EPIC": {
+        "img1": "https://i.supaimg.com/166cbd04-b1d3-41c1-93c4-25e8a5f2f89d.png",
+        "name1": "Codename: Rhino",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "01 EPIC": "unavailable",
+          "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Epic.zip"
+        }
+      },
+      "07 SEASON": {
+        "img1": "https://i.supaimg.com/01a27cfe-f0c9-4553-bb05-441380d6dbae.png",
+        "name1": "Ancient Golem",
+        "tag1": "https://i.supaimg.com/979dd12f-885b-447f-98f0-52323263f10d.png",
+        "type1": "Season 24",
+        "type_links": {
+          "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Season.zip",
+          "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Season.zip"
+        }
+      },
+      "08 SPECIAL": {
+        "img1": "https://i.supaimg.com/c73dd86b-54fd-4a3a-8310-41d0f7a5a5ef.png",
+        "name1": "Wasteland Psycho",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Special.zip",
+          "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Special.zip"
+        }
+      }
+    },
+    "Skins": {
+      "01 EPIC": {
+        "img2": "https://i.supaimg.com/166cbd04-b1d3-41c1-93c4-25e8a5f2f89d.png",
+        "name2": "Codename: Rhino",
+        "tag2": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type2": "Epic"
+      },
+      "02 COLLECTOR": {
+        "img2": "https://i.supaimg.com/ce3197c1-5240-4680-b0dd-4f5ed0ed91c5.jpg",
+        "name2": "Collector Titans",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      }
+    },
+    "img": "https://i.supaimg.com/3d6deea2-fdc6-4914-a23f-1ac203959b01.png",
+    "name": "Grock"
+  },
+  "Gatotkaca": {
+    "Replacements": {
+      "-OYA-nD1Wu1fUHGf_RY5": {
+        "img1": "https://i.supaimg.com/07a7ab05-8a6d-4d42-8281-d943d021fc5d.png",
+        "name1": "Mighty Legend",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Oa8KnPRFrPiTCxAJgPX": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Default.zip",
+          "-Oa8KnPRFrPiTCxAJgPY": "https://github.com/injctr/large/raw/main/Gatotkaca/Epic%20Tide/Gatotkaca%20Epic%20Tide%20-%20Default.zip",
+          "-Oa8KnPRFrPiTCxAJgPZ": "https://github.com/injctr/large/raw/main/Gatotkaca/Starlight/Gatotkaca%20Starlight%20-%20Default.zip"
+        }
+      },
+      "-OYA-qUc-PnMe3Lgv-hV": {
+        "img1": "https://i.supaimg.com/3c3fd41d-18e1-4fe9-8999-ffa41c95df6c.png",
+        "name1": "Mighty Guardian",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Oa8KjZksP0UKOAXYpb-": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Basic.zip",
+          "-Oa8KjZl5x9OQ-zY3kuy": "https://github.com/injctr/large/raw/main/Gatotkaca/Epic%20Tide/Gatotkaca%20Epic%20Tide%20-%20Basic.zip",
+          "-Oa8KjZmkRedrySNcC0N": "https://github.com/injctr/large/raw/main/Gatotkaca/Starlight/Gatotkaca%20Starlight%20-%20Basic.zip"
+        }
+      },
+      "-OYA-vXSs0AQPa3qWrNo": {
+        "img1": "https://i.supaimg.com/0702777d-314a-4f7b-aeca-53de0d64f62a.png",
+        "name1": "Arhat King",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 1",
+        "type_links": {
+          "-Oa8KqFUTTM5RBiFMOel": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Elite%20Arhat.zip",
+          "-Oa8KqFUTTM5RBiFMOem": "unavailable",
+          "-Oa8KqFUTTM5RBiFMOen": "unavailable"
+        }
+      },
+      "-OYA-za8plvAEejmlZyD": {
+        "img1": "https://i.supaimg.com/8990079e-53c5-47f9-aba5-d78cdb932319.png",
+        "name1": "Sentinel",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-Oa8R_tM2gcLN9LafCg-": "unavailable",
+          "-Oa8R_tM2gcLN9LafCg0": "unavailable",
+          "-Oa8R_tNBGLIQa0wM14m": "unavailable"
+        }
+      },
+      "-OYA02dyh6B758uQPUxV": {
+        "img1": "https://i.supaimg.com/2f71de5b-b90c-4068-a4cf-33884942dfb4.png",
+        "name1": "Spark",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite 2",
+        "type_links": {
+          "-Oa8KtA6Kmj2wh9GQjjG": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Elite%20Spark.zip",
+          "-Oa8KtA7aaQ3HaETHAXY": "unavailable",
+          "-Oa8KtA85nw0Y260d2dg": "unavailable"
+        }
+      },
+      "-OYA0B3TOgZImv-9lUsR": {
+        "img1": "https://i.supaimg.com/67b5a2c6-7bc9-4f98-8207-e7157e58b4ce.png",
+        "name1": "Tide Preserver",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-Oa8KvWXulOfku_4kNkP": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Epic.zip",
+          "-Oa8KvWXulOfku_4kNkQ": "unavailable",
+          "-Oa8KvWXulOfku_4kNkR": "unavailable"
+        }
+      },
+      "-OYA0GREUtF5PhTXTau-": {
+        "img1": "https://i.supaimg.com/57ed05b3-a311-46d4-8deb-ab80fe96a5a8.png",
+        "name1": "Nutcracker Monarch",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2024",
+        "type_links": {
+          "-Oa8KyylfsFLCYJBp75A": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Starlight.zip",
+          "-Oa8KyylfsFLCYJBp75B": "unavailable",
+          "-Oa8KyymoNIhKYIQ2ZSf": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Oa8KRsYNTleNgqWiLLZ": {
+        "img2": "https://i.supaimg.com/8990079e-53c5-47f9-aba5-d78cdb932319.png",
+        "name2": "Sentinel",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      },
+      "-Oa8KShG8KgjpP48UXj-": {
+        "img2": "https://i.supaimg.com/67b5a2c6-7bc9-4f98-8207-e7157e58b4ce.png",
+        "name2": "Tide Preserver",
+        "tag2": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type2": "Epic"
+      },
+      "-Oa8KTbkK4y3Re8Gvkml": {
+        "img2": "https://i.supaimg.com/57ed05b3-a311-46d4-8deb-ab80fe96a5a8.png",
+        "name2": "Nutcracker Monarch",
+        "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type2": "Starlight 2024"
+      }
+    },
+    "img": "https://i.supaimg.com/07a7ab05-8a6d-4d42-8281-d943d021fc5d.png",
+    "name": "Gatotkaca"
+  },
+  "Belerick": {
+    "Replacements": {
+      "-OYA0cYS47HPB-qg3ewT": {
+        "img1": "https://i.supaimg.com/ef5b7928-05b8-4967-b1cb-0392fc39f112.png",
+        "name1": "Guard of Nature",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7_wkJwfUCYUDgD5oD": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Default.zip"
+        }
+      },
+      "-OYA0gfBnoCS-rxhUyV6": {
+        "img1": "https://i.supaimg.com/1ce7f5bd-f2e6-46da-be17-ec2c17d2aa68.png",
+        "name1": "Tiger's Claw",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Of7_utsYDSU6VsOcGha": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Basic.zip"
+        }
+      },
+      "-OYA0mnFq7xMOtZ4xmhp": {
+        "img1": "https://i.supaimg.com/27402e0e-f631-4d9c-94d1-68e8ffd3fc80.png",
+        "name1": "Torch Guardian",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-Of7_ywNw8cJCTkN0-z0": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Elite.zip"
+        }
+      },
+      "-OYA0sFjcfBkzs9QVrzb": {
+        "img1": "https://i.supaimg.com/3c1ce07c-3042-4c72-89d8-5a367ba2a6f4.png",
+        "name1": "The Deep One",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 1",
+        "type_links": {
+          "-Of7a2ZVJswfI3Ytj4vL": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Special%20The%20Deep%20One.zip"
+        }
+      },
+      "-OYA0zpMrGgZ1-vkVsk0": {
+        "img1": "https://i.supaimg.com/87e18971-ca08-44df-b7a6-b598ea1c326b.png",
+        "name1": "Emerald Guardian",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 2",
+        "type_links": {
+          "-Of7a0M9uE3Vc5T_AG9O": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Emerald%20Guardian.zip"
+        }
+      },
+      "-OYA12tM_AvdyOow7DBF": {
+        "img1": "https://i.supaimg.com/92ea4c76-7a47-4aba-a178-54062ac0f715.png",
+        "name1": "Arbiter of Stars",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-Of7a4WJVbGpOw1EsflP": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7_tLpbGatbil1tdMk": {
+        "img2": "https://i.supaimg.com/92ea4c76-7a47-4aba-a178-54062ac0f715.png",
+        "name2": "Arbiter of Stars",
+        "tag2": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type2": "Epic"
+      }
+    },
+    "img": "https://i.supaimg.com/ef5b7928-05b8-4967-b1cb-0392fc39f112.png",
+    "name": "Belerick"
+  },
+  "Gloo": {
+    "Replacements": {
+      "-OYA9USLbhfOUFkqKSso": {
+        "img1": "https://i.supaimg.com/2c704190-dca5-4878-b767-b98f3ce26c85.png",
+        "name1": "Swamp Spirits",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7gFiAPnsRcF_QZ4X-": "https://github.com/injctr/large/raw/main/Gloo/Special/Gloo%20Special%20-%20Default.zip",
+          "-OfEMeoOaoZxapE8GPuA": "https://github.com/injctr/large/raw/main/Gloo/Patrick/Gloo%20Patrick%20-%20Default.zip"
+        }
+      },
+      "-OYA9Yz_WQytUJ1l35kV": {
+        "img1": "https://i.supaimg.com/688d41c8-373a-4680-a7c9-830366483b78.png",
+        "name1": "Verdant Enchanter",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Of7gDgChvN41lztuu4V": "https://github.com/injctr/large/raw/main/Gloo/Special/Gloo%20Special%20-%20Basic.zip",
+          "-OfEMd0aQ-nrINiuHjaL": "https://github.com/injctr/large/raw/main/Gloo/Patrick/Gloo%20Patrick%20-%20Basic.zip"
+        }
+      },
+      "-OYA9bc1Kv_BNcr23d6l": {
+        "img1": "https://i.supaimg.com/4a35a4c9-c33c-4583-af73-61d207c78aa2.png",
+        "name1": "Jellyman",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-Of7gCphbGf_n8hEsPOF": "unavailable",
+          "-OfEMhFUh1pnm6z0AMA0": "https://github.com/injctr/large/raw/main/Gloo/Patrick/Gloo%20Patrick%20-%20Special.zip"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7gBuFUhYZC57GmvDY": {
+        "img2": "https://i.supaimg.com/4a35a4c9-c33c-4583-af73-61d207c78aa2.png",
+        "name2": "Jellyman",
+        "tag2": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type2": "Special"
+      },
+      "-OfEJg_Qv3M7Oa7EsvuZ": {
+        "img2": "https://i.supaimg.com/159ae8a7-a459-432f-8c6e-b4fdc66b33e8.jpg",
+        "name2": "Patrick",
+        "tag2": "https://i.supaimg.com/36775e2c-dd64-4b0e-b353-9c38cd0ae33b.png",
+        "type2": "SpongeBob"
+      }
+    },
+    "img": "https://i.supaimg.com/2c704190-dca5-4878-b767-b98f3ce26c85.png",
+    "name": "Gloo"
+  },
+  "Lolita": {
+    "Replacements": {
+      "-OYA9s8JU_0v0ZA66piU": {
+        "img1": "https://i.supaimg.com/916dd5ca-d68d-4f18-876d-cb02b834277c.png",
+        "name1": "Steel Elf",
+        "tag1": "",
+        "type1": "Default"
+      },
+      "-OYA9w6xpWvNY5c_-t6D": {
+        "img1": "https://i.supaimg.com/19b0ab95-51ee-4ace-ad33-e840cc1fe95c.png",
+        "name1": "Soldier in Training",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite"
+      },
+      "-OYAA056H4iHGz9wEz_c": {
+        "img1": "https://i.supaimg.com/6ee6a80e-4f13-4b56-8f40-936c468b6842.png",
+        "name1": "Impish Trickster",
+        "tag1": "https://i.supaimg.com/b78a2af1-60c9-4f62-8758-988924980127.png",
+        "type1": "Halloween"
+      },
+      "-OYAA7Fhj-sDn-ifBo1U": {
+        "img1": "https://i.supaimg.com/2db83f74-2e67-4dfe-a5fd-3bb27c4b6b29.png",
+        "name1": "Lion Dance",
+        "tag1": "https://i.supaimg.com/419663c3-95ff-4fb1-b0bc-8c08a427be05.png",
+        "type1": "Lunar Fest"
+      },
+      "-OYAAAEI7fzcaqim-HXk": {
+        "img1": "https://i.supaimg.com/b7037fe4-a641-4269-91fe-6328cc9ea71f.png",
+        "name1": "Special Op",
+        "tag1": "",
+        "type1": "S16 First Recharge"
+      },
+      "-OYAAEnWVEQKom-eCcPV": {
+        "img1": "https://i.supaimg.com/3948ba57-0965-42ea-b7d7-749fa9c743ee.png",
+        "name1": "Genki Slam",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 1"
+      },
+      "-OYAAM2cku6bEsOa0qoS": {
+        "img1": "https://i.supaimg.com/021bbd50-8ecb-4307-a7c9-6301b90328d2.png",
+        "name1": "Starwatcher",
+        "tag1": "https://i.supaimg.com/74361ac2-2a72-4309-8fdb-3d60f3758a5a.png",
+        "type1": "Rising"
+      },
+      "-OYAATpp2BpvwAUn_W0L": {
+        "img1": "https://i.supaimg.com/92cc9931-6096-44fb-aedc-ff3a8fce7875.png",
+        "name1": "Astro Mallet",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 2"
+      }
+    },
+    "img": "https://i.supaimg.com/916dd5ca-d68d-4f18-876d-cb02b834277c.png",
+    "name": "Lolita"
+  },
+  "Baxia": {
+    "Replacements": {
+      "-OYAAsJo2vP2oY1xWahw": {
+        "img1": "https://i.supaimg.com/5c28b27e-89d4-42d7-9111-cc15e0c11e0b.png",
+        "name1": "Mystic Tortoise",
+        "tag1": "",
+        "type1": "Default"
+      },
+      "-OYAAuoUryVpPqG-TEZj": {
+        "img1": "https://i.supaimg.com/29f3b1da-3867-40a5-ad2d-ebbe755c8992.png",
+        "name1": "Wild Totem",
+        "tag1": "",
+        "type1": "Basic"
+      },
+      "-OYAAyszgSszky0gcYnZ": {
+        "img1": "https://i.supaimg.com/5adfe9f2-c160-4ab3-994a-56d4cb3c5ad9.png",
+        "name1": "Badass Roller",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite"
+      },
+      "-OYAB1bdkBH4dJYpTIw5": {
+        "img1": "https://i.supaimg.com/5bdcbcbd-3db8-4183-bdce-d76e5ff8de80.png",
+        "name1": "Ba-tender",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 1"
+      },
+      "-OYAB7JFnMdKG2eeJwMO": {
+        "img1": "https://i.supaimg.com/35cce935-9f71-42ed-ad09-c23fc87aee2e.png",
+        "name1": "Black Tortoise",
+        "tag1": "https://i.supaimg.com/ed64d558-e7aa-4a3d-b4b2-93b5c26bb369.png",
+        "type1": "Season 30"
+      },
+      "-OYABBxBHFTt1DWcUEk1": {
+        "img1": "https://i.supaimg.com/eb06fb53-6e70-47ad-a64f-ed43becb8dce.png",
+        "name1": "Dauntless Shield",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 2"
+      }
+    },
+    "img": "https://i.supaimg.com/5c28b27e-89d4-42d7-9111-cc15e0c11e0b.png",
+    "name": "Baxia"
+  },
+  "Uranus": {
+    "Replacements": {
+      "-OYABxtcCsYBdbXDMHX8": {
+        "img1": "https://i.supaimg.com/00fdf365-f8a7-4da9-9c20-cb530be67208.png",
+        "name1": "Aethereal Defender",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObQoj4Df7yM0iG5pFn3": "https://www.dropbox.com/scl/fi/5066afkq69tazi66pf2wi/Uranus-Luckybox-Default.zip?rlkey=szp7htf9unhausrkc8946dq9d&st=eeoohje9&dl=1"
+        }
+      },
+      "-OYABza5hb9oPOPtWXTD": {
+        "img1": "https://i.supaimg.com/752747d0-111e-44b1-9a6a-bfa73a4aba9b.png",
+        "name1": "Ancient Soul",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-ObQohOvqBucBi-XSNKc": "https://www.dropbox.com/scl/fi/hlp3dil511iprw5daulou/Uranus-Luckybox-Basic.zip?rlkey=wwz4950nejoci4j3q88x17t1q&st=b8typpsw&dl=1"
+        }
+      },
+      "-OYAC2SA9dqDdGX58xc-": {
+        "img1": "https://i.supaimg.com/3ab14280-479d-4801-b37e-2177def903ff.png",
+        "name1": "Mech Protector",
+        "tag1": "https://i.supaimg.com/74361ac2-2a72-4309-8fdb-3d60f3758a5a.png",
+        "type1": "Rising",
+        "type_links": {
+          "-ObQooDoZRp_RpANHKcb": "https://www.dropbox.com/scl/fi/1q3guakngwtp7cc85y1gu/Uranus-Luckybox-Rising.zip?rlkey=n8ac4eufobcai69p9zujs167e&st=qq6ojbev&dl=1"
+        }
+      },
+      "-OYAC8VCuDdJJiKgmoKr": {
+        "img1": "https://i.supaimg.com/28977618-0ae8-49a8-961a-d889a1f44498.png",
+        "name1": "Video-Game Dominator",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox"
+      },
+      "-OYACCIRJ7ySkVCEavck": {
+        "img1": "https://i.supaimg.com/75ee2651-4e54-41ed-93a1-2dff563d3b5d.png",
+        "name1": "Pinball Machine",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-ObQoskxIGB_1mnX4gpU": "https://www.dropbox.com/scl/fi/u16kcx1w13by891vbr0ky/Uranus-Luckybox-Special.zip?rlkey=7sg1fdjzdo514gbl7btddfgdn&st=3ly6ioqg&dl=1"
+        }
+      },
+      "-OYACFE72qy_PuWq8aef": {
+        "img1": "https://i.supaimg.com/b5476ea5-b2cf-46da-b84a-a3b4d7f1ae33.png",
+        "name1": "Celestial Bastion",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-ObQolhQ5HwRrHWXV_pB": "https://www.dropbox.com/scl/fi/wtbjlxc9ycetbzpo808ab/Uranus-Luckybox-Epic.zip?rlkey=div7x86l9x1rifmqbg9kuxw27&st=b5yw218v&dl=1"
+        }
+      },
+      "-OYACIZVFh4ErQGgEvIi": {
+        "img1": "https://i.supaimg.com/675bf0d8-a3ee-4eea-92c1-6cbb33d12486.png",
+        "name1": "Earthen Relic",
+        "tag1": "",
+        "type1": "Season 25",
+        "type_links": {
+          "-ObQoqeVlzeG4ssvYtpf": "https://www.dropbox.com/scl/fi/82tsyytisuiltzo8ekcv9/Uranus-Luckybox-Season.zip?rlkey=svs83ak7lhs5lsxldho7qmgqk&st=ettnqp86&dl=1"
+        }
+      }
+    },
+    "Skins": {
+      "-ObQoerILdC19ZkxTi5y": {
+        "img2": "https://i.supaimg.com/28977618-0ae8-49a8-961a-d889a1f44498.png",
+        "name2": "Video-Game Dominator",
+        "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type2": "Luckybox"
+      }
+    },
+    "img": "https://i.supaimg.com/00fdf365-f8a7-4da9-9c20-cb530be67208.png",
+    "name": "Uranus"
+  }
+}

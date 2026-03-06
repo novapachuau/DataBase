@@ -1,0 +1,879 @@
+{
+  "Angela": {
+    "Replacements": {
+      "-OYA1kGXQD5XDBf-5Ud6": {
+        "img1": "https://i.supaimg.com/f105384e-7da3-42c2-9f63-a919fcba5650.png",
+        "name1": "Bunnylove",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_SIpwRbinqvM9gePyS": "https://github.com/injctr/large/raw/main/Angela/Collector/Angela%20Collector%20-%20Default.zip",
+          "-O_SIpwRbinqvM9gePyT": "https://github.com/injctr/large/raw/main/Angela/Sanrio/Angela%20Sanrio%20-%20Default.zip",
+          "-O_SIpwS2J6gHzUWgXAX": "https://github.com/injctr/large/raw/main/Angela/Aspirants/Angela%20Aspirants%20-%20Default.zip",
+          "-O_SIpwS2J6gHzUWgXAY": "https://github.com/injctr/large/raw/main/Angela/Annual%20Starlight/Angela%20Annual%20-%20Default.zip",
+          "-O_SIpwS2J6gHzUWgXAZ": "https://github.com/injctr/large/raw/main/Angela/Kishin/Angela%20Kishin%20-%20Default.zip"
+        }
+      },
+      "-OYA1nXuADuLadPzdOU4": {
+        "img1": "https://i.supaimg.com/0537ef58-860d-4a43-81c1-489165e88c4d.png",
+        "name1": "Dove&Love",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-O_SIqvDBBc6gJwyBs2t": "https://github.com/injctr/large/raw/main/Angela/Collector/Angela%20Collector%20-%20Basic.zip",
+          "-O_SIqvEVS099Fi1ocEo": "https://github.com/injctr/large/raw/main/Angela/Sanrio/Angela%20Sanrio%20-%20Basic.zip",
+          "-O_SIqvFbfg2V1rXcehn": "https://github.com/injctr/large/raw/main/Angela/Aspirants/Angela%20Aspirants%20-%20Basic.zip",
+          "-O_SIqvGT2wCfaEznuvE": "https://github.com/injctr/large/raw/main/Angela/Annual%20Starlight/Angela%20Annual%20-%20Basic.zip",
+          "-O_SIqvHwhW07qeKe9zr": "https://github.com/injctr/large/raw/main/Angela/Kishin/Angela%20Kishin%20-%20Basic.zip"
+        }
+      },
+      "-OYA1sx3NFig_mjeszW-": {
+        "img1": "https://i.supaimg.com/a09e9408-0251-4dba-baae-7c2dcff5ada7.png",
+        "name1": "Shanghai Maiden",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2018",
+        "type_links": {
+          "-O_SIrjiAvUs-dPt1Qim": "https://github.com/injctr/large/raw/main/Angela/Collector/Angela%20Collector%20-%20Starlight.zip",
+          "-O_SIrjjtpItOUU_6189": "https://github.com/injctr/large/raw/main/Angela/Sanrio/Angela%20Sanrio%20-%20Starlight.zip",
+          "-O_SIrjjtpItOUU_618A": "https://github.com/injctr/large/raw/main/Angela/Aspirants/Angela%20Aspirants%20-%20Starlight.zip",
+          "-O_SIrjkbaJJp0ufdoB6": "https://github.com/injctr/large/raw/main/Angela/Annual%20Starlight/Angela%20Annual%20-%20Starlight.zip",
+          "-O_SIrjkbaJJp0ufdoB7": "https://github.com/injctr/large/raw/main/Angela/Kishin/Angela%20Kishin%20-%20Starlight.zip"
+        }
+      },
+      "-OYA1zq9UbpUuDshK5xr": {
+        "img1": "https://i.supaimg.com/3eafceed-c145-419b-ba85-f875d7f7afea.png",
+        "name1": "V.E.N.O.M. Vespid",
+        "tag1": "https://i.supaimg.com/86422ed2-4db0-49ca-ab4a-ab1d460a1fb8.png",
+        "type1": "V.E.N.O.M.",
+        "type_links": {
+          "-O_SIsh93dGXlal5XX_4": "https://github.com/injctr/large/raw/main/Angela/Collector/Angela%20Collector%20-%20Venom.zip",
+          "-O_SIsh93dGXlal5XX_5": "https://github.com/injctr/large/raw/main/Angela/Sanrio/Angela%20Sanrio%20-%20VENOM.zip",
+          "-O_SIsh93dGXlal5XX_6": "https://github.com/injctr/large/raw/main/Angela/Aspirants/Angela%20Aspirants%20-%20Venom.zip",
+          "-O_SIshAXFZ9VLTnOCQ2": "https://github.com/injctr/large/raw/main/Angela/Annual%20Starlight/Angela%20Annual%20-%20VENOM.zip",
+          "-O_SIshAXFZ9VLTnOCQ3": "https://github.com/injctr/large/raw/main/Angela/Kishin/Angela%20Kishin%20-%20VENOM.zip"
+        }
+      },
+      "-OYA24GjsCtFP0L3j_qd": {
+        "img1": "https://i.supaimg.com/29d016a8-1c88-4fce-80e5-963b13b16014.png",
+        "name1": "Scream Doll",
+        "tag1": "https://i.supaimg.com/b78a2af1-60c9-4f62-8758-988924980127.png",
+        "type1": "Halloween",
+        "type_links": {
+          "-O_SItdxs-HtjNDkeQA6": "https://github.com/injctr/large/raw/main/Angela/Collector/Angela%20Collector%20-%20Halloween.zip",
+          "-O_SItdyiZYQjnG5SHCx": "https://github.com/injctr/large/raw/main/Angela/Sanrio/Angela%20Sanrio%20-%20Halloween.zip",
+          "-O_SItdyiZYQjnG5SHCy": "https://github.com/injctr/large/raw/main/Angela/Aspirants/Angela%20Aspirants%20-%20Halloween.zip",
+          "-O_SItdz4I011f5lrhfK": "https://github.com/injctr/large/raw/main/Angela/Annual%20Starlight/Angela%20Annual%20-%20Halloween.zip",
+          "-O_SItdz4I011f5lrhfL": "https://github.com/injctr/large/raw/main/Angela/Kishin/Angela%20Kishin%20-%20Halloween.zip"
+        }
+      },
+      "-OYA28uimUQqjGo8XdFV": {
+        "img1": "https://i.supaimg.com/95dd0951-2220-4451-80a4-064a35b1c247.png",
+        "name1": "Summer Vibes",
+        "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
+        "type1": "Summer",
+        "type_links": {
+          "-O_SIuSIoV0MrSgZ9_Mv": "https://github.com/injctr/large/raw/main/Angela/Collector/Angela%20Collector%20-%20Summer.zip",
+          "-O_SIuSK-DTtANVlTFa3": "https://github.com/injctr/large/raw/main/Angela/Sanrio/Angela%20Sanrio%20-%20Summer.zip",
+          "-O_SIuSMTirnl2oN3gYG": "https://github.com/injctr/large/raw/main/Angela/Aspirants/Angela%20Aspirants%20-%20Summer.zip",
+          "-O_SIuSMTirnl2oN3gYH": "https://github.com/injctr/large/raw/main/Angela/Annual%20Starlight/Angela%20Annual%20-%20Summer.zip",
+          "-O_SIuSNLusuRzzx4TSn": "https://github.com/injctr/large/raw/main/Angela/Kishin/Angela%20Kishin%20-%20Summer.zip"
+        }
+      },
+      "-OYA2DvCsqc_Oo-h4qUB": {
+        "img1": "https://i.supaimg.com/b6dcc03e-4a48-4776-8e73-ee6f8fcbf26e.png",
+        "name1": "Floral Elf",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-O_SIw4DqCwfnV3BEP8J": "unavailable",
+          "-O_SIw4GGgKsj6OtdDKr": "https://github.com/injctr/large/raw/main/Angela/Sanrio/Angela%20Sanrio%20-%20Collector.zip",
+          "-O_SIw4GGgKsj6OtdDKs": "https://github.com/injctr/large/raw/main/Angela/Aspirants/Angela%20Aspirants%20-%20Collector.zip",
+          "-O_SIw4HJifSFzhZSZvd": "https://github.com/injctr/large/raw/main/Angela/Annual%20Starlight/Angela%20Annual%20-%20Collector.zip",
+          "-O_SIw4HJifSFzhZSZve": "https://github.com/injctr/large/raw/main/Angela/Kishin/Angela%20Kishin%20-%20Collector.zip"
+        }
+      },
+      "-OYA2IoWmSQPjB172zf1": {
+        "img1": "https://i.supaimg.com/bb1246d3-a84f-44b2-9e19-f070cc2c91a4.png",
+        "name1": "Heartstring",
+        "tag1": "https://i.supaimg.com/0ea9724b-ec43-47f9-bccb-925185424611.png",
+        "type1": "Sanrio Characters",
+        "type_links": {
+          "-O_SIxGDuz75aqSQBPcN": "https://github.com/injctr/large/raw/main/Angela/Collector/Angela%20Collector%20-%20Sanrio.zip",
+          "-O_SIxGDuz75aqSQBPcO": "unavailable",
+          "-O_SIxGDuz75aqSQBPcP": "https://github.com/injctr/large/raw/main/Angela/Aspirants/Angela%20Aspirants%20-%20Sanrio.zip",
+          "-O_SIxGEr06h_BcpMNBq": "https://github.com/injctr/large/raw/main/Angela/Annual%20Starlight/Angela%20Annual%20-%20Sanrio.zip",
+          "-O_SIxGEr06h_BcpMNBr": "https://github.com/injctr/large/raw/main/Angela/Kishin/Angela%20Kishin%20-%20Sanrio.zip"
+        }
+      },
+      "-OYA2PYwHqOVRjOfHmWk": {
+        "img1": "https://i.supaimg.com/b0da9748-08d1-409c-acbe-03e4ef739ef0.png",
+        "name1": "Cyber Cherubin",
+        "tag1": "https://i.supaimg.com/9e12716d-a6ec-4592-8502-3a5c1c8d57bd.png",
+        "type1": "The Aspirants",
+        "type_links": {
+          "-O_SIyZocj8pCschr7Dj": "https://github.com/injctr/large/raw/main/Angela/Collector/Angela%20Collector%20-%20Aspirants.zip",
+          "-O_SIyZqzWmz8J47ugNp": "https://github.com/injctr/large/raw/main/Angela/Sanrio/Angela%20Sanrio%20-%20Aspirants.zip",
+          "-O_SIyZsiX5vCw8tjOyt": "unavailable",
+          "-O_SIyZsiX5vCw8tjOyu": "https://github.com/injctr/large/raw/main/Angela/Annual%20Starlight/Angela%20Annual%20-%20Aspirants.zip",
+          "-O_SIyZsiX5vCw8tjOyv": "https://github.com/injctr/large/raw/main/Angela/Kishin/Angela%20Kishin%20-%20Aspirants.zip"
+        }
+      },
+      "-OYA2Uqrolw4ug15AEn_": {
+        "img1": "https://i.supaimg.com/28fc67f1-f96e-4d2d-94a0-75396e66b28e.png",
+        "name1": "Avatar of Time",
+        "tag1": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png",
+        "type1": "Anual Starlight",
+        "type_links": {
+          "-O_SJ-Ub6tzId6aSQhXi": "https://github.com/injctr/large/raw/main/Angela/Collector/Angela%20Collector%20-%20Annual%20Star.zip",
+          "-O_SJ-Ub6tzId6aSQhXj": "https://github.com/injctr/large/raw/main/Angela/Sanrio/Angela%20Sanrio%20-%20Annual.zip",
+          "-O_SJ-Uco-KY1pQDq6tE": "https://github.com/injctr/large/raw/main/Angela/Aspirants/Angela%20Aspirants%20-%20Annual%20Star.zip",
+          "-O_SJ-Uco-KY1pQDq6tF": "unavailable",
+          "-O_SJ-Uco-KY1pQDq6tG": "https://github.com/injctr/large/raw/main/Angela/Kishin/Angela%20Kishin%20-%20Annual%20Star.zip"
+        }
+      },
+      "-OYA2aNpm0fEV0xcXa3C": {
+        "img1": "https://i.supaimg.com/43304713-e59e-4de2-a439-8659c4010edb.png",
+        "name1": "Strings of Fate",
+        "tag1": "https://i.supaimg.com/909d5792-e723-4cc1-a981-fe5ea6273a88.png",
+        "type1": "Kishin Densetsu",
+        "type_links": {
+          "-O_SJ29eZ0868NroRhAH": "https://github.com/injctr/large/raw/main/Angela/Collector/Angela%20Collector%20-%20Kishin.zip",
+          "-O_SJ29hKFBn4ZczSeoF": "https://github.com/injctr/large/raw/main/Angela/Sanrio/Angela%20Sanrio%20-%20Kishin.zip",
+          "-O_SJ29hKFBn4ZczSeoG": "https://github.com/injctr/large/raw/main/Angela/Aspirants/Angela%20Aspirants%20-%20Kishin.zip",
+          "-O_SJ29hKFBn4ZczSeoH": "https://github.com/injctr/large/raw/main/Angela/Annual%20Starlight/Angela%20Annual%20-%20Kishin.zip",
+          "-O_SJ29hKFBn4ZczSeoI": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-O_SIkScSsa5jxqnpsl4": {
+        "img2": "https://i.supaimg.com/b6dcc03e-4a48-4776-8e73-ee6f8fcbf26e.png",
+        "name2": "Floral Elf",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      },
+      "-O_SIl6oLd7Pq4HKsi7y": {
+        "img2": "https://i.supaimg.com/bb1246d3-a84f-44b2-9e19-f070cc2c91a4.png",
+        "name2": "Heartstring",
+        "tag2": "https://i.supaimg.com/0ea9724b-ec43-47f9-bccb-925185424611.png",
+        "type2": "Sanrio Characters"
+      },
+      "-O_SIm3Z9KJFOyo8KqgN": {
+        "img2": "https://i.supaimg.com/b0da9748-08d1-409c-acbe-03e4ef739ef0.png",
+        "name2": "Cyber Cherubin",
+        "tag2": "https://i.supaimg.com/9e12716d-a6ec-4592-8502-3a5c1c8d57bd.png",
+        "type2": "The Aspirants"
+      },
+      "-O_SIn42DE0c-jrzv5EI": {
+        "img2": "https://i.supaimg.com/28fc67f1-f96e-4d2d-94a0-75396e66b28e.png",
+        "name2": "Avatar of Time",
+        "tag2": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png",
+        "type2": "Anual Starlight"
+      },
+      "-O_SInxKqQ8tfyjlwLwp": {
+        "img2": "https://i.supaimg.com/43304713-e59e-4de2-a439-8659c4010edb.png",
+        "name2": "Strings of Fate",
+        "tag2": "https://i.supaimg.com/909d5792-e723-4cc1-a981-fe5ea6273a88.png",
+        "type2": "Kishin Densetsu"
+      }
+    },
+    "img": "https://i.supaimg.com/f105384e-7da3-42c2-9f63-a919fcba5650.png",
+    "name": "Angela"
+  },
+  "Estes": {
+    "Replacements": {
+      "-OYA2rYsR4gQZ8Wi-yZe": {
+        "img1": "https://i.supaimg.com/043407c4-ee1a-4d4a-99b9-213a636f12e3.png",
+        "name1": "Moon Elf King",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_telx8fZiKppytb_BI": "https://github.com/injctr/large/raw/main/Estes/Champion/Estes%20Champion%20-%20Default.zip",
+          "-O_telxBF3zbaZzCAgU4": "https://github.com/injctr/large/raw/main/Estes/Sparkle/Estes%20Sparkle%20-%20Default.zip"
+        }
+      },
+      "-OYA30VOqZz80-U-hqm8": {
+        "img1": "https://i.supaimg.com/57b8273f-6102-4587-873d-dbf246455ae0.png",
+        "name1": "Holy Priest",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-O_teiRThUJ_BjVjx3Qs": "https://github.com/injctr/large/raw/main/Estes/Champion/Estes%20Champion%20-%20Basic.zip",
+          "-O_teiRUFBIPkKltFaS5": "https://github.com/injctr/large/raw/main/Estes/Sparkle/Estes%20Sparkle%20-%20Basic.zip"
+        }
+      },
+      "-OYA35HDh2v8uMvkUp38": {
+        "img1": "https://i.supaimg.com/e42fb654-cfb2-4f01-9186-66fddc0ca817.png",
+        "name1": "Galaxy Dominator",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-O_teu5bcAk4rlWkXfgd": "https://github.com/injctr/large/raw/main/Estes/Champion/Estes%20Champion%20-%20Luckybox.zip",
+          "-O_teu5bcAk4rlWkXfge": "unavailable"
+        }
+      },
+      "-OYA3DJVW83gd9OLnV7t": {
+        "img1": "https://i.supaimg.com/ee35ebcc-fb3f-4db2-9bee-a1afce29d2d4.png",
+        "name1": "White Crane",
+        "tag1": "https://i.supaimg.com/755b478a-5f8e-4ef3-922b-5422f06cd699.png",
+        "type1": "Season 9",
+        "type_links": {
+          "-O_tewO7PFX39Hs2xrva": "https://github.com/injctr/large/raw/main/Estes/Champion/Estes%20Champion%20-%20Season.zip",
+          "-O_tewOBb6wFTrUu3dXv": "unavailable"
+        }
+      },
+      "-OYA3Hh4J9No1eGdxfKI": {
+        "img1": "https://i.supaimg.com/3e68ca90-8a80-4726-b449-3fc93f76d11d.png",
+        "name1": "Crow Bishop",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 1",
+        "type_links": {
+          "-O_tf3z1Eh3FwA2nTH2Z": "https://github.com/injctr/large/raw/main/Estes/Champion/Estes%20Champion%20-%20Special.zip",
+          "-O_tf3z3PP3hRvoIL55P": "unavailable"
+        }
+      },
+      "-OYA3N8oXrokhKwM9Z2W": {
+        "img1": "https://i.supaimg.com/d7493928-bcfd-4a0c-9cb2-708fd2bf8eb6.png",
+        "name1": "Rattan Dragon",
+        "tag1": "https://i.supaimg.com/b212be91-7e5f-40d8-b7f7-10dacc317b3d.png",
+        "type1": "Dragon Tamer",
+        "type_links": {
+          "-O_terG5fsWa_t5PJWVG": "https://github.com/injctr/large/raw/main/Estes/Champion/Estes%20Champion%20-%20Dragon.zip",
+          "-O_terG6jALa0BO3WK0E": "unavailable"
+        }
+      },
+      "-OYA3Scs1xe11LZo1iA1": {
+        "img1": "https://i.supaimg.com/9b4727f1-fb4e-40fe-8462-b3dd067d5d8b.png",
+        "name1": "Blacklist International",
+        "tag1": "https://i.supaimg.com/1589abc4-551e-4dbb-932f-5bb1c0162372.png",
+        "type1": "Champion",
+        "type_links": {
+          "-O_tf5zhx9MtiAecm3JZ": "unavailable",
+          "-O_tf5ziyM4SkmAMSzzb": "unavailable"
+        }
+      },
+      "-OYA3Z07J0iVvSm7jdpu": {
+        "img1": "https://i.supaimg.com/0b9c8b18-b811-48fe-9df5-151b8ab0b88d.png",
+        "name1": "Arcane Magistrate",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special 2",
+        "type_links": {
+          "-O_tf1Mv0xYnNK0F4IfU": "https://github.com/injctr/large/raw/main/Estes/Champion/Estes%20Champion%20-%20Special%20Arcane.zip",
+          "-O_tf1Mw7OIEhacADKBH": "unavailable"
+        }
+      },
+      "-OYA3eVQGDMpwqMvmEXt": {
+        "img1": "https://i.supaimg.com/183e60ef-e435-44df-923d-08a97fe1b2cd.png",
+        "name1": "SPARKLE Estes",
+        "tag1": "https://i.supaimg.com/cc757c51-a3bc-496b-9ffd-ec27b7e1b45e.png",
+        "type1": "Sparkle",
+        "type_links": {
+          "-O_tez6VanwJO8GbuGSx": "https://github.com/injctr/large/raw/main/Estes/Champion/Estes%20Champion%20-%20Sparkle.zip",
+          "-O_tez6VanwJO8GbuGSy": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-O_teNtYh02jr7XrktfN": {
+        "img2": "https://i.supaimg.com/9b4727f1-fb4e-40fe-8462-b3dd067d5d8b.png",
+        "name2": "Blacklist International",
+        "tag2": "https://i.supaimg.com/1589abc4-551e-4dbb-932f-5bb1c0162372.png",
+        "type2": "Champion"
+      },
+      "-O_tePAv1L1TZ4z8H1iQ": {
+        "img2": "https://i.supaimg.com/183e60ef-e435-44df-923d-08a97fe1b2cd.png",
+        "name2": "SPARKLE Estes",
+        "tag2": "https://i.supaimg.com/cc757c51-a3bc-496b-9ffd-ec27b7e1b45e.png",
+        "type2": "Sparkle"
+      }
+    },
+    "img": "https://i.supaimg.com/043407c4-ee1a-4d4a-99b9-213a636f12e3.png",
+    "name": "Estes"
+  },
+  "Floryn": {
+    "Replacements": {
+      "-OYA4bR2WuvOtPU8mwUT": {
+        "img1": "https://i.supaimg.com/deb7ecb8-a5a3-40a5-b7fb-2d1d0fd25792.png",
+        "name1": "The Budding Hope",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_tii-R9gCCrZM3h5vL": "https://github.com/injctr/large/raw/main/Floryn/Sanrio/Floryn%20Sanrio%20-%20Default.zip",
+          "-O_tii-R9gCCrZM3h5vM": "https://github.com/injctr/large/raw/main/Floryn/Collector/Floryn%20Collector%20-%20Default.zip"
+        }
+      },
+      "-OYA4f_gXhR1JByhtlK6": {
+        "img1": "https://i.supaimg.com/9442ed60-3225-4c67-a186-781c0b084905.png",
+        "name1": "Springtide",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-O_tibS5a1cMmqsfk4p8": "https://github.com/injctr/large/raw/main/Floryn/Sanrio/Floryn%20Sanrio%20-%20Basic.zip",
+          "-O_tibS5a1cMmqsfk4p9": "https://github.com/injctr/large/raw/main/Floryn/Collector/Floryn%20Collector%20-%20Basic.zip"
+        }
+      },
+      "-OYA4jGAesmV6E-Njv4p": {
+        "img1": "https://i.supaimg.com/f0be1de8-5b68-482e-8134-af87c9551985.png",
+        "name1": "Fluffy Dream",
+        "tag1": "https://i.supaimg.com/0ea9724b-ec43-47f9-bccb-925185424611.png",
+        "type1": "Sanrio Characters",
+        "type_links": {
+          "-O_tj0Pc_UIVnv97No-V": "unavailable",
+          "-O_tj0PdboApweKP_9rJ": "https://github.com/injctr/large/raw/main/Floryn/Collector/Floryn%20Collector%20-%20Sanrio.zip"
+        }
+      },
+      "-OYA4mwSK0w5348XBQok": {
+        "img1": "https://i.supaimg.com/dd7aefa2-6b5b-4265-a3d3-a11a4fd4d120.png",
+        "name1": "Paw Power",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-O_tikjYsFg5innxj0Jc": "https://github.com/injctr/large/raw/main/Floryn/Sanrio/Floryn%20Sanrio%20-%20Elite.zip",
+          "-O_tikjYsFg5innxj0Jd": "https://github.com/injctr/large/raw/main/Floryn/Collector/Floryn%20Collector%20-%20Elite.zip"
+        }
+      },
+      "-OYA4sRyPCZScOTz0t5I": {
+        "img1": "https://i.supaimg.com/9ae0f260-0cc8-4fbd-885f-9efae312dd22.png",
+        "name1": "Yatai Waitress",
+        "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
+        "type1": "Summer",
+        "type_links": {
+          "-O_tioJ_5dRi8As_pked": "https://github.com/injctr/large/raw/main/Floryn/Sanrio/Floryn%20Sanrio%20-%20Summer.zip",
+          "-O_tioJ_5dRi8As_pkee": "https://github.com/injctr/large/raw/main/Floryn/Collector/Floryn%20Collector%20-%20Summer.zip"
+        }
+      },
+      "-OYA4wm6fGKNfbHFr4xA": {
+        "img1": "https://i.supaimg.com/4d30e785-4e35-4fbb-91f7-84f53fb8e543.png",
+        "name1": "Melody of Light",
+        "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type1": "Collector",
+        "type_links": {
+          "-O_tifURSYXldo4ETUVR": "https://github.com/injctr/large/raw/main/Floryn/Sanrio/Floryn%20Sanrio%20-%20Collector.zip",
+          "-O_tifUSahTrLwziC63t": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-O_tiODMJx9hZspg_5Tg": {
+        "img2": "https://i.supaimg.com/f0be1de8-5b68-482e-8134-af87c9551985.png",
+        "name2": "Fluffy Dream",
+        "tag2": "https://i.supaimg.com/0ea9724b-ec43-47f9-bccb-925185424611.png",
+        "type2": "Sanrio Characters"
+      },
+      "-O_tiPn5gVOslQ_qdHop": {
+        "img2": "https://i.supaimg.com/4d30e785-4e35-4fbb-91f7-84f53fb8e543.png",
+        "name2": "Melody of Light",
+        "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
+        "type2": "Collector"
+      }
+    },
+    "img": "https://i.supaimg.com/deb7ecb8-a5a3-40a5-b7fb-2d1d0fd25792.png",
+    "name": "Floryn"
+  },
+  "Mathilda": {
+    "Replacements": {
+      "-OYA5EbM14cOyC9ksdjy": {
+        "img1": "https://i.supaimg.com/4e2b6fe1-bbca-4501-8c62-10d09f0fa2c3.png",
+        "name1": "Swift Plume",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObO0s_5oGkUa7k4oDjY": "https://www.dropbox.com/scl/fi/5cq2489cz23dgd9mktvrk/Mathilda-Epic-Default.zip?rlkey=0su5cm1k1h0tot0clg83rsleu&st=qorepjab&dl=1"
+        }
+      },
+      "-OYA5H5gmhobdJAZ1zfX": {
+        "img1": "https://i.supaimg.com/ee673756-99f3-4604-96bc-545e1c545bbd.png",
+        "name1": "Unrestrained Delight",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-ObO0qRfo5BlHapNRMUk": "https://www.dropbox.com/scl/fi/n3s6kpk588jalicv7zvqi/Mathilda-Epic-Basic.zip?rlkey=buobrni1exdqim8cdi3qpgcpi&st=b2zpsgxr&dl=1"
+        }
+      },
+      "-OYA5LepwWunr7yTQ6nz": {
+        "img1": "https://i.supaimg.com/9f01dbe7-7729-4b4d-9f00-02180d402078.png",
+        "name1": "Floral Crown",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-ObO0uomQ_Z-1gdtnaln": "https://www.dropbox.com/scl/fi/wkvrb5w3jp9qt1jmha7bv/Mathilda-Epic-Elite.zip?rlkey=jytyt2scoydtjik3r95px0s9z&st=c2emwjbs&dl=1"
+        }
+      },
+      "-OYA5QMHToYe-gSamH-_": {
+        "img1": "https://i.supaimg.com/9f2d683b-7a0e-41a3-9a48-e2d2c00704d4.png",
+        "name1": "Dream Groove",
+        "tag1": "https://i.supaimg.com/1005a0ba-8f15-4e15-962c-0d3b51cea3e4.png",
+        "type1": "MPL",
+        "type_links": {
+          "-ObO0x49f09OKjcgDHCH": "https://www.dropbox.com/scl/fi/hfd4zt9c9yy5ewtu9bugd/Mathilda-Epic-MPL.zip?rlkey=60u61330zg70wpz3ifi48eyde&st=380qzpew&dl=1"
+        }
+      },
+      "-OYA5U9Ixj1C6GWArEQb": {
+        "img1": "https://i.supaimg.com/ed3eafd3-f30c-4d00-bc78-0cba78cdd746.png",
+        "name1": "Dreambound Pixie",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-ObO0po9Mr2a5J-qDx8S": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-ObO0lcxzXiwcqeUPpxL": {
+        "img2": "https://i.supaimg.com/ed3eafd3-f30c-4d00-bc78-0cba78cdd746.png",
+        "name2": "Dreambound Pixie",
+        "tag2": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type2": "Epic"
+      }
+    },
+    "img": "https://i.supaimg.com/4e2b6fe1-bbca-4501-8c62-10d09f0fa2c3.png",
+    "name": "Mathilda"
+  },
+  "Faramis": {
+    "Replacements": {
+      "-OYA5gW7wcIht7ex7P-0": {
+        "img1": "https://i.supaimg.com/53cc3f23-bf9e-4d0d-8723-f664cb2a5214.png",
+        "name1": "Soul Binder",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7fxR3YZXF7pQHpC7X": "https://github.com/injctr/large/raw/main/Faramis/Mythic/Faramis%20Mythic%20-%20Default.zip"
+        }
+      },
+      "-OYA5k0Yr1R29mcAUgLH": {
+        "img1": "https://i.supaimg.com/ba3d1b03-f811-4193-8c20-98f78ee9baff.png",
+        "name1": "Dark Necro",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Of7fvNY4dF0vk7W20Pw": "https://github.com/injctr/large/raw/main/Faramis/Mythic/Faramis%20Mythic%20-%20Basic.zip"
+        }
+      },
+      "-OYA5oMyQHT_dGT_dkdi": {
+        "img1": "https://i.supaimg.com/273cccca-613c-40ba-aff8-5d88beee1638.png",
+        "name1": "Royal Magus",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-Of7g494wWBq6UM8c_x6": "unavailable"
+        }
+      },
+      "-OYA5sNIuAifT7OnF8Kq": {
+        "img1": "https://i.supaimg.com/e52d26b7-97b1-43e9-91ce-44f672712061.png",
+        "name1": "Summer Sparks",
+        "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
+        "type1": "Summer",
+        "type_links": {
+          "-Of7g4vK_pK-NlW1Sjvn": "unavailable"
+        }
+      },
+      "-OYA5yqENJ4UEPG5R1Bt": {
+        "img1": "https://i.supaimg.com/38a847b7-2695-4a23-82c1-72dd5517ee92.png",
+        "name1": "Infernal Magister",
+        "tag1": "https://i.supaimg.com/8adeac8e-9c27-4856-b889-c19e2c4c815b.png",
+        "type1": "Mythic 2023",
+        "type_links": {
+          "-Of7g5vTjze2FUdsEBK3": "unavailable"
+        }
+      },
+      "-OYA64dnY8lmkcMTMlQi": {
+        "img1": "https://i.supaimg.com/6c252337-f73a-47ec-bfd8-54407e2e8103.png",
+        "name1": "Enigmatic Wayfarer",
+        "tag1": "https://i.supaimg.com/c8e26724-94b6-4ea2-89e0-109641adecb3.png",
+        "type1": "Season 37",
+        "type_links": {
+          "-Of7g6WrVOF23IhgwTEd": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7fuBMERSkYjKemyK_": {
+        "img2": "https://i.supaimg.com/38a847b7-2695-4a23-82c1-72dd5517ee92.png",
+        "name2": "Infernal Magister",
+        "tag2": "https://i.supaimg.com/8adeac8e-9c27-4856-b889-c19e2c4c815b.png",
+        "type2": "Mythic 2023"
+      }
+    },
+    "img": "https://i.supaimg.com/53cc3f23-bf9e-4d0d-8723-f664cb2a5214.png",
+    "name": "Faramis"
+  },
+  "Rafaela": {
+    "Replacements": {
+      "-OYA6Kioy1NreNi5cXbi": {
+        "img1": "https://i.supaimg.com/d5911c4e-1ff3-4e04-82a7-f7c9827784e9.png",
+        "name1": "Wings of Holiness",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-ObQVqoKkYxXj0uRIoxM": "https://www.dropbox.com/scl/fi/wayl0f11rfwiuo43fgh7d/Rafaela-Chrismast-Default.zip?rlkey=9ur3jszs9ybquf4tpmsxkmy08&st=jk0ohsid&dl=1",
+          "-ObQVqoKkYxXj0uRIoxN": "https://www.dropbox.com/scl/fi/450kl5uk94x3b493fjhl9/Rafaela-Lunar-Default.zip?rlkey=3kdtl9vm7nx0wwrecuockavbj&st=ffpw833f&dl=1"
+        }
+      },
+      "-OYA6QHwwUUzUxoP5qq4": {
+        "img1": "https://i.supaimg.com/fab980ec-0927-46d1-a030-1201440d8181.png",
+        "name1": "Fertility Goddess",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-ObQVsoUwEYQgpHC-_Eo": "https://www.dropbox.com/scl/fi/5yi0tfeb5odcododnq6by/Rafaela-Chrismast-Elite.zip?rlkey=no2qe2epdosxfz13ol0d1mjhv&st=zjl0ivqf&dl=1",
+          "-ObQVsoVWANzQCXgRY__": "unavailable"
+        }
+      },
+      "-OYA6U4zvWXqx5iSBnuL": {
+        "img1": "https://i.supaimg.com/f171652d-da22-490f-90cf-0b07a2bb298b.png",
+        "name1": "Flower Fairy",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-ObQVutPcT6Q-z12E2oF": "https://www.dropbox.com/scl/fi/674ium7lx6r4t6amtxi10/Rafaela-Chrismast-Epic.zip?rlkey=7rw1xg4rc3m9rlq4cwsrr69pr&st=3r4f1nly&dl=1",
+          "-ObQVutR8Yf14FWuPeN6": "https://www.dropbox.com/scl/fi/4oog4h06xjrcuu5h9j6u1/Rafaela-Lunar-Epic.zip?rlkey=hvzgklh1i8yfrp0ijtnwtg0n8&st=g7wz5g1q&dl=1"
+        }
+      },
+      "-OYA6Z_qXlQ2_s1aXWwo": {
+        "img1": "https://i.supaimg.com/f85d7ba4-384b-4b37-8185-a96f819e46e5.png",
+        "name1": "Biomedic",
+        "tag1": "https://i.supaimg.com/1005a0ba-8f15-4e15-962c-0d3b51cea3e4.png",
+        "type1": "MPL",
+        "type_links": {
+          "-ObQW-V4RhpqxNADCgEN": "https://www.dropbox.com/scl/fi/ytrkiuokcu74p8t6ns5el/Rafaela-Chrismast-MPL.zip?rlkey=hz8qsltgep5lntrwqg1z3pssc&st=9ehoamve&dl=1",
+          "-ObQW-V4RhpqxNADCgEO": "https://www.dropbox.com/scl/fi/coo0pcxyy5l4foofk4gla/Rafaela-Lunar-MPL.zip?rlkey=q9y7n04i190mv059krp2udcil&st=ywqj5h7k&dl=1"
+        }
+      },
+      "-OYA6czubbjl_RL6k3Zb": {
+        "img1": "https://i.supaimg.com/6ee00986-d4dd-4e78-a333-8a190b588c54.png",
+        "name1": "S.A.B.E.R. Savior",
+        "tag1": "https://i.supaimg.com/92f02b44-3f74-41a2-88c8-67022fc138d3.png",
+        "type1": "S.A.B.E.R.",
+        "type_links": {
+          "-ObQW7GPOkSJ0Cc_uiE3": "https://www.dropbox.com/scl/fi/2ubb1m3p05872wxmrcetw/Rafaela-Chrismast-Saber.zip?rlkey=eymj2vw5f8077bogdxjhghyg8&st=d8vzz944&dl=1",
+          "-ObQW7GS96AejGaMFt-_": "https://www.dropbox.com/scl/fi/z81kvvws3b7p47gv9spgq/Rafaela-Lunar-SABER.zip?rlkey=bwcf2b9sc85zqnde3xziyutnh&st=no4b0ugw&dl=1"
+        }
+      },
+      "-OYA6gu6y8ID7p0Yg-ly": {
+        "img1": "https://i.supaimg.com/b4fca6d2-be6c-46b8-8286-f8bcf44a6fdf.png",
+        "name1": "Angelic Sonata",
+        "tag1": "https://i.supaimg.com/3ecf7426-2dc7-43fe-ba77-d698e4d38341.png",
+        "type1": "Christmas",
+        "type_links": {
+          "-ObQVzCjZPW4kxydClET": "unavailable",
+          "-ObQVzCkqj-Durap2eoN": "https://www.dropbox.com/scl/fi/t8u55c5esf8bnfybpfysk/Rafaela-Lunar-Christmas.zip?rlkey=iz0vq9mn5jz407ffs563sms1i&st=ukof7v4o&dl=1"
+        }
+      },
+      "-OYA6lzP1rr7ZcqUza7J": {
+        "img1": "https://i.supaimg.com/3dbe4f5d-a02e-45b6-9ada-6b8f6302417b.png",
+        "name1": "Seraphic Selfie",
+        "tag1": "https://i.supaimg.com/6746b37a-a011-4ca1-b4c5-528827fa6601.png",
+        "type1": "All Star",
+        "type_links": {
+          "-ObQVo_v5tiNCY23eMew": "https://www.dropbox.com/scl/fi/8wmx2hf22xqddom2h99gv/Rafaela-Chrismast-Allstar.zip?rlkey=v3i36vpjgrcgkrjdhzm6u3gg4&st=0g3oru96&dl=1",
+          "-ObQVo_v5tiNCY23eMex": "https://www.dropbox.com/scl/fi/8vuyalyjxm8tr87f7wplf/Rafaela-Lunar-Allstar.zip?rlkey=2vzmj7u7jzs3qtdmb9l1w3r3f&st=qk48tnv0&dl=1"
+        }
+      },
+      "-OYA6sQhvb-Ql1x6pniX": {
+        "img1": "https://i.supaimg.com/18a1dd4a-42ca-47c9-a26d-2b274f902ee2.png",
+        "name1": "Bloom of Abundance",
+        "tag1": "https://i.supaimg.com/419663c3-95ff-4fb1-b0bc-8c08a427be05.png",
+        "type1": "Lunar Fest",
+        "type_links": {
+          "-ObQVxRlAlg866vjwp5m": "https://www.dropbox.com/scl/fi/mgnb74miih2k3c894g4my/Rafaela-Chrismast-Lunar-Fest.zip?rlkey=yxzmi83ubkqop4iduln6mcrqx&st=xswrm7fd&dl=1",
+          "-ObQVxRmkgguI2qKqdFg": "unavailable"
+        }
+      },
+      "-ObQWmUOtKALMQyn4WEm": {
+        "img1": "https://i.supaimg.com/dafcbc36-68d1-4057-a857-8c6e525c5b28.png",
+        "name1": "Star Chaser",
+        "tag1": "https://i.supaimg.com/53115848-90f7-44e1-98b3-4ca0d2e3339a.png",
+        "type1": "Season 18",
+        "type_links": {
+          "-ObQWq497wqTltE3R0mE": "https://www.dropbox.com/scl/fi/wybodifnjnr5t74ovf2ld/Rafaela-Chrismast-Season.zip?rlkey=aaqnvlp3wqz2tpn25xywwkk4y&st=fn0i3trn&dl=1",
+          "-ObQWq4BsCAom0PuQ3rF": "https://www.dropbox.com/scl/fi/lt21vruq5mhnn8fskaze4/Rafaela-Lunar-Season.zip?rlkey=kcrh4qy278dxx8neq4wn9f3wa&st=6i8vzygz&dl=1"
+        }
+      }
+    },
+    "Skins": {
+      "-ObQVlZzF9E30n_RSj5c": {
+        "img2": "https://i.supaimg.com/b4fca6d2-be6c-46b8-8286-f8bcf44a6fdf.png",
+        "name2": "Angelic Sonata",
+        "tag2": "https://i.supaimg.com/3ecf7426-2dc7-43fe-ba77-d698e4d38341.png",
+        "type2": "Christmas"
+      },
+      "-ObQVm2KrVoyGeux1Sco": {
+        "img2": "https://i.supaimg.com/18a1dd4a-42ca-47c9-a26d-2b274f902ee2.png",
+        "name2": "Bloom of Abundance",
+        "tag2": "https://i.supaimg.com/419663c3-95ff-4fb1-b0bc-8c08a427be05.png",
+        "type2": "Lunar Fest"
+      }
+    },
+    "img": "https://i.supaimg.com/d5911c4e-1ff3-4e04-82a7-f7c9827784e9.png",
+    "name": "Rafaela "
+  },
+  "Diggie": {
+    "Replacements": {
+      "-OYA77FJOvveAgvhB9Wd": {
+        "img1": "https://i.supaimg.com/bbbdea8a-4332-4bad-8fe0-73c508f4fad0.png",
+        "name1": "Timekeeper",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-O_kRv2XKEYMWHQ2eQBE": "https://github.com/injctr/large/raw/main/Diggie/Epic/Diggie%20Epic%20-%20Default.zip"
+        }
+      },
+      "-OYA7ADLmIMQMf5Fqf8C": {
+        "img1": "https://i.supaimg.com/983dd08e-f7b3-4b44-aea4-66cc8822d949.png",
+        "name1": "Pigeoneer",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-O_kRsk0hiFzgT7lEd_x": "https://github.com/injctr/large/raw/main/Diggie/Epic/Diggie%20Epic%20-%20Basic.zip"
+        }
+      },
+      "-OYA7EY_aXASXbaTcdWP": {
+        "img1": "https://i.supaimg.com/d227c83e-ff3c-492e-9585-d49892c78164.png",
+        "name1": "Constellation",
+        "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+        "type1": "Special",
+        "type_links": {
+          "-O_kS1T-K8wqpTih-076": "https://github.com/injctr/large/raw/main/Diggie/Epic/Diggie%20Epic%20-%20Special.zip"
+        }
+      },
+      "-OYA7JOJzb42Vf1Dtlq7": {
+        "img1": "https://i.supaimg.com/08b1861c-33aa-483f-95d4-ef80b734ce3b.png",
+        "name1": "Circus Clown",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-O_kRxPy0NfSOzV8neuL": "https://github.com/injctr/large/raw/main/Diggie/Epic/Diggie%20Epic%20-%20Elite.zip"
+        }
+      },
+      "-OYA7NFC9X1-zibr2N38": {
+        "img1": "https://i.supaimg.com/cf6cef74-5771-468c-b6da-38b627a7c52a.png",
+        "name1": "Fairytaler",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-O_kRzudLWt_SPWox6a3": "unavailable"
+        }
+      },
+      "-OYA7Su5jyXnYzh5mnJv": {
+        "img1": "https://i.supaimg.com/7a636855-cce2-4920-95e9-f59524f726fb.png",
+        "name1": "Underwood Steward",
+        "tag1": "https://i.supaimg.com/8ee20e1b-a254-40f4-8114-e477269d2896.png",
+        "type1": "Season 32",
+        "type_links": {
+          "-O_kRzudLWt_SPWox6a3": "https://github.com/injctr/large/raw/main/Diggie/Epic/Diggie%20Epic%20-%20Season.zip"
+        }
+      }
+    },
+    "Skins": {
+      "-O_kRpzK6MZHmnYuvd3n": {
+        "img2": "https://i.supaimg.com/cf6cef74-5771-468c-b6da-38b627a7c52a.png",
+        "name2": "Fairytaler",
+        "tag2": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type2": "Epic"
+      }
+    },
+    "img": "https://i.supaimg.com/bbbdea8a-4332-4bad-8fe0-73c508f4fad0.png",
+    "name": "Diggie"
+  },
+  "Kaja": {
+    "Replacements": {
+      "-OYA7jRoGb9_P3IKVs3e": {
+        "img1": "https://i.supaimg.com/74a6b3c7-7845-4367-8517-2d0d95c1c1d0.png",
+        "name1": "Nazar King",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7h9b2eeY2YtWshZoN": "https://www.dropbox.com/scl/fi/bc89hxp0yueoo9tikd97v/Kaja-Epic-Default.zip?rlkey=kzd17qhesplavwr5kszd1ycel&st=l803wtbu&dl=1"
+        }
+      },
+      "-OYA7lem27zUSMy3Jek7": {
+        "img1": "https://i.supaimg.com/eada3f02-61c8-4dbd-abde-6fbab505be18.png",
+        "name1": "Commandment",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Of7h7ffJLsWzB_HiMAx": "https://www.dropbox.com/scl/fi/s9uflzpwhgll1lpfott3e/Kaja-Epic-Basic.zip?rlkey=6xusqxrsfp78u4zm2u026665h&st=ehc6kzvs&dl=1"
+        }
+      },
+      "-OYA7qIfcdriQUQLmqmI": {
+        "img1": "https://i.supaimg.com/d852ca64-bbc5-48ae-9db9-509491790f91.png",
+        "name1": "Kaminari",
+        "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+        "type1": "Starlight 2019",
+        "type_links": {
+          "-Of7h6v0DdDNfSy5fO3m": "unavailable"
+        }
+      },
+      "-OYA7u-uP-NtROZaoK5Q": {
+        "img1": "https://i.supaimg.com/a0eda283-f035-4546-b7e0-a7b287e4934b.png",
+        "name1": "Horror Whiplash",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-Of7h6TIHECFsY_PB0Ek": "unavailable"
+        }
+      },
+      "-OYA7xR3jaZu2IXqAaOm": {
+        "img1": "https://i.supaimg.com/d3ad4a74-7368-487d-b5b3-28888ae679a3.png",
+        "name1": "Skyblocker",
+        "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+        "type1": "Luckybox",
+        "type_links": {
+          "-Of7h5l2LZk-dfizsScF": "unavailable"
+        }
+      },
+      "-OYA825_X8yyL32veZ3y": {
+        "img1": "https://i.supaimg.com/7f2624e8-f4c6-49fa-ac75-b7fcb13de242.png",
+        "name1": "Crow Magician",
+        "tag1": "https://i.supaimg.com/1864d44e-e210-4cb2-bd25-49bd0204f52e.png",
+        "type1": "Season 20",
+        "type_links": {
+          "-Of7h5IJgCDTALTyQth7": "unavailable"
+        }
+      },
+      "-OYA85zm76JRDGQhEoVY": {
+        "img1": "https://i.supaimg.com/2375198f-f374-4d0e-bf27-86c88b5040d2.png",
+        "name1": "Inferno Taskmaster",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-Of7h4KDalZFY0PFxMav": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7gkNeNIQqG75LEdmw": {
+        "img2": "https://i.supaimg.com/2375198f-f374-4d0e-bf27-86c88b5040d2.png",
+        "name2": "Inferno Taskmaster",
+        "tag2": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type2": "Epic"
+      }
+    },
+    "img": "https://i.supaimg.com/74a6b3c7-7845-4367-8517-2d0d95c1c1d0.png",
+    "name": "Kaja"
+  },
+  "Carmilla": {
+    "Replacements": {
+      "-OYA8R2cYye2qFWs6Oee": {
+        "img1": "https://i.supaimg.com/684a1b15-1a31-4f63-8f58-cee2fe68200b.png",
+        "name1": "Shadow of Twilight",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7bRCBPEmEB6BbuAcX": "https://github.com/injctr/large/raw/main/Carmilla/Epic/Carmilla%20Epic%20-%20Default.zip"
+        }
+      },
+      "-OYA8TQoNFV_dnPmCNB3": {
+        "img1": "https://i.supaimg.com/71395579-dbfe-46c4-a9ba-4dc349a8466c.png",
+        "name1": "Wisteria Countess",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Of7bP0qlensxjima5F0": "https://github.com/injctr/large/raw/main/Carmilla/Epic/Carmilla%20Epic%20-%20Basic.zip"
+        }
+      },
+      "-OYA8Xi9ddxipkE8Qtfn": {
+        "img1": "https://i.supaimg.com/560016aa-6a4a-4e86-8ce9-3cbb8c95ca0d.png",
+        "name1": "Magician Girl",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite",
+        "type_links": {
+          "-Of7bT_12-4WhIPRASHw": "unavailable"
+        }
+      },
+      "-OYA8adwHKyf_FAZtp5K": {
+        "img1": "https://i.supaimg.com/aa05dd45-1de8-4add-8df6-4c3fac189433.png",
+        "name1": "Phantom Countess",
+        "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
+        "type1": "Valentine",
+        "type_links": {
+          "-Of7bTwxZ3gJGFyu0a2y": "unavailable"
+        }
+      },
+      "-OYA8e0WrNeVXaBA54Qe": {
+        "img1": "https://i.supaimg.com/a681eeae-444c-4888-9c94-47fbf5b2a68f.png",
+        "name1": "Astral Arcana",
+        "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type1": "Epic",
+        "type_links": {
+          "-Of7bUWMqCtwBGBWuIhy": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7bN_8nPCdoj-FnyTm": {
+        "img2": "https://i.supaimg.com/a681eeae-444c-4888-9c94-47fbf5b2a68f.png",
+        "name2": "Astral Arcana",
+        "tag2": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
+        "type2": "Epic"
+      }
+    },
+    "img": "https://i.supaimg.com/684a1b15-1a31-4f63-8f58-cee2fe68200b.png",
+    "name": "Carmilla"
+  },
+  "Kalea": {
+    "Replacements": {
+      "-OYA8u49BEMroCOeDnZ5": {
+        "img1": "https://i.supaimg.com/00157c42-22d0-4699-8e98-826a5fe7fb97.png",
+        "name1": "Surging Wave",
+        "tag1": "",
+        "type1": "Default",
+        "type_links": {
+          "-Of7hMRhx59n4EcS3pwa": "https://www.dropbox.com/scl/fi/ogrsvgy8oerhste9qb585/Kalea-Sakura-Default.zip?rlkey=cojlel6sktcxg5upacv2o4zp6&st=zxyfv8a1&dl=1"
+        }
+      },
+      "-OYA8wdUJ80WyDy97u3T": {
+        "img1": "https://i.supaimg.com/b8acdb38-e944-4b2a-8086-9161b19d7679.png",
+        "name1": "Shimmering Waves",
+        "tag1": "",
+        "type1": "Basic",
+        "type_links": {
+          "-Of7hKchIV7aSGw4QEuj": "https://www.dropbox.com/scl/fi/vjk36uf5fxnishoky6w8n/Kalea-Sakura-Basic.zip?rlkey=c3r3o5rmhniepb807oscdo8d6&st=ypjbb2dh&dl=1"
+        }
+      },
+      "-OYA91pnIjBDfcPFVuUz": {
+        "img1": "https://i.supaimg.com/9ac88d4b-0c40-4b04-8d38-4e0529fb01e2.png",
+        "name1": "Sakura Haruno",
+        "tag1": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
+        "type1": "Naruto",
+        "type_links": {
+          "-Of7hJy_UFE2uP9Ov01v": "unavailable"
+        }
+      }
+    },
+    "Skins": {
+      "-Of7hJFM3GlPvhMjsWVI": {
+        "img2": "https://i.supaimg.com/9ac88d4b-0c40-4b04-8d38-4e0529fb01e2.png",
+        "name2": "Sakura Haruno",
+        "tag2": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
+        "type2": "Naruto"
+      }
+    },
+    "img": "https://i.supaimg.com/00157c42-22d0-4699-8e98-826a5fe7fb97.png",
+    "name": "Kalea"
+  },
+  "Chip": {
+    "Replacements": {
+      "-OYABUpm3VNb1V03TbOl": {
+        "img1": "https://i.supaimg.com/6dbae91c-4604-4647-bbb5-a5bec5bffc92.png",
+        "name1": "Phase Technician",
+        "tag1": "",
+        "type1": "Default"
+      },
+      "-OYABX27WBCl073S5Wai": {
+        "img1": "https://i.supaimg.com/5396986d-6e87-4c1c-a6cb-724c9edbd7d4.png",
+        "name1": "Nexus Engineer",
+        "tag1": "",
+        "type1": "Basic"
+      },
+      "-OYABbRKFBjqfwaEpG2j": {
+        "img1": "https://i.supaimg.com/fc22b1d5-276e-444f-ba89-ece7b1cdd7a8.png",
+        "name1": "Badlands Hiatus",
+        "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
+        "type1": "Elite"
+      }
+    },
+    "img": "https://i.supaimg.com/6dbae91c-4604-4647-bbb5-a5bec5bffc92.png",
+    "name": "Chip"
+  }
+}
