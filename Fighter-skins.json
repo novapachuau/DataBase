@@ -2,7 +2,7 @@
   {
     "skin_name": "Backup",
     "name": "Julian",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
     "script": "https://github.com/tin0521/ff/raw/main/julian_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -38,7 +38,7 @@
   {
     "name": "Balmond",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350",
     "script": "https://github.com/tin0521/ff/raw/main/balmond_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -81,7 +81,7 @@
   {
     "name": "Alucard",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
     "script": "https://github.com/zetsuya05/january/raw/main/alucard_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -145,7 +145,7 @@
   {
     "name": "Bane",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20240605133609",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20240605133609",
     "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/bane_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -188,7 +188,7 @@
   {
     "name": "Zilong",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20240602234915",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20240602234915",
     "script": "https://github.com/tin0521/ff/raw/refs/heads/main/zilong_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -252,7 +252,7 @@
   {
     "name": "Freya",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20231230160944",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20231230160944",
     "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/freya%20backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -302,7 +302,7 @@
   {
     "name": "Chou",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
     "script": "https://github.com/tin0521/ff/raw/refs/heads/main/chou_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -387,7 +387,7 @@
   {
     "name": "Sun",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20240605114146",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20240605114146",
     "script": "https://github.com/tin0521/Oct2025/raw/main/sun_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -437,7 +437,7 @@
   {
     "name": "Alpha",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
     "script": "https://github.com/tin0521/ff/raw/main/alpha_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -487,7 +487,7 @@
   {
     "name": "Ruby",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20240612224841",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20240612224841",
     "script": "https://github.com/tin0521/ff/raw/main/ruby_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -558,7 +558,7 @@
   {
     "name": "Lapu-Lapu",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
     "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lapu%20backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -601,7 +601,7 @@
   {
     "name": "Roger",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20220525165125",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20220525165125",
     "script": "https://github.com/tin0521/ff/raw/main/roger_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -665,7 +665,7 @@
   {
     "name": "Argus",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
     "script": "https://github.com/tin0521/ff/raw/main/argus_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -701,7 +701,7 @@
   {
     "name": "Jawhead",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20240501074636",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20240501074636",
     "script": "https://github.com/tin0521/ff/raw/main/jawhead_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -765,7 +765,7 @@
   {
     "name": "Martis",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
     "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/martis_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -815,7 +815,7 @@
   {
     "name": "Aldous",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20240501075708",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20240501075708",
     "script": "https://github.com/tin0521/neww/raw/main/aldous_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -872,7 +872,7 @@
   {
     "name": "Leomord",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
     "script": "https://github.com/tin0521/ff/raw/main/leomord_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -929,7 +929,7 @@
   {
     "name": "Thamuz",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
     "script": "https://github.com/tin0521/ff/raw/main/thamuz_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -965,7 +965,7 @@
   {
     "name": "Minsitthar",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
     "script": "https://github.com/tin0521/ff/raw/main/minsithar_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -994,7 +994,7 @@
   {
     "name": "Badang",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
     "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/badang_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1044,7 +1044,7 @@
   {
     "name": "Guinevere",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
     "script": "https://github.com/tin0521/ff/raw/main/guinevere_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1122,7 +1122,7 @@
   {
     "name": "Terizla",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20220525165940",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20220525165940",
     "script": "https://github.com/tin0521/ff/raw/main/terizla_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1151,7 +1151,7 @@
   {
     "name": "X.Borg",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20230826055048",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20230826055048",
     "script": "https://github.com/tin0521/ff/raw/main/xborg_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1201,7 +1201,7 @@
   {
     "name": "Dyrroth",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
     "script": "https://github.com/tin0521/ff/raw/main/dyroth_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1244,7 +1244,7 @@
   {
     "name": "Masha",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
     "script": "https://github.com/tin0521/ff/raw/main/masha_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1287,7 +1287,7 @@
   {
     "name": "Yu Zhong",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746",
     "script": "https://github.com/tin0521/ff/raw/main/yuzhong_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1330,7 +1330,7 @@
   {
     "name": "Khaleed",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest?cb=20220525170258",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest?cb=20220525170258",
     "script": "https://github.com/tin0521/ff/raw/main/khaleed_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1345,7 +1345,7 @@
   {
     "name": "Paquito",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
     "script": "https://github.com/tin0521/Oct2025/raw/main/pacquito_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1409,7 +1409,7 @@
   {
     "name": "Phoveus",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143231",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143231",
     "script": "https://github.com/tin0521/ff/raw/main/phoveus_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1424,7 +1424,7 @@
   {
     "name": "Aulus",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
     "script": "https://github.com/missnapokita/june-2024/raw/main/aulos%20backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1460,7 +1460,7 @@
   {
     "name": "Yin",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20240122084641",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20240122084641",
     "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/yin_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1503,7 +1503,7 @@
   {
     "name": "Arlott",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
     "script": "https://github.com/tin0521/assassin/raw/main/arlott_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1525,7 +1525,7 @@
   {
     "name": "Cici",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png/revision/latest?cb=20240120070411",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png/revision/latest?cb=20240120070411",
     "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/cici_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
@@ -1554,7 +1554,7 @@
   {
     "name": "Silvanna",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133",
+    "image_backup": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133",
     "script": "https://github.com/tin0521/ff/raw/main/silvanna_backup.zip",
     "tag": "Backup",
     "role": "Fighter"
